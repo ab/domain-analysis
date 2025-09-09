@@ -40,14 +40,20 @@ if [ $# -lt 2 ] || [ $# -gt 3 ]; then
     cat >&2 <<EOM
 usage: $0 DOMAIN_LIST WHOIS_TMPDIR [SKIP_N]
 EOM
+    exit 1
 fi
+
 domain_list=$1
 whois_tmpdir=$2
 skip="${3-0}"
 
 trap 'echo ERROR' EXIT
 
-mkdir -vp "$whois_tmpdir"
+if type -P gmkdir >/dev/null; then
+    gmkdir -vp "$whois_tmpdir" >&2
+else
+    mkdir -vp "$whois_tmpdir" >&2
+fi
 
 echo >&2 "Reading domains from $domain_list"
 readarray -t domains < "$domain_list"
@@ -140,7 +146,7 @@ parse_results() {
         registrar_name=
 
         if [ -s "$whois_tmpdir/$domain.txt" ]; then
-            registrar=$(grep -m 1 -i "registrar url:" < "$whois_tmpdir/$domain.txt") || {
+            registrar=$(grep -m 1 -i "registrar url:" < "$whois_tmpdir/$domain.txt" | cut -d: -f2- | tr -d '\r') || {
                 registrar="Error: bad whois"
             }
         elif [[ $domain == *.gov ]]; then
