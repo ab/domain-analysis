@@ -1,500 +1,500 @@
-1	google.com	http://www.markmonitor.com	MarkMonitor Inc.
-2	googleapis.com	http://www.markmonitor.com	MarkMonitor Inc.
-3	kxulsrwcq.com	http://www.dynadot.com	Dynadot Inc
-4	microsoft.com	http://www.markmonitor.com	MarkMonitor Inc.
-5	apple.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-6	facebook.com	http://www.registrarsafe.com	RegistrarSafe, LLC
-7	blockdh100b.net	http://www.namecheap.com	NameCheap, Inc.
-8	blockdh100c.co	 http://www.namecheap.com	
-9	akadns.net	http://www.markmonitor.com	MarkMonitor Inc.
-10	gstatic.com	http://www.markmonitor.com	MarkMonitor Inc.
-11	amazonaws.com	http://www.markmonitor.com	MarkMonitor Inc.
-12	root-servers.net	http://networksolutions.com	Network Solutions, LLC
-13	aaplimg.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-14	amazon.com	http://www.markmonitor.com	MarkMonitor Inc.
-15	office.com	http://www.markmonitor.com	MarkMonitor Inc.
-16	example.com	Error: no URL in RDAP	RESERVED-Internet Assigned Numbers Authority
-17	akamai.net	http://www.markmonitor.com	MarkMonitor Inc.
-18	trafficmanager.net	http://www.markmonitor.com	MarkMonitor Inc.
-19	tiktokcdn.com	http://www.gandi.net	Gandi SAS
-20	azure.com	http://www.markmonitor.com	MarkMonitor Inc.
-21	akamaiedge.net	http://www.markmonitor.com	MarkMonitor Inc.
-22	cloudfront.net	http://www.markmonitor.com	MarkMonitor Inc.
-23	tiktokv.com	http://www.gandi.net	Gandi SAS
-24	googlevideo.com	http://www.markmonitor.com	MarkMonitor Inc.
-25	ntp.org	https://opensrs.rdap.tucows.com	Tucows Domains Inc.
-26	instagram.com	http://www.registrarsafe.com	RegistrarSafe, LLC
-27	netflix.com	http://www.markmonitor.com	MarkMonitor Inc.
-28	apple-dns.net	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-29	whatsapp.net	http://www.registrarsafe.com	RegistrarSafe, LLC
-30	icloud.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-31	office.net	http://www.markmonitor.com	MarkMonitor Inc.
-32	transmissionbt.com	http://www.register.ca	Register.ca Inc.
-33	rsiftpgjm.com	http://www.dynadot.com	Dynadot Inc
-34	mikrotik.com	http://www.publicdomainregistry.com	PDR Ltd. d/b/a PublicDomainRegistry.com
-35	live.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-36	fbcdn.net	http://www.registrarsafe.com	RegistrarSafe, LLC
-37	wvdbozpfc.com	http://www.dynadot.com	Dynadot Inc
-38	googleusercontent.com	http://www.markmonitor.com	MarkMonitor Inc.
-39	baidu.com	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
-40	quad9.net	http://www.key-systems.net	Key-Systems GmbH
-41	youtube.com	http://www.markmonitor.com	MarkMonitor Inc.
-42	doubleclick.net	http://www.markmonitor.com	MarkMonitor Inc.
-43	kwai-pro.com	http://www.godaddy.com	GoDaddy.com, LLC
-44	fastly.net	http://www.markmonitor.com	MarkMonitor Inc.
-45	rqsglwdvh.com	http://www.namecheap.com	NameCheap, Inc.
-46	xmqkychtb.com	http://www.dynadot.com	Dynadot Inc
-47	dns.google	http://www.markmonitor.com	MarkMonitor Inc.
-48	bing.com	http://www.markmonitor.com	MarkMonitor Inc.
-49	bldrdoc.gov	 https://get.gov	
-50	wikipedia.org	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
-51	googlesyndication.com	http://www.markmonitor.com	MarkMonitor Inc.
-52	msftncsi.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-53	snapchat.com	http://www.markmonitor.com	MarkMonitor Inc.
-54	spotify.com	http://www.abion.com	Abion AB
-55	msn.com	http://www.markmonitor.com	MarkMonitor Inc.
-56	ytimg.com	http://www.markmonitor.com	MarkMonitor Inc.
-57	windows.net	http://www.markmonitor.com	MarkMonitor Inc.
-58	tiktokcdn-us.com	http://www.gandi.net	Gandi SAS
-59	gvt2.com	http://www.markmonitor.com	MarkMonitor Inc.
-60	kwai.net	http://www.godaddy.com	GoDaddy.com, LLC
-61	msftconnecttest.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-62	ui.com	http://www.godaddy.com	GoDaddy.com, LLC
-63	douyincdn.com	http://www.ename.net	eName Technology Co., Ltd.
-64	appsflyersdk.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-65	roblox.com	http://www.markmonitor.com	MarkMonitor Inc.
-66	sharepoint.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-67	yahoo.com	http://www.markmonitor.com	MarkMonitor Inc.
-68	amazon-adsystem.com	http://www.markmonitor.com	MarkMonitor Inc.
-69	samsungcloudsolution.com	http://www.whois.co.kr	Whois Corp.
-70	cloudflare-dns.com	http://www.cloudflare.com	Cloudflare, Inc.
-71	cloudflare.net	http://www.cloudflare.com	Cloudflare, Inc.
-72	kwaipros.com	http://www.godaddy.com	GoDaddy.com, LLC
-73	ax-msedge.net	http://www.markmonitor.com	MarkMonitor Inc.
-74	microsoftonline.com	http://www.markmonitor.com	MarkMonitor Inc.
-75	office365.com	http://www.markmonitor.com	MarkMonitor Inc.
-76	outlook.com	http://www.markmonitor.com	MarkMonitor Inc.
-77	cloudflare.com	http://www.cloudflare.com	Cloudflare, Inc.
-78	digicert.com	http://www.markmonitor.com	MarkMonitor Inc.
-79	googleadservices.com	http://www.markmonitor.com	MarkMonitor Inc.
-80	checkpoint.com	http://www.DomainTheNet.com	Domain The Net Technologies Ltd.
-81	cdn77.org	https://rdap.regtons.com	Gransy, s.r.o.
-82	cmidphnvq.com	http://www.namecheap.com	NameCheap, Inc.
-83	rpqihexdb.com	http://www.namecheap.com	NameCheap, Inc.
-84	verkada.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-85	aws.dev	http://www.comlaude.com	Nom-IQ Limited dba Com Laude
-86	app-measurement.com	http://www.markmonitor.com	MarkMonitor Inc.
-87	unity3d.com	http://www.markmonitor.com	MarkMonitor Inc.
-88	steamserver.net	http://www.markmonitor.com	MarkMonitor Inc.
-89	applovin.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-90	ezdrtpvsa.com	http://www.namecheap.com	NameCheap, Inc.
-91	capcutapi.com	http://www.gandi.net	Gandi SAS
-92	skype.com	http://www.markmonitor.com	MarkMonitor Inc.
-93	a2z.com	http://www.markmonitor.com	MarkMonitor Inc.
-94	tiktokv.us	 whois.gandi.net	
-95	shalltry.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-96	app-analytics-services.com	http://www.markmonitor.com	MarkMonitor Inc.
-97	edgekey.net	http://www.markmonitor.com	MarkMonitor Inc.
-98	catonetworks.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-99	cdninstagram.com	http://www.registrarsafe.com	RegistrarSafe, LLC
-100	qq.com	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
-101	edgesuite.net	http://www.markmonitor.com	MarkMonitor Inc.
-102	nist.gov	 https://get.gov	
-103	mjvymdakr.com	http://www.namecheap.com	NameCheap, Inc.
-104	whatsapp.com	http://www.registrarsafe.com	RegistrarSafe, LLC
-105	windows.com	http://www.markmonitor.com	MarkMonitor Inc.
-106	vivoglobal.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-107	cdn-apple.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-108	oqton.ai	https://rdap-nameweb.biz/	NameWeb BVBA
-109	khidmatdev.ca	Error: no URL in RDAP	Open Provider Inc.
-110	ggpht.com	http://www.markmonitor.com	MarkMonitor Inc.
-111	themoviedb.org	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
-112	adnxs.com	http://www.markmonitor.com	MarkMonitor Inc.
-113	humeysha.com	http://www.DropCatch1066.com	DropCatch.com 1066 LLC
-114	adguard-vpn.online	https://101domain.com/	101domain GRS Limited
-115	nwamfdclb.com	http://www.dynadot.com	Dynadot Inc
-116	samsungqbe.com	http://www.whois.co.kr	Whois Corp.
-117	doubleverify.com	http://gcd.com	GoDaddy Corporate Domains, LLC
-118	googletagmanager.com	http://www.markmonitor.com	MarkMonitor Inc.
-119	gvt1.com	http://www.markmonitor.com	MarkMonitor Inc.
-120	xiaomi.com	http://www.ename.net	eName Technology Co., Ltd.
-121	trendmicro.com	http://www.godaddy.com	GoDaddy.com, LLC
-122	windowsupdate.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-123	anydesk.com	http://www.hetzner.com	Hetzner Online GmbH
-124	avast.com	http://www.markmonitor.com	MarkMonitor Inc.
-125	yandex.net	http://www.safenames.net	SafeNames Ltd.
-126	google-analytics.com	http://www.markmonitor.com	MarkMonitor Inc.
-127	adobe.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-128	t.me	 http://www.godaddy.com/domains/search.aspx?ci=8990	
-129	shodan.io	 https://www.gandi.net	
-130	amazon.dev	http://www.comlaude.com	Nom-IQ Limited dba Com Laude
-131	amazonalexa.com	http://www.markmonitor.com	MarkMonitor Inc.
-132	csgo.com	http://www.uniregistry.com	GoDaddy Online Services Cayman Islands Ltd.
-133	tiktokcdn-eu.com	http://www.gandi.net	Gandi SAS
-134	akamaized.net	http://www.markmonitor.com	MarkMonitor Inc.
-135	rubiconproject.com	http://www.godaddy.com	GoDaddy.com, LLC
-136	slack.com	http://www.markmonitor.com	MarkMonitor Inc.
-137	criteo.com	http://www.gandi.net	Gandi SAS
-138	msidentity.com	http://www.markmonitor.com	MarkMonitor Inc.
-139	mozilla.com	http://www.markmonitor.com	MarkMonitor Inc.
-140	azurefd.net	http://www.markmonitor.com	MarkMonitor Inc.
-141	meraki.com	http://www.markmonitor.com	MarkMonitor Inc.
-142	dropbox.com	http://www.markmonitor.com	MarkMonitor Inc.
-143	tiktokv.eu	Error: bad whois	
-144	adobe.io	 http://www.comlaude.com	
-145	bytefcdn-oversea.com	http://www.gandi.net	Gandi SAS
-146	vungle.com	http://www.moniker.com	Moniker Online Services LLC
-147	taboola.com	http://www.ascio.com	Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA
-148	aliyuncs.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-149	pangle.io	 https://www.gandi.net	
-150	sentry.io	 https://www.gandi.net	
-151	cloud.microsoft	https://rdap.markmonitor.com/rdap/	MarkMonitor Inc.
-152	onmicrosoft.com	http://www.markmonitor.com	MarkMonitor Inc.
-153	bqnmxkyse.com	http://www.namecheap.com	NameCheap, Inc.
-154	webex.com	http://www.markmonitor.com	MarkMonitor Inc.
-155	samsung.com	http://www.whois.co.kr	Whois Corp.
-156	zoom.us	 www.markmonitor.com	
-157	pubmatic.com	http://www.godaddy.com	GoDaddy.com, LLC
-158	msedge.net	http://www.markmonitor.com	MarkMonitor Inc.
-159	linkedin.com	http://www.markmonitor.com	MarkMonitor Inc.
-160	rbxcdn.com	http://www.markmonitor.com	MarkMonitor Inc.
-161	svc.ms	Error: no URL in RDAP	MarkMonitor
-162	adobestats.io	 http://www.comlaude.com	
-163	edge.apple	https://rdap.cscglobal.com/dbs/rdap-api/v1/	CSC Corporate Domains, Inc.
-164	sc-gw.com	http://www.markmonitor.com	MarkMonitor Inc.
-165	roku.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-166	s3pweb.io	 https://www.gandi.net	
-167	gadf99632rm.xyz	http://www.dynadot.com	Dynadot LLC
-168	azureedge.net	http://www.markmonitor.com	MarkMonitor Inc.
-169	telegram.space	https://www.godaddy.com/	Go Daddy, LLC
-170	yandex.ru	Error: bad whois	
-171	ttvnw.net	http://www.markmonitor.com	MarkMonitor Inc.
-172	shopeemobile.com	http://www.godaddy.com	GoDaddy.com, LLC
-173	heytapdl.com	http://www.key-systems.net	Key-Systems GmbH
-174	safebrowsing.apple	https://rdap.cscglobal.com/dbs/rdap-api/v1/	CSC Corporate Domains, Inc.
-175	alibabadns.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-176	netgear.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-177	opendns.com	http://www.publicdomainregistry.com	PDR Ltd. d/b/a PublicDomainRegistry.com
-178	amazonvideo.com	http://www.markmonitor.com	MarkMonitor Inc.
-179	github.com	http://www.markmonitor.com	MarkMonitor Inc.
-180	fastly-edge.com	http://www.markmonitor.com	MarkMonitor Inc.
-181	mzstatic.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-182	tiktokrow-cdn.com	http://www.gandi.net	Gandi SAS
-183	gmail.com	http://www.markmonitor.com	MarkMonitor Inc.
-184	smartadserver.com	http://www.brandshelter.com	SafeBrands SAS
-185	obihai.com	http://www.markmonitor.com	MarkMonitor Inc.
-186	kaspersky.com	http://nic.ru	Regional Network Information Center, JSC dba RU-CENTER
-187	xinstall.top		阿里云计算有限公司
-188	miui.com	http://www.ename.net	eName Technology Co., Ltd.
-189	tiktok.com	http://www.gandi.net	Gandi SAS
-190	synology.com	http://www.godaddy.com	GoDaddy.com, LLC
-191	paloaltonetworks.com	http://www.markmonitor.com	MarkMonitor Inc.
-192	wsdvs.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-193	casalemedia.com	http://www.godaddy.com	GoDaddy.com, LLC
-194	atrustdns.com	http://wanwang.aliyun.com	Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
-195	reddit.com	http://www.markmonitor.com	MarkMonitor Inc.
-196	brave.com	http://www.namecheap.com	NameCheap, Inc.
-197	playstation.net	http://www.todaynic.com	Todaynic.com, Inc.
-198	yahoodns.net	http://www.markmonitor.com	MarkMonitor Inc.
-199	mail.ru	Error: bad whois	
-200	epicgames.com	http://www.markmonitor.com	MarkMonitor Inc.
-201	android.com	http://www.markmonitor.com	MarkMonitor Inc.
-202	chatgpt.com	http://www.markmonitor.com	MarkMonitor Inc.
-203	tp-link.com	http://www.1api.net	1API GmbH
-204	clarity.ms	Error: no URL in RDAP	MarkMonitor
-205	grammarly.com	http://www.godaddy.com	GoDaddy.com, LLC
-206	catonet.works	https://rdap.gandi.net/	Gandi SAS
-207	t-msedge.net	http://www.markmonitor.com	MarkMonitor Inc.
-208	adsrvr.org	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
-209	sophos.com	http://www.lexsynergy.com	Lexsynergy Limited
-210	nr-data.net	http://www.safenames.net	SafeNames Ltd.
-211	teamviewer.com	http://www.registrygate.com	RegistryGate GmbH
-212	adsafeprotected.com	http://www.markmonitor.com	MarkMonitor Inc.
-213	telegram.me	 http://www.godaddy.com/domains/search.aspx?ci=8990	
-214	eset.com	http://www.joker.com	CSL Computer Service Langenbach GmbH d/b/a joker.com
-215	yammer.com	http://www.markmonitor.com	MarkMonitor Inc.
-216	gwqdiljec.com	http://www.namecheap.com	NameCheap, Inc.
-217	firetvcaptiveportal.com	http://www.markmonitor.com	MarkMonitor Inc.
-218	ks-cdn.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-219	nflxso.net	http://www.markmonitor.com	MarkMonitor Inc.
-220	arubanetworks.com	http://www.markmonitor.com	MarkMonitor Inc.
-221	kaspersky-labs.com	http://nic.ru	Regional Network Information Center, JSC dba RU-CENTER
-222	heytapmobile.com	http://www.key-systems.net	Key-Systems GmbH
-223	gnzkfqmux.com	http://www.namecheap.com	NameCheap, Inc.
-224	hbtbank.com	http://www.godaddy.com	GoDaddy.com, LLC
-225	3gppnetwork.org	https://rdap.networksolutions.com/rdap	Network Solutions, LLC
-226	dual-s-msedge.net	http://cscdbs.com	CSC Corporate Domains, Inc.
-227	azurewebsites.net	http://www.markmonitor.com	MarkMonitor Inc.
-228	ubuntu.com	http://www.markmonitor.com	MarkMonitor Inc.
-229	bkafniqdz.com	http://www.dynadot.com	Dynadot Inc
-230	aadrm.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-231	scorecardresearch.com	http://www.markmonitor.com	MarkMonitor Inc.
-232	crashlytics.com	http://www.markmonitor.com	MarkMonitor Inc.
-233	cfahome.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-234	inmobi.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-235	static.microsoft	https://rdap.markmonitor.com/rdap/	MarkMonitor Inc.
-236	samsungcloud.com	http://www.whois.co.kr	Whois Corp.
-237	lencr.org	https://rdap.cloudflare.com/rdap/v1	Cloudflare, Inc.
-238	nflximg.com	http://www.markmonitor.com	MarkMonitor Inc.
-239	media.net	http://www.publicdomainregistry.com	PDR Ltd. d/b/a PublicDomainRegistry.com
-240	cdngslb.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-241	appsflyer.com	http://www.godaddy.com	GoDaddy.com, LLC
-242	launchdarkly.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-243	zebra.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-244	allawnos.com	http://www.key-systems.net	Key-Systems GmbH
-245	sc-cdn.net	http://www.markmonitor.com	MarkMonitor Inc.
-246	life360.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-247	openx.net	http://www.tucows.com	Tucows Domains Inc.
-248	rvmpro.com	http://www.godaddy.com	GoDaddy.com, LLC
-249	ttdns2.com	http://www.gandi.net	Gandi SAS
-250	avsxappcaptiveportal.com	http://www.markmonitor.com	MarkMonitor Inc.
-251	opera.com	http://www.NameWeb.biz	NameWeb BVBA
-252	mtgglobals.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-253	media-amazon.com	http://www.markmonitor.com	MarkMonitor Inc.
-254	bamgrid.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-255	easy4ipcloud.com	http://www.godaddy.com	GoDaddy.com, LLC
-256	pki.goog	http://www.markmonitor.com	MarkMonitor Inc.
-257	volcfcdndvs.com	http://wanwang.aliyun.com	Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
-258	discord.com	http://www.cloudflare.com	Cloudflare, Inc.
-259	mythad.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-260	qlivecdn.com	http://www.dnspod.cn	DNSPod, Inc.
-261	demdex.net	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-262	avcdn.net	http://www.markmonitor.com	MarkMonitor Inc.
-263	xboxlive.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-264	gviudclrb.com	http://www.namecheap.com	NameCheap, Inc.
-265	2mdn.net	http://www.markmonitor.com	MarkMonitor Inc.
-266	appcenter.ms	Error: no URL in RDAP	MarkMonitor
-267	proximus.be	Error: bad whois	
-268	icloud-content.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-269	twitter.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-270	oiavnqerfbassdfkvjb4324rllas.com	http://www.namecheap.com	NameCheap, Inc.
-271	tencent-cloud.net	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
-272	uisp.com	http://www.godaddy.com	GoDaddy.com, LLC
-273	goguardian.com	http://www.gandi.net	Gandi SAS
-274	ampproject.org	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
-275	byteoversea.net	http://www.gandi.net	Gandi SAS
-276	samsungcloudsolution.net	http://www.whois.co.kr	Whois Corp.
-277	adtrafficquality.google	http://www.markmonitor.com	MarkMonitor Inc.
-278	qcogmyhkd.com	http://www.namecheap.com	NameCheap, Inc.
-279	3lift.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-280	branch.io	 https://www.gandi.net	
-281	espn.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-282	scdn.co	 https://key-systems.net	
-283	tesla.services	https://rdap.markmonitor.com/rdap/	MarkMonitor Inc.
-284	basf.net	http://cscdbs.com	CSC Corporate Domains, Inc.
-285	ovh.net	http://www.ovh.com	OVH sas
-286	huntress.io	 http://registrar.amazon.com	
-287	telegram.org	https://rdap.godaddy.com/v1	GoDaddy.com, LLC
-288	weather.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-289	inner-active.mobi	https://rdap.godaddy.com/v1/	GoDaddy.com, LLC
-290	ring.com	http://www.markmonitor.com	MarkMonitor Inc.
-291	entrust.net	http://registrar.amazon.com	Amazon Registrar, Inc.
-292	gd34fdldh.xyz	http://www.dynadot.com	Dynadot LLC
-293	pinterest.com	http://www.markmonitor.com	MarkMonitor Inc.
-294	cspserver.net	http://www.whois.co.kr	Whois Corp.
-295	datto.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-296	steampowered.com	http://www.markmonitor.com	MarkMonitor Inc.
-297	nordvpn.com	http://www.EuroDNS.com	EuroDNS S.A.
-298	vk.com	http://nic.ru	Regional Network Information Center, JSC dba RU-CENTER
-299	ibyteimg.com	http://www.gandi.net	Gandi SAS
-300	google.com.br		
-301	wbx2.com	http://www.markmonitor.com	MarkMonitor Inc.
-302	nflxvideo.net	http://www.markmonitor.com	MarkMonitor Inc.
-303	bw9iawxl.com	http://www.pananames.com	URL Solutions, Inc.
-304	rocket-cdn.com	http://www.godaddy.com	GoDaddy.com, LLC
-305	google.cn	Error: bad whois	
-306	geotrust.com	http://www.markmonitor.com	MarkMonitor Inc.
-307	967sd1f.homes	http://www.dynadot.com	Dynadot LLC
-308	54.in-addr.arpa	Error: bad whois	
-309	kwai.com	http://www.godaddy.com	GoDaddy.com, LLC
-310	globo.com	http://www.1api.net	1API GmbH
-311	spotifycdn.com	http://www.abion.com	Abion AB
-312	grammarly.io	 http://www.godaddy.com/domains/search.aspx?ci=8990	
-313	telephony.goog	http://www.markmonitor.com	MarkMonitor Inc.
-314	ksyuncdn.com	http://www.markmonitor.com	MarkMonitor Inc.
-315	adaether.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-316	ys7.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-317	akamaihd.net	http://www.markmonitor.com	MarkMonitor Inc.
-318	viber.com	http://www.godaddy.com	GoDaddy.com, LLC
-319	twitch.tv	www.markmonitor.com	MarkMonitor, Inc.
-320	sharethrough.com	http://www.godaddy.com	GoDaddy.com, LLC
-321	mozilla.org	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
-322	userapi.com	http://nic.ru	Regional Network Information Center, JSC dba RU-CENTER
-323	bidswitch.net	http://www.gandi.net	Gandi SAS
-324	ln-msedge.net	http://www.markmonitor.com	MarkMonitor Inc.
-325	miwifi.com	http://www.ename.net	eName Technology Co., Ltd.
-326	zpath.net	http://www.markmonitor.com	MarkMonitor Inc.
-327	bytefcdn.com	http://www.ename.net	eName Technology Co., Ltd.
-328	bitdefender.net	http://www.EuroDNS.com	EuroDNS S.A.
-329	ap4r.com	http://www.godaddy.com	GoDaddy.com, LLC
-330	omniroot.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-331	aliyun.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-332	icanhazip.com	http://www.cloudflare.com	Cloudflare, Inc.
-333	taobao.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-334	swannsecurity.com	http://www.melbourneit.com.au	Netregistry Wholesale Pty Ltd
-335	twimg.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-336	gamepass.com	http://www.markmonitor.com	MarkMonitor Inc.
-337	usgovcloudapi.net	http://www.markmonitor.com	MarkMonitor Inc.
-338	browser-intake-datadoghq.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-339	bdydns.com	http://www.key-systems.net	Key-Systems GmbH
-340	evomi.com	http://www.epik.com	Epik LLC
-341	w3b-experience.net	http://www.ovh.com	OVH sas
-342	tradingview.com	http://tierra.net	DomainSpot LLC
-343	symcb.com	http://www.markmonitor.com	MarkMonitor Inc.
-344	akasecure.net	http://www.markmonitor.com	MarkMonitor Inc.
-345	wac-msedge.net	http://cscdbs.com	CSC Corporate Domains, Inc.
-346	webshare.io	 https://www.namecheap.com/	
-347	facebook.net	http://www.registrarsafe.com	RegistrarSafe, LLC
-348	sentinelone.net	http://www.godaddy.com	GoDaddy.com, LLC
-349	wyzecam.com	http://www.godaddy.com	GoDaddy.com, LLC
-350	kslawin.com	http://www.godaddy.com	GoDaddy.com, LLC
-351	online-metrix.net	http://www.godaddy.com	GoDaddy.com, LLC
-352	omtrdc.net	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-353	outbrain.com	http://networksolutions.com	Network Solutions, LLC
-354	dbankcloud.com	http://www.xinnet.com	Xin Net Technology Corporation
-355	discordapp.com	http://www.cloudflare.com	Cloudflare, Inc.
-356	ipv4only.arpa	Error: bad whois	
-357	zoho.com	http://www.markmonitor.com	MarkMonitor Inc.
-358	gov.uk		Nominet UK
-359	silentspacemarine.com	http://www.cloudflare.com	Cloudflare, Inc.
-360	ebay.com	http://www.markmonitor.com	MarkMonitor Inc.
-361	figoogoo.com	http://www.godaddy.com	GoDaddy.com, LLC
-362	securly.com	http://www.godaddy.com	GoDaddy.com, LLC
-363	ajigqtzdh.com	http://www.namecheap.com	NameCheap, Inc.
-364	citrixnetworkapi.net	http://www.markmonitor.com	MarkMonitor Inc.
-365	pandora.com	http://www.markmonitor.com	MarkMonitor Inc.
-366	samsungacr.com	http://www.gandi.net	Gandi SAS
-367	nel.goog	http://www.markmonitor.com	MarkMonitor Inc.
-368	verisign.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-369	byteglb.com	http://www.gandi.net	Gandi SAS
-370	cymru.com	http://www.namecheap.com	NameCheap, Inc.
-371	akam.net	http://www.markmonitor.com	MarkMonitor Inc.
-372	mi.com	http://networksolutions.com	Network Solutions, LLC
-373	rlcdn.com	http://www.cloudflare.com	Cloudflare, Inc.
-374	bytedns1.com	http://www.ename.net	eName Technology Co., Ltd.
-375	discord.gg	Error: bad whois	
-376	yjdxzksqp.com	http://www.namecheap.com	NameCheap, Inc.
-377	mcafee.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-378	adform.net	http://www.directnic.com	DNC Holdings, Inc.
-379	meethue.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-380	amplitude.com	http://www.markmonitor.com	MarkMonitor Inc.
-381	onedrive.com	http://www.markmonitor.com	MarkMonitor Inc.
-382	unmsapp.com	http://www.godaddy.com	GoDaddy.com, LLC
-383	alphonso.tv	https://ionos.com	IONOS SE
-384	conviva.com	http://www.godaddy.com	GoDaddy.com, LLC
-385	live.net	http://cscdbs.com	CSC Corporate Domains, Inc.
-386	511013com-dhxl.top		Dominet (HK) Limited
-387	dotomi.com	http://www.godaddy.com	GoDaddy.com, LLC
-388	temu.com	http://www.markmonitor.com	MarkMonitor Inc.
-389	mynetname.net	http://www.publicdomainregistry.com	PDR Ltd. d/b/a PublicDomainRegistry.com
-390	deepl.com	http://www.key-systems.net	Key-Systems GmbH
-391	35.in-addr.arpa	Error: bad whois	
-392	intercom.io	 https://www.gandi.net	
-393	yximgs.com	http://www.xinnet.com	Xin Net Technology Corporation
-394	rapid7.com	http://www.markmonitor.com	MarkMonitor Inc.
-395	360yield.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-396	vsct.fr	https://rdap.cscglobal.com/dbs/rdap-api/v1/	CSC CORPORATE DOMAINS INC.
-397	canva.com	http://www.gandi.net	Gandi SAS
-398	ddns.net	http://www.noip.com	Vitalwerks Internet Solutions, LLC DBA No-IP
-399	adobedtm.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-400	nextlgsdp.com	http://www.whois.co.kr	Whois Corp.
-401	telesco.pe	Error: bad whois	
-402	cdnhwc2.com	http://www.xinnet.com	Xin Net Technology Corporation
-403	transsion-os.com	http://wanwang.aliyun.com	Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
-404	xiaomi.net	http://www.ename.net	eName Technology Co., Ltd.
-405	vidaahub.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-406	lijit.com	http://www.godaddy.com	GoDaddy.com, LLC
-407	jomodns.com	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
-408	ttlivecdn.com	http://www.gandi.net	Gandi SAS
-409	centrastage.net	http://cscdbs.com	CSC Corporate Domains, Inc.
-410	cisco.com	http://www.markmonitor.com	MarkMonitor Inc.
-411	aiv-delivery.net	http://www.markmonitor.com	MarkMonitor Inc.
-412	visualstudio.com	http://www.markmonitor.com	MarkMonitor Inc.
-413	shopee.co.id		PT Digital Registra Indonesia
-414	a-msedge.net	http://www.markmonitor.com	MarkMonitor Inc.
-415	home-assistant.io	 https://www.namecheap.com/	
-416	cdnhwc1.com	http://www.xinnet.com	Xin Net Technology Corporation
-417	plex.tv	whois.godaddy.com	GoDaddy.com, LLC
-418	googletagservices.com	http://www.markmonitor.com	MarkMonitor Inc.
-419	dzen.ru	Error: bad whois	
-420	snackvideo.in	Error: no URL in RDAP	GoDaddy
-421	belkin.com	http://www.key-systems.net	Key-Systems GmbH
-422	cdnbuild.net	http://www.ename.net	eName Technology Co., Ltd.
-423	intuit.com	http://www.markmonitor.com	MarkMonitor Inc.
-424	douyinliving.com	http://www.ename.net	eName Technology Co., Ltd.
-425	imrworldwide.com	http://www.markmonitor.com	MarkMonitor Inc.
-426	liadm.com	http://www.enomdomains.com	eNom, LLC
-427	speedtest.net	http://cscdbs.com	CSC Corporate Domains, Inc.
-428	ovscdns.net	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
-429	wifi-soft.com	http://www.pairdomains.com	pair Networks, Inc. d/b/a pair Domains
-430	lgtvcommon.com	http://www.whois.co.kr	Whois Corp.
-431	ovscdns.com	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
-432	fb-t-msedge.net	http://www.markmonitor.com	MarkMonitor Inc.
-433	redd.it	Error: bad whois	
-434	smartthings.com	http://www.markmonitor.com	MarkMonitor Inc.
-435	braze.com	http://www.godaddy.com	GoDaddy.com, LLC
-436	firefox.com	http://www.markmonitor.com	MarkMonitor Inc.
-437	veesp.com	http://www.namecheap.com	NameCheap, Inc.
-438	ld2e423gd.xyz	http://www.dynadot.com	Dynadot LLC
-439	watchguard.com	http://www.markmonitor.com	MarkMonitor Inc.
-440	gcdn.co	 whois.safenames.net	
-441	creativecdn.com	http://www.ovh.com	OVH sas
-442	adblockplus.org	https://rdap.registrygate.com	RegistryGate GmbH
-443	shifen.com	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
-444	id5-sync.com	http://www.cloudflare.com	Cloudflare, Inc.
-445	x.com	http://www.godaddy.com	GoDaddy.com, LLC
-446	cloudappsecurity.com	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
-447	hulu.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-448	forter.com	http://www.gandi.net	Gandi SAS
-449	1rx.io	 http://www.godaddy.com/domains/search.aspx?ci=8990	
-450	aiv-cdn.net	http://www.markmonitor.com	MarkMonitor Inc.
-451	pubmnet.com	http://www.godaddy.com	GoDaddy.com, LLC
-452	jsdelivr.net	http://registrar.amazon.com	Amazon Registrar, Inc.
-453	sonicwall.com	http://www.godaddy.com	GoDaddy.com, LLC
-454	alicdn.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-455	ipify.org	https://rdap.godaddy.com/v1	GoDaddy.com, LLC
-456	nvidia.com	http://www.safenames.net	SafeNames Ltd.
-457	vivo.com.cn	Error: bad whois	
-458	stripe.com	http://www.safenames.net	SafeNames Ltd.
-459	2.ip6.arpa	Error: bad whois	
-460	sfx.ms	Error: no URL in RDAP	MarkMonitor
-461	142.in-addr.arpa	Error: bad whois	
-462	alibaba.com	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
-463	microsoft.us	 whois.corporatedomains.com	
-464	hp.com	http://www.markmonitor.com	MarkMonitor Inc.
-465	1118689dh2-xlu.top		Dominet (HK) Limited
-466	3.in-addr.arpa	Error: bad whois	
-467	52.in-addr.arpa	Error: bad whois	
-468	flashtalking.com	http://www.meshdigital.com	Mesh Digital Limited
-469	palmplaystore.com	http://wanwang.aliyun.com	Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
-470	781386-com0.top		Dominet (HK) Limited
-471	duolingo.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-472	githubusercontent.com	http://www.markmonitor.com	MarkMonitor Inc.
-473	spamhaus.org	https://rdap.comlaude.com/rdap/	Nom-iq Ltd. dba COM LAUDE
-474	b-cdn.net	http://www.name.com	Name.com, Inc.
-475	ctmail.com	http://www.enomdomains.com	eNom, LLC
-476	krupdapp.com	http://www.namecheap.com	NameCheap, Inc.
-477	nextdns.io	 http://cloudflare.com	
-478	samsungapps.com	http://www.whois.co.kr	Whois Corp.
-479	dnsv1.com	http://www.dnspod.cn	DNSPod, Inc.
-480	traffmonetizer.com	http://www.namecheap.com	NameCheap, Inc.
-481	lgthinq.com	http://www.whois.co.kr	Whois Corp.
-482	twilio.com	http://www.markmonitor.com	MarkMonitor Inc.
-483	yieldmo.com	http://registrar.amazon.com	Amazon Registrar, Inc.
-484	hicloud.com	http://www.guokeyun.com	Beijing Guokeyun Computing Technology Co., Ltd
-485	bangcdn.net	http://registrar.amazon.com	Amazon Registrar, Inc.
-486	office365.us	 whois.corporatedomains.com	
-487	newrelic.com	http://www.safenames.net	SafeNames Ltd.
-488	moloco.com	http://www.godaddy.com	GoDaddy.com, LLC
-489	telecomsvc.com	http://www.godaddy.com	GoDaddy.com, LLC
-490	933986zdh-xlu.top		NameSilo,LLC
-491	autodesk.com	http://cscdbs.com	CSC Corporate Domains, Inc.
-492	mozgcp.net	http://registrar.amazon.com	Amazon Registrar, Inc.
-493	fdtjmhrbv.com	http://www.namecheap.com	NameCheap, Inc.
-494	nordhold.net	http://www.EuroDNS.com	EuroDNS S.A.
-495	msftauth.net	http://www.markmonitor.com	MarkMonitor Inc.
-496	docker.io	 https://www.gandi.net	
-497	amazon.de	Error: bad whois	
-498	douyinvod.com	http://www.ename.net	eName Technology Co., Ltd.
-499	duckduckgo.com	http://www.namecheap.com	NameCheap, Inc.
-500	c7ri4oxk.com	http://www.namecheap.com	NameCheap, Inc.
+1	google.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+2	googleapis.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+3	kxulsrwcq.com	rdap	http://www.dynadot.com	Dynadot Inc
+4	microsoft.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+5	apple.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+6	facebook.com	rdap	http://www.registrarsafe.com	RegistrarSafe, LLC
+7	blockdh100b.net	rdap	http://www.namecheap.com	NameCheap, Inc.
+8	blockdh100c.co	whois	 http://www.namecheap.com	 NameCheap, Inc.
+9	akadns.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+10	gstatic.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+11	amazonaws.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+12	root-servers.net	rdap	http://networksolutions.com	Network Solutions, LLC
+13	aaplimg.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+14	amazon.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+15	office.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+16	example.com	rdap	Error: no URL in RDAP	RESERVED-Internet Assigned Numbers Authority
+17	akamai.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+18	trafficmanager.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+19	tiktokcdn.com	rdap	http://www.gandi.net	Gandi SAS
+20	azure.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+21	akamaiedge.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+22	cloudfront.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+23	tiktokv.com	rdap	http://www.gandi.net	Gandi SAS
+24	googlevideo.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+25	ntp.org	rdap	https://opensrs.rdap.tucows.com	Tucows Domains Inc.
+26	instagram.com	rdap	http://www.registrarsafe.com	RegistrarSafe, LLC
+27	netflix.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+28	apple-dns.net	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+29	whatsapp.net	rdap	http://www.registrarsafe.com	RegistrarSafe, LLC
+30	icloud.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+31	office.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+32	transmissionbt.com	rdap	http://www.register.ca	Register.ca Inc.
+33	rsiftpgjm.com	rdap	http://www.dynadot.com	Dynadot Inc
+34	mikrotik.com	rdap	http://www.publicdomainregistry.com	PDR Ltd. d/b/a PublicDomainRegistry.com
+35	live.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+36	fbcdn.net	rdap	http://www.registrarsafe.com	RegistrarSafe, LLC
+37	wvdbozpfc.com	rdap	http://www.dynadot.com	Dynadot Inc
+38	googleusercontent.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+39	baidu.com	rdap	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
+40	quad9.net	rdap	http://www.key-systems.net	Key-Systems GmbH
+41	youtube.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+42	doubleclick.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+43	kwai-pro.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+44	fastly.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+45	rqsglwdvh.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+46	xmqkychtb.com	rdap	http://www.dynadot.com	Dynadot Inc
+47	dns.google	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+48	bing.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+49	bldrdoc.gov	whois	 https://get.gov	 get.gov
+50	wikipedia.org	rdap	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
+51	googlesyndication.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+52	msftncsi.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+53	snapchat.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+54	spotify.com	rdap	http://www.abion.com	Abion AB
+55	msn.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+56	ytimg.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+57	windows.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+58	tiktokcdn-us.com	rdap	http://www.gandi.net	Gandi SAS
+59	gvt2.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+60	kwai.net	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+61	msftconnecttest.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+62	ui.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+63	douyincdn.com	rdap	http://www.ename.net	eName Technology Co., Ltd.
+64	appsflyersdk.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+65	roblox.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+66	sharepoint.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+67	yahoo.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+68	amazon-adsystem.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+69	samsungcloudsolution.com	rdap	http://www.whois.co.kr	Whois Corp.
+70	cloudflare-dns.com	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+71	cloudflare.net	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+72	kwaipros.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+73	ax-msedge.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+74	microsoftonline.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+75	office365.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+76	outlook.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+77	cloudflare.com	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+78	digicert.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+79	googleadservices.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+80	checkpoint.com	rdap	http://www.DomainTheNet.com	Domain The Net Technologies Ltd.
+81	cdn77.org	rdap	https://rdap.regtons.com	Gransy, s.r.o.
+82	cmidphnvq.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+83	rpqihexdb.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+84	verkada.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+85	aws.dev	rdap	http://www.comlaude.com	Nom-IQ Limited dba Com Laude
+86	app-measurement.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+87	unity3d.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+88	steamserver.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+89	applovin.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+90	ezdrtpvsa.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+91	capcutapi.com	rdap	http://www.gandi.net	Gandi SAS
+92	skype.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+93	a2z.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+94	tiktokv.us	whois	 whois.gandi.net	 Gandi SAS
+95	shalltry.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+96	app-analytics-services.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+97	edgekey.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+98	catonetworks.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+99	cdninstagram.com	rdap	http://www.registrarsafe.com	RegistrarSafe, LLC
+100	qq.com	rdap	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
+101	edgesuite.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+102	nist.gov	whois	 https://get.gov	 get.gov
+103	mjvymdakr.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+104	whatsapp.com	rdap	http://www.registrarsafe.com	RegistrarSafe, LLC
+105	windows.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+106	vivoglobal.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+107	cdn-apple.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+108	oqton.ai	rdap	https://rdap-nameweb.biz/	NameWeb BVBA
+109	khidmatdev.ca	rdap	Error: no URL in RDAP	Open Provider Inc.
+110	ggpht.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+111	themoviedb.org	rdap	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
+112	adnxs.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+113	humeysha.com	rdap	http://www.DropCatch1066.com	DropCatch.com 1066 LLC
+114	adguard-vpn.online	rdap	https://101domain.com/	101domain GRS Limited
+115	nwamfdclb.com	rdap	http://www.dynadot.com	Dynadot Inc
+116	samsungqbe.com	rdap	http://www.whois.co.kr	Whois Corp.
+117	doubleverify.com	rdap	http://gcd.com	GoDaddy Corporate Domains, LLC
+118	googletagmanager.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+119	gvt1.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+120	xiaomi.com	rdap	http://www.ename.net	eName Technology Co., Ltd.
+121	trendmicro.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+122	windowsupdate.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+123	anydesk.com	rdap	http://www.hetzner.com	Hetzner Online GmbH
+124	avast.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+125	yandex.net	rdap	http://www.safenames.net	SafeNames Ltd.
+126	google-analytics.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+127	adobe.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+128	t.me	whois	 http://www.godaddy.com/domains/search.aspx?ci=8990	 GoDaddy.com, LLC
+129	shodan.io	whois	 https://www.gandi.net	 Gandi SAS
+130	amazon.dev	rdap	http://www.comlaude.com	Nom-IQ Limited dba Com Laude
+131	amazonalexa.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+132	csgo.com	rdap	http://www.uniregistry.com	GoDaddy Online Services Cayman Islands Ltd.
+133	tiktokcdn-eu.com	rdap	http://www.gandi.net	Gandi SAS
+134	akamaized.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+135	rubiconproject.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+136	slack.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+137	criteo.com	rdap	http://www.gandi.net	Gandi SAS
+138	msidentity.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+139	mozilla.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+140	azurefd.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+141	meraki.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+142	dropbox.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+143	tiktokv.eu	whois	Error: no URL in whois	
+144	adobe.io	whois	 http://www.comlaude.com	 Nom-iq Ltd. dba COM LAUDE
+145	bytefcdn-oversea.com	rdap	http://www.gandi.net	Gandi SAS
+146	vungle.com	rdap	http://www.moniker.com	Moniker Online Services LLC
+147	taboola.com	rdap	http://www.ascio.com	Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA
+148	aliyuncs.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+149	pangle.io	whois	 https://www.gandi.net	 Gandi SAS
+150	sentry.io	whois	 https://www.gandi.net	 Gandi SAS
+151	cloud.microsoft	rdap	https://rdap.markmonitor.com/rdap/	MarkMonitor Inc.
+152	onmicrosoft.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+153	bqnmxkyse.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+154	webex.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+155	samsung.com	rdap	http://www.whois.co.kr	Whois Corp.
+156	zoom.us	whois	 www.markmonitor.com	 MarkMonitor, Inc.
+157	pubmatic.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+158	msedge.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+159	linkedin.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+160	rbxcdn.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+161	svc.ms	rdap	Error: no URL in RDAP	MarkMonitor
+162	adobestats.io	error	Error: no result	
+163	edge.apple	rdap	https://rdap.cscglobal.com/dbs/rdap-api/v1/	CSC Corporate Domains, Inc.
+164	sc-gw.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+165	roku.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+166	s3pweb.io	whois	 https://www.gandi.net	 Gandi SAS
+167	gadf99632rm.xyz	rdap	http://www.dynadot.com	Dynadot LLC
+168	azureedge.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+169	telegram.space	rdap	https://www.godaddy.com/	Go Daddy, LLC
+170	yandex.ru	whois	Error: no URL in whois	     RU-CENTER-RU
+171	ttvnw.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+172	shopeemobile.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+173	heytapdl.com	rdap	http://www.key-systems.net	Key-Systems GmbH
+174	safebrowsing.apple	rdap	https://rdap.cscglobal.com/dbs/rdap-api/v1/	CSC Corporate Domains, Inc.
+175	alibabadns.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+176	netgear.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+177	opendns.com	rdap	http://www.publicdomainregistry.com	PDR Ltd. d/b/a PublicDomainRegistry.com
+178	amazonvideo.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+179	github.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+180	fastly-edge.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+181	mzstatic.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+182	tiktokrow-cdn.com	rdap	http://www.gandi.net	Gandi SAS
+183	gmail.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+184	smartadserver.com	rdap	http://www.brandshelter.com	SafeBrands SAS
+185	obihai.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+186	kaspersky.com	rdap	http://nic.ru	Regional Network Information Center, JSC dba RU-CENTER
+187	xinstall.top	rdap		阿里云计算有限公司
+188	miui.com	rdap	http://www.ename.net	eName Technology Co., Ltd.
+189	tiktok.com	rdap	http://www.gandi.net	Gandi SAS
+190	synology.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+191	paloaltonetworks.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+192	wsdvs.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+193	casalemedia.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+194	atrustdns.com	rdap	http://wanwang.aliyun.com	Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+195	reddit.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+196	brave.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+197	playstation.net	rdap	http://www.todaynic.com	Todaynic.com, Inc.
+198	yahoodns.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+199	mail.ru	whois	Error: no URL in whois	     RU-CENTER-RU
+200	epicgames.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+201	android.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+202	chatgpt.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+203	tp-link.com	rdap	http://www.1api.net	1API GmbH
+204	clarity.ms	rdap	Error: no URL in RDAP	MarkMonitor
+205	grammarly.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+206	catonet.works	rdap	https://rdap.gandi.net/	Gandi SAS
+207	t-msedge.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+208	adsrvr.org	rdap	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
+209	sophos.com	rdap	http://www.lexsynergy.com	Lexsynergy Limited
+210	nr-data.net	rdap	http://www.safenames.net	SafeNames Ltd.
+211	teamviewer.com	rdap	http://www.registrygate.com	RegistryGate GmbH
+212	adsafeprotected.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+213	telegram.me	whois	 http://www.godaddy.com/domains/search.aspx?ci=8990	 GoDaddy.com, LLC
+214	eset.com	rdap	http://www.joker.com	CSL Computer Service Langenbach GmbH d/b/a joker.com
+215	yammer.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+216	gwqdiljec.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+217	firetvcaptiveportal.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+218	ks-cdn.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+219	nflxso.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+220	arubanetworks.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+221	kaspersky-labs.com	rdap	http://nic.ru	Regional Network Information Center, JSC dba RU-CENTER
+222	heytapmobile.com	rdap	http://www.key-systems.net	Key-Systems GmbH
+223	gnzkfqmux.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+224	hbtbank.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+225	3gppnetwork.org	rdap	https://rdap.networksolutions.com/rdap	Network Solutions, LLC
+226	dual-s-msedge.net	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+227	azurewebsites.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+228	ubuntu.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+229	bkafniqdz.com	rdap	http://www.dynadot.com	Dynadot Inc
+230	aadrm.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+231	scorecardresearch.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+232	crashlytics.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+233	cfahome.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+234	inmobi.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+235	static.microsoft	rdap	https://rdap.markmonitor.com/rdap/	MarkMonitor Inc.
+236	samsungcloud.com	rdap	http://www.whois.co.kr	Whois Corp.
+237	lencr.org	rdap	https://rdap.cloudflare.com/rdap/v1	Cloudflare, Inc.
+238	nflximg.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+239	media.net	rdap	http://www.publicdomainregistry.com	PDR Ltd. d/b/a PublicDomainRegistry.com
+240	cdngslb.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+241	appsflyer.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+242	launchdarkly.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+243	zebra.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+244	allawnos.com	rdap	http://www.key-systems.net	Key-Systems GmbH
+245	sc-cdn.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+246	life360.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+247	openx.net	rdap	http://www.tucows.com	Tucows Domains Inc.
+248	rvmpro.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+249	ttdns2.com	rdap	http://www.gandi.net	Gandi SAS
+250	avsxappcaptiveportal.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+251	opera.com	rdap	http://www.NameWeb.biz	NameWeb BVBA
+252	mtgglobals.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+253	media-amazon.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+254	bamgrid.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+255	easy4ipcloud.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+256	pki.goog	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+257	volcfcdndvs.com	rdap	http://wanwang.aliyun.com	Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+258	discord.com	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+259	mythad.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+260	qlivecdn.com	rdap	http://www.dnspod.cn	DNSPod, Inc.
+261	demdex.net	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+262	avcdn.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+263	xboxlive.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+264	gviudclrb.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+265	2mdn.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+266	appcenter.ms	rdap	Error: no URL in RDAP	MarkMonitor
+267	proximus.be	whois	Error: no URL in whois	
+268	icloud-content.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+269	twitter.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+270	oiavnqerfbassdfkvjb4324rllas.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+271	tencent-cloud.net	rdap	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
+272	uisp.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+273	goguardian.com	rdap	http://www.gandi.net	Gandi SAS
+274	ampproject.org	rdap	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
+275	byteoversea.net	rdap	http://www.gandi.net	Gandi SAS
+276	samsungcloudsolution.net	rdap	http://www.whois.co.kr	Whois Corp.
+277	adtrafficquality.google	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+278	qcogmyhkd.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+279	3lift.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+280	branch.io	whois	 https://www.gandi.net	 Gandi SAS
+281	espn.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+282	scdn.co	whois	 https://key-systems.net	 Key-Systems GmbH
+283	tesla.services	rdap	https://rdap.markmonitor.com/rdap/	MarkMonitor Inc.
+284	basf.net	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+285	ovh.net	rdap	http://www.ovh.com	OVH sas
+286	huntress.io	whois	 http://registrar.amazon.com	 Amazon Registrar, Inc.
+287	telegram.org	rdap	https://rdap.godaddy.com/v1	GoDaddy.com, LLC
+288	weather.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+289	inner-active.mobi	rdap	https://rdap.godaddy.com/v1/	GoDaddy.com, LLC
+290	ring.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+291	entrust.net	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+292	gd34fdldh.xyz	rdap	http://www.dynadot.com	Dynadot LLC
+293	pinterest.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+294	cspserver.net	rdap	http://www.whois.co.kr	Whois Corp.
+295	datto.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+296	steampowered.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+297	nordvpn.com	rdap	http://www.EuroDNS.com	EuroDNS S.A.
+298	vk.com	rdap	http://nic.ru	Regional Network Information Center, JSC dba RU-CENTER
+299	ibyteimg.com	rdap	http://www.gandi.net	Gandi SAS
+300	google.com.br	rdap		
+301	wbx2.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+302	nflxvideo.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+303	bw9iawxl.com	rdap	http://www.pananames.com	URL Solutions, Inc.
+304	rocket-cdn.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+305	google.cn	whois	Error: no URL in whois	 厦门易名科技股份有限公司
+306	geotrust.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+307	967sd1f.homes	rdap	http://www.dynadot.com	Dynadot LLC
+308	54.in-addr.arpa	whois	Error: no URL in whois	Error: no registrar in whois
+309	kwai.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+310	globo.com	rdap	http://www.1api.net	1API GmbH
+311	spotifycdn.com	rdap	http://www.abion.com	Abion AB
+312	grammarly.io	whois	 http://www.godaddy.com/domains/search.aspx?ci=8990	 GoDaddy.com, LLC
+313	telephony.goog	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+314	ksyuncdn.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+315	adaether.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+316	ys7.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+317	akamaihd.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+318	viber.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+319	twitch.tv	rdap	www.markmonitor.com	MarkMonitor, Inc.
+320	sharethrough.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+321	mozilla.org	rdap	https://rdap.markmonitor.com/rdap	MarkMonitor Inc.
+322	userapi.com	rdap	http://nic.ru	Regional Network Information Center, JSC dba RU-CENTER
+323	bidswitch.net	rdap	http://www.gandi.net	Gandi SAS
+324	ln-msedge.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+325	miwifi.com	rdap	http://www.ename.net	eName Technology Co., Ltd.
+326	zpath.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+327	bytefcdn.com	rdap	http://www.ename.net	eName Technology Co., Ltd.
+328	bitdefender.net	rdap	http://www.EuroDNS.com	EuroDNS S.A.
+329	ap4r.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+330	omniroot.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+331	aliyun.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+332	icanhazip.com	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+333	taobao.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+334	swannsecurity.com	rdap	http://www.melbourneit.com.au	Netregistry Wholesale Pty Ltd
+335	twimg.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+336	gamepass.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+337	usgovcloudapi.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+338	browser-intake-datadoghq.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+339	bdydns.com	rdap	http://www.key-systems.net	Key-Systems GmbH
+340	evomi.com	rdap	http://www.epik.com	Epik LLC
+341	w3b-experience.net	rdap	http://www.ovh.com	OVH sas
+342	tradingview.com	rdap	http://tierra.net	DomainSpot LLC
+343	symcb.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+344	akasecure.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+345	wac-msedge.net	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+346	webshare.io	whois	 https://www.namecheap.com/	 NameCheap, Inc.
+347	facebook.net	rdap	http://www.registrarsafe.com	RegistrarSafe, LLC
+348	sentinelone.net	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+349	wyzecam.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+350	kslawin.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+351	online-metrix.net	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+352	omtrdc.net	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+353	outbrain.com	rdap	http://networksolutions.com	Network Solutions, LLC
+354	dbankcloud.com	rdap	http://www.xinnet.com	Xin Net Technology Corporation
+355	discordapp.com	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+356	ipv4only.arpa	whois	Error: no URL in whois	Error: no registrar in whois
+357	zoho.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+358	gov.uk	rdap		Nominet UK
+359	silentspacemarine.com	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+360	ebay.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+361	figoogoo.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+362	securly.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+363	ajigqtzdh.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+364	citrixnetworkapi.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+365	pandora.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+366	samsungacr.com	rdap	http://www.gandi.net	Gandi SAS
+367	nel.goog	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+368	verisign.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+369	byteglb.com	rdap	http://www.gandi.net	Gandi SAS
+370	cymru.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+371	akam.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+372	mi.com	rdap	http://networksolutions.com	Network Solutions, LLC
+373	rlcdn.com	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+374	bytedns1.com	rdap	http://www.ename.net	eName Technology Co., Ltd.
+375	discord.gg	whois	Error: no URL in whois	
+376	yjdxzksqp.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+377	mcafee.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+378	adform.net	rdap	http://www.directnic.com	DNC Holdings, Inc.
+379	meethue.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+380	amplitude.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+381	onedrive.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+382	unmsapp.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+383	alphonso.tv	rdap	https://ionos.com	IONOS SE
+384	conviva.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+385	live.net	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+386	511013com-dhxl.top	rdap		Dominet (HK) Limited
+387	dotomi.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+388	temu.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+389	mynetname.net	rdap	http://www.publicdomainregistry.com	PDR Ltd. d/b/a PublicDomainRegistry.com
+390	deepl.com	rdap	http://www.key-systems.net	Key-Systems GmbH
+391	35.in-addr.arpa	whois	Error: no URL in whois	Error: no registrar in whois
+392	intercom.io	whois	 https://www.gandi.net	 Gandi SAS
+393	yximgs.com	rdap	http://www.xinnet.com	Xin Net Technology Corporation
+394	rapid7.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+395	360yield.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+396	vsct.fr	rdap	https://rdap.cscglobal.com/dbs/rdap-api/v1/	CSC CORPORATE DOMAINS INC.
+397	canva.com	rdap	http://www.gandi.net	Gandi SAS
+398	ddns.net	rdap	http://www.noip.com	Vitalwerks Internet Solutions, LLC DBA No-IP
+399	adobedtm.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+400	nextlgsdp.com	rdap	http://www.whois.co.kr	Whois Corp.
+401	telesco.pe	whois	Error: no URL in whois	 1API GmbH
+402	cdnhwc2.com	rdap	http://www.xinnet.com	Xin Net Technology Corporation
+403	transsion-os.com	rdap	http://wanwang.aliyun.com	Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+404	xiaomi.net	rdap	http://www.ename.net	eName Technology Co., Ltd.
+405	vidaahub.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+406	lijit.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+407	jomodns.com	rdap	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
+408	ttlivecdn.com	rdap	http://www.gandi.net	Gandi SAS
+409	centrastage.net	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+410	cisco.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+411	aiv-delivery.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+412	visualstudio.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+413	shopee.co.id	rdap		PT Digital Registra Indonesia
+414	a-msedge.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+415	home-assistant.io	whois	 https://www.namecheap.com/	 NameCheap, Inc.
+416	cdnhwc1.com	rdap	http://www.xinnet.com	Xin Net Technology Corporation
+417	plex.tv	rdap	whois.godaddy.com	GoDaddy.com, LLC
+418	googletagservices.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+419	dzen.ru	whois	Error: no URL in whois	     RU-CENTER-RU
+420	snackvideo.in	rdap	Error: no URL in RDAP	GoDaddy
+421	belkin.com	rdap	http://www.key-systems.net	Key-Systems GmbH
+422	cdnbuild.net	rdap	http://www.ename.net	eName Technology Co., Ltd.
+423	intuit.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+424	douyinliving.com	rdap	http://www.ename.net	eName Technology Co., Ltd.
+425	imrworldwide.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+426	liadm.com	rdap	http://www.enomdomains.com	eNom, LLC
+427	speedtest.net	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+428	ovscdns.net	rdap	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
+429	wifi-soft.com	rdap	http://www.pairdomains.com	pair Networks, Inc. d/b/a pair Domains
+430	lgtvcommon.com	rdap	http://www.whois.co.kr	Whois Corp.
+431	ovscdns.com	rdap	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
+432	fb-t-msedge.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+433	redd.it	whois	Error: no URL in whois	Error: no registrar in whois
+434	smartthings.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+435	braze.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+436	firefox.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+437	veesp.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+438	ld2e423gd.xyz	rdap	http://www.dynadot.com	Dynadot LLC
+439	watchguard.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+440	gcdn.co	whois	 whois.safenames.net	 Safenames Ltd
+441	creativecdn.com	rdap	http://www.ovh.com	OVH sas
+442	adblockplus.org	rdap	https://rdap.registrygate.com	RegistryGate GmbH
+443	shifen.com	rdap	http://markmonitor.com	MarkMonitor Information Technology (Shanghai) Co., Ltd.
+444	id5-sync.com	rdap	http://www.cloudflare.com	Cloudflare, Inc.
+445	x.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+446	cloudappsecurity.com	rdap	http://www.comlaude.com	Nom-iq Ltd. dba COM LAUDE
+447	hulu.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+448	forter.com	rdap	http://www.gandi.net	Gandi SAS
+449	1rx.io	whois	 http://www.godaddy.com/domains/search.aspx?ci=8990	 GoDaddy.com, LLC
+450	aiv-cdn.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+451	pubmnet.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+452	jsdelivr.net	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+453	sonicwall.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+454	alicdn.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+455	ipify.org	rdap	https://rdap.godaddy.com/v1	GoDaddy.com, LLC
+456	nvidia.com	rdap	http://www.safenames.net	SafeNames Ltd.
+457	vivo.com.cn	whois	Error: no URL in whois	 贵州中域智科网络技术有限公司
+458	stripe.com	rdap	http://www.safenames.net	SafeNames Ltd.
+459	2.ip6.arpa	whois	Error: no URL in whois	Error: no registrar in whois
+460	sfx.ms	rdap	Error: no URL in RDAP	MarkMonitor
+461	142.in-addr.arpa	whois	Error: no URL in whois	Error: no registrar in whois
+462	alibaba.com	rdap	http://www.net.cn	Alibaba Cloud Computing (Beijing) Co., Ltd.
+463	microsoft.us	whois	 whois.corporatedomains.com	 CSC Corporate Domains, Inc.
+464	hp.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+465	1118689dh2-xlu.top	rdap		Dominet (HK) Limited
+466	3.in-addr.arpa	whois	Error: no URL in whois	Error: no registrar in whois
+467	52.in-addr.arpa	whois	Error: no URL in whois	Error: no registrar in whois
+468	flashtalking.com	rdap	http://www.meshdigital.com	Mesh Digital Limited
+469	palmplaystore.com	rdap	http://wanwang.aliyun.com	Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+470	781386-com0.top	rdap		Dominet (HK) Limited
+471	duolingo.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+472	githubusercontent.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+473	spamhaus.org	rdap	https://rdap.comlaude.com/rdap/	Nom-iq Ltd. dba COM LAUDE
+474	b-cdn.net	rdap	http://www.name.com	Name.com, Inc.
+475	ctmail.com	rdap	http://www.enomdomains.com	eNom, LLC
+476	krupdapp.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+477	nextdns.io	whois	 http://cloudflare.com	 Cloudflare, Inc
+478	samsungapps.com	rdap	http://www.whois.co.kr	Whois Corp.
+479	dnsv1.com	rdap	http://www.dnspod.cn	DNSPod, Inc.
+480	traffmonetizer.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+481	lgthinq.com	rdap	http://www.whois.co.kr	Whois Corp.
+482	twilio.com	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+483	yieldmo.com	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+484	hicloud.com	rdap	http://www.guokeyun.com	Beijing Guokeyun Computing Technology Co., Ltd
+485	bangcdn.net	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+486	office365.us	whois	 whois.corporatedomains.com	 CSC Corporate Domains, Inc.
+487	newrelic.com	rdap	http://www.safenames.net	SafeNames Ltd.
+488	moloco.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+489	telecomsvc.com	rdap	http://www.godaddy.com	GoDaddy.com, LLC
+490	933986zdh-xlu.top	rdap		NameSilo,LLC
+491	autodesk.com	rdap	http://cscdbs.com	CSC Corporate Domains, Inc.
+492	mozgcp.net	rdap	http://registrar.amazon.com	Amazon Registrar, Inc.
+493	fdtjmhrbv.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+494	nordhold.net	rdap	http://www.EuroDNS.com	EuroDNS S.A.
+495	msftauth.net	rdap	http://www.markmonitor.com	MarkMonitor Inc.
+496	docker.io	whois	 https://www.gandi.net	 Gandi SAS
+497	amazon.de	whois	Error: no URL in whois	Error: no registrar in whois
+498	douyinvod.com	rdap	http://www.ename.net	eName Technology Co., Ltd.
+499	duckduckgo.com	rdap	http://www.namecheap.com	NameCheap, Inc.
+500	c7ri4oxk.com	rdap	http://www.namecheap.com	NameCheap, Inc.

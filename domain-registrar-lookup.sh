@@ -58,8 +58,8 @@ fi
 echo >&2 "Reading domains from $domain_list"
 readarray -t domains < "$domain_list"
 
-whois_lookup() {
-    echo >&2 "Fetching rdap data. (${#domains[*]} domains)"
+fetch_data() {
+    echo >&2 "Fetching rdap/whois data. (${#domains[*]} domains)"
 
     local -i max_jobs=10
     local -i i=0
@@ -67,6 +67,11 @@ whois_lookup() {
     #local -A waiting=()
 
     for domain in "${domains[@]}"; do
+        # skip "domain" column label
+        if [ "$domain" = "domain" ]; then
+            continue
+        fi
+
         # NB: can't do i++ because of stupid let/set -e behavior
         (( ++i ))
 
@@ -75,23 +80,12 @@ whois_lookup() {
             continue
         fi
 
-        # skip "domain" column label
-        if [ "$domain" = "domain" ]; then
-            continue
-        fi
-
-        echo >&2 "domain: '$domain'"
+        echo >&2 "domain $i: '$domain'"
 
         if ! [[ "$domain" =~ ^[a-z0-9\.-]+$ ]]; then
             echo >&2 "Invalid domain: '$domain'"
             exit 2
         fi
-
-        while [[ $(jobs -p | wc -l) -ge $max_jobs ]]; do
-            echo >&2 "Reached max background jobs ($max_jobs), waiting..."
-            jobs
-            wait -n
-        done
 
         # skip domains where we already have data
         if [ -s "$whois_tmpdir/$domain.json" ]; then
@@ -104,28 +98,13 @@ whois_lookup() {
             continue
         fi
 
-        # special case for TLDs that don't support RDAP
-        case "$domain" in
-            *.gov)
-                echo "Registrar URL: https://get.gov" > "$whois_tmpdir/$domain.txt"
-                continue
-                ;;
-        esac
+        while [[ $(jobs -p | wc -l) -ge $max_jobs ]]; do
+            echo >&2 "Reached max background jobs ($max_jobs), waiting..."
+            #jobs
+            wait -n
+        done
 
-        # exec rdap
-        rdap --json "$domain" > "$whois_tmpdir/$domain.json" && ret=$? || ret=$?
-
-        if [[ $ret -ne 0 ]]; then
-            # handle TLDs that don't support RDAP
-            if (rdap --json "$domain" 2>&1 || true) | grep -q "Error: No RDAP servers found"; then
-                echo >&2 "Falling back to whois for $domain"
-                # fall back to whois
-                with_retries 5 30 whois "$domain" > "$whois_tmpdir/$domain.txt" &
-            else
-                return "$ret"
-            fi
-        fi
-
+        data_lookup "$domain" &
     done
 
     echo >&2 "Waiting for last jobs to finish ($(jobs -p | wc -l) jobs)"
@@ -133,9 +112,28 @@ whois_lookup() {
     wait
 }
 
+data_lookup() {
+    local domain
+    domain="$1"
+
+    # exec rdap
+    rdap --json "$domain" > "$whois_tmpdir/$domain.json" && ret=$? || ret=$?
+
+    if [[ $ret -ne 0 ]]; then
+        # handle TLDs that don't support RDAP
+        if (rdap --json "$domain" 2>&1 || true) | grep -q "Error: No RDAP servers found"; then
+            echo >&2 "Falling back to whois for $domain"
+            # fall back to whois
+            with_retries 5 30 whois "$domain" > "$whois_tmpdir/$domain.txt"
+        else
+            return "$ret"
+        fi
+    fi
+}
+
 parse_results() {
     local i=0
-    local domain registrar
+    local domain registrar registrar_name
 
     echo >&2 "Reading registrar info from whois files in $whois_tmpdir (${#domains[*]} domains)"
 
@@ -146,12 +144,15 @@ parse_results() {
         registrar_name=
 
         if [ -s "$whois_tmpdir/$domain.txt" ]; then
+            via=whois
             registrar=$(grep -m 1 -i "registrar url:" < "$whois_tmpdir/$domain.txt" | cut -d: -f2- | tr -d '\r') || {
-                registrar="Error: bad whois"
+                registrar="Error: no URL in whois"
             }
-        elif [[ $domain == *.gov ]]; then
-            registrar='https://get.gov/'
+            registrar_name=$(grep -m 1 -i "registrar:" < "$whois_tmpdir/$domain.txt" | cut -d: -f2- | tr -d '\r') || {
+                registrar_name="Error: no registrar in whois"
+            }
         elif [ -s "$whois_tmpdir/$domain.json" ]; then
+            via=rdap
             registrar=$(jq -r '.entities[] | select(.roles[]=="registrar") | .links[] | select(.rel=="about") | .href' < "$whois_tmpdir/$domain.json") || {
                 registrar="Error: no URL in RDAP"
             }
@@ -160,14 +161,15 @@ parse_results() {
                 registrar_name="<UNKNOWN>"
             }
         else
+            via=error
             registrar="Error: no result"
         fi
 
-        echo -e "$i\t$domain\t$registrar\t$registrar_name"
+        echo -e "$i\t$domain\t$via\t$registrar\t$registrar_name"
     done
 }
 
-whois_lookup
+fetch_data
 
 parse_results
 
