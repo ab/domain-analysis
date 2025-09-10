@@ -1,0 +1,205 @@
+{
+  "objectClassName": "domain",
+  "handle": "1640358318_DOMAIN_COM-VRSN",
+  "ldhName": "SALESFORCELIVEAGENT.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/SALESFORCELIVEAGENT.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/SALESFORCELIVEAGENT.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.markmonitor.com\/rdap\/domain\/SALESFORCELIVEAGENT.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.markmonitor.com\/rdap\/domain\/SALESFORCELIVEAGENT.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "292",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.markmonitor.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.markmonitor.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "292"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.2086851750"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abusecomplaints@markmonitor.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-02-15T19:00:13Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-02-15T19:00:13Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-01-14T09:11:30Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS01.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS02.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS03.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS04.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS05.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS06.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "U2DNS1.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "U2DNS2.SALESFORCE.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/salesforceliveagent.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/salesforceliveagent.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

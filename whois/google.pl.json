@@ -1,0 +1,307 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "nask0"
+  ],
+  "notices": [
+    {
+      "title": "Domain name life cycle",
+      "description": [
+        "For more information on domain name life cycle, please visit https://www.dns.pl/en/domain_name_life_cycle"
+      ],
+      "links": [
+        {
+          "value": "https://www.dns.pl/en/domain_name_life_cycle",
+          "rel": "related",
+          "href": "https://www.dns.pl/en/domain_name_life_cycle",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Delay in data display",
+      "description": [
+        "RDAP displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system. For more information on RDAP in NASK, please visit: https://www.dns.pl/en/RDAP_in_NASK"
+      ],
+      "links": [
+        {
+          "value": "https://www.dns.pl/en/RDAP_in_NASK",
+          "rel": "related",
+          "href": "https://www.dns.pl/en/RDAP_in_NASK",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Administrator"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Google LLC"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "1600 Amphitheatre Parkway",
+              "Mountain View",
+              "CA",
+              "94043",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": "FAX"
+            },
+            "uri",
+            "tel:+1.6502530001"
+          ],
+          [
+            "tel",
+            {
+              "type": "VOICE"
+            },
+            "uri",
+            "tel:+1.6502530000"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Markmonitor, Inc."
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "1120 S. Rackham Way, Suite 300",
+              "Meridian",
+              "Idaho",
+              "83642",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": "VOICE"
+            },
+            "uri",
+            "tel:+1.2083895740"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "ccops@markmonitor.com"
+          ],
+          [
+            "url",
+            {},
+            "uri",
+            "https://www.markmonitor.com/"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "entity"
+    }
+  ],
+  "events": [
+    {
+      "eventDate": "2002-09-19T11:00:00Z",
+      "eventAction": "registration"
+    },
+    {
+      "eventDate": "2025-08-17T10:16:24Z",
+      "eventAction": "last changed"
+    },
+    {
+      "eventDate": "2025-09-10T17:59:34.723039766Z",
+      "eventAction": "last update of RDAP database"
+    },
+    {
+      "eventDate": "2026-09-18T12:00:00Z",
+      "eventAction": "expiration"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.dns.pl/domain/google.pl",
+      "rel": "self",
+      "href": "https://rdap.dns.pl/domain/google.pl",
+      "type": "application/rdap+json"
+    }
+  ],
+  "port43": "whois.dns.pl",
+  "ldhName": "google.pl",
+  "remarks": [
+    {
+      "title": "REDACTED FOR PRIVACY",
+      "type": "object truncated due to authorization",
+      "description": [
+        "The object does not contain all data due to lack of authorization."
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "ns1.google.com",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "ns3.google.com",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "ns2.google.com",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "ns4.google.com",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "nameserver"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "objectClassName": "domain",
+  "nask0_state": "registered",
+  "nask0_option": {
+    "ldhName": "google.pl",
+    "events": [
+      {
+        "eventDate": "2025-04-16T18:05:10Z",
+        "eventAction": "registration"
+      },
+      {
+        "eventDate": "2028-04-16T18:05:10Z",
+        "eventAction": "expiration"
+      }
+    ],
+    "remarks": [
+      {
+        "title": "REDACTED FOR PRIVACY",
+        "type": "object truncated due to authorization",
+        "description": [
+          "The object does not contain all data due to lack of authorization."
+        ]
+      }
+    ],
+    "objectClassName": "nask0_option"
+  }
+}

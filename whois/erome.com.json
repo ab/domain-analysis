@@ -1,0 +1,179 @@
+{
+  "objectClassName": "domain",
+  "handle": "3370807_DOMAIN_COM-VRSN",
+  "ldhName": "EROME.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/EROME.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/EROME.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.eurodns.com\/domain\/EROME.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.eurodns.com\/domain\/EROME.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1052",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.EuroDNS.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.eurodns.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1052"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "EuroDNS S.A."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+352.27220150"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "legalservices@eurodns.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1998-10-27T05:00:00Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2034-06-29T04:16:08Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-12-31T10:36:13Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ART.NS.CLOUDFLARE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ZOE.NS.CLOUDFLARE.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/erome.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/erome.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

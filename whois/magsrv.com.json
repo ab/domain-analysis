@@ -1,0 +1,201 @@
+{
+  "objectClassName": "domain",
+  "handle": "2802552957_DOMAIN_COM-VRSN",
+  "ldhName": "MAGSRV.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/MAGSRV.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/MAGSRV.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.namesilo.com\/domain\/MAGSRV.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.namesilo.com\/domain\/MAGSRV.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1479",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.namesilo.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.namesilo.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1479"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NameSilo, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.4805240066"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@namesilo.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2023-08-01T11:28:55Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-08-01T11:28:55Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-08-02T07:11:56Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 52201,
+        "algorithm": 8,
+        "digestType": 1,
+        "digest": "3B266A28DB5EFC0C926DCF4015267E9A0334A51A"
+      },
+      {
+        "keyTag": 52201,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "1FD95EBF4D1D033465F5D1649174E110D7D4ABE8513D823E952957705E2AA821"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS1.CLOUDNS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS2.CLOUDNS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "SEC1.RCODE0.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "SEC2.RCODE0.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/magsrv.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/magsrv.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

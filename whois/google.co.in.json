@@ -1,0 +1,640 @@
+{
+  "rdapConformance": [
+    "icann_rdap_technical_implementation_guide_0",
+    "ur_domain_check_0",
+    "icann_rdap_response_profile_0"
+  ],
+  "notices": [
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf"
+        }
+      ]
+    },
+    {
+      "title": "Terms of service",
+      "description": [
+        "The WHOIS information provided in this page has been redacted",
+        "in compliance with ICANN's Temporary Specification for gTLD",
+        "Registration Data.",
+        "",
+        "The data in this record is provided by Tucows Registry for informational",
+        "purposes only, and it does not guarantee its accuracy. Tucows Registry is",
+        "authoritative for whois information in top-level domains it operates",
+        "under contract with the Internet Corporation for Assigned Names and",
+        "Numbers. Whois information from other top-level domains is provided by",
+        "a third-party under license to Tucows Registry.",
+        "",
+        "This service is intended only for query-based access. By using this",
+        "service, you agree that you will use any data presented only for lawful",
+        "purposes and that, under no circumstances will you use (a) data",
+        "acquired for the purpose of allowing, enabling, or otherwise supporting",
+        "the transmission by e-mail, telephone, facsimile or other",
+        "communications mechanism of mass  unsolicited, commercial advertising",
+        "or solicitations to entities other than your existing  customers; or",
+        "(b) this service to enable high volume, automated, electronic processes",
+        "that send queries or data to the systems of any Registrar or any",
+        "Registry except as reasonably necessary to register domain names or",
+        "modify existing domain name registrations.",
+        "",
+        "Tucows Registry reserves the right to modify these terms at any time. By",
+        "submitting this query, you agree to abide by this policy. All rights",
+        "reserved."
+      ],
+      "links": [
+        {
+          "href": "https://whois.nixiregistry.in"
+        }
+      ]
+    }
+  ],
+  "objectClassName": "domain",
+  "handle": "D8357-IN",
+  "ldhName": "google.co.in",
+  "unicodeName": "google.co.in",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "handle": "H9E7D30E91FEB4A5D8F5DE7DCB8937B17-IN",
+      "ldhName": "ns1.google.com",
+      "unicodeName": "ns1.google.com",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "H736B7D1BF5514079B776C8EAAC47E9DA-IN",
+      "ldhName": "ns3.google.com",
+      "unicodeName": "ns3.google.com",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "H8A4D6D2D04A0488A862C2B4D63E3C818-IN",
+      "ldhName": "ns2.google.com",
+      "unicodeName": "ns2.google.com",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "H69A455A5A55143C59409373095320378-IN",
+      "ldhName": "ns4.google.com",
+      "unicodeName": "ns4.google.com",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+          ]
+        }
+      ],
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Google LLC"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "CA",
+              "",
+              ""
+            ]
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    },
+    {
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+          ]
+        }
+      ],
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    },
+    {
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+          ]
+        }
+      ],
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    },
+    {
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+          ]
+        }
+      ],
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ]
+        ]
+      ],
+      "roles": [
+        "billing"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "292",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor Inc."
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "3540 East Longwing Lane, Suite 300",
+              "Meridian",
+              "ID",
+              "83646",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.208389574"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+1.2083895771"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "ccops@markmonitor.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "292"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "CO_7cd2d073157054f1ae99f175ca69929e-NIXI",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Markmonitor Inc."
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "Markmonitor Inc."
+              ],
+              [
+                "adr",
+                {
+                  "cc": "US"
+                },
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "",
+                    "",
+                    ""
+                  ],
+                  "Meridian",
+                  "ID",
+                  "83642",
+                  ""
+                ]
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abusecomplaints@markmonitor.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "events": [
+            {
+              "eventAction": "last update of RDAP database",
+              "eventDate": "2025-09-10T18:07:21.674Z"
+            }
+          ]
+        },
+        {
+          "objectClassName": "entity",
+          "handle": "CO_324db82fe38d1ff3bc3a369607af4d4f-NIXI",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Markmonitor Inc."
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "Markmonitor Inc."
+              ],
+              [
+                "adr",
+                {
+                  "cc": "US"
+                },
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "",
+                    "",
+                    ""
+                  ],
+                  "Meridian",
+                  "ID",
+                  "83642",
+                  ""
+                ]
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "registryescalations@markmonitor.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "events": [
+            {
+              "eventAction": "last update of RDAP database",
+              "eventDate": "2025-09-10T18:07:21.674Z"
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:21.674Z"
+        }
+      ]
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "client update prohibited",
+    "client delete prohibited"
+  ],
+  "links": [
+    {
+      "value": "https://rdap.markmonitor.com/rdap/domain/google.co.in",
+      "rel": "related",
+      "href": "https://rdap.markmonitor.com/rdap/domain/google.co.in",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://whois.nixiregistry.in/rdap/domain/google.co.in",
+      "rel": "self",
+      "href": "https://whois.nixiregistry.in/rdap/domain/google.co.in",
+      "type": "application/rdap+json"
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventActor": "8565-cd",
+      "eventDate": "2003-06-23T14:02:33.982Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-06-23T14:02:33.027Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-27T10:05:01.615Z"
+    },
+    {
+      "eventAction": "transfer",
+      "eventDate": "2009-09-09T23:10:40.982Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:21.674Z"
+    }
+  ]
+}

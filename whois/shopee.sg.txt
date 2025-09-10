@@ -1,0 +1,72 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.sgnic.sg
+
+domain:       SG
+
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+
+contact:      administrative
+name:         Head (Technical and Ops)
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd.
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+phone:        +65 6659 2534
+e-mail:       dna@sgnic.sg
+
+contact:      technical
+name:         Head (Technical and Ops)
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd.
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+phone:        +65 6659 2534
+e-mail:       dna@sgnic.sg
+
+nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
+nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
+nserver:      DSANY4.SGNIC.SG 2a0e:dbc0:1:0:0:0:0:65 45.142.220.65
+nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
+nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
+ds-rdata:     26329 8 2 404a15e6ca2f4ce259d8b2bd13894c7823a9513973103c962ff52bfc57a380af
+
+whois:        whois.sgnic.sg
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sgnic.sg
+
+created:      1988-10-19
+changed:      2024-11-19
+source:       IANA
+
+# whois.sgnic.sg
+
+Domain Name: shopee.sg
+Unicode Name: shopee.sg
+Updated Date: 2025-08-19T02:42:02Z
+Creation Date: 2014-11-28T04:23:21Z
+Registry Expiry Date: 2026-11-28T04:23:21Z
+Registrar: CSC Corporate Domains Inc
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+VerifiedID Status: VerifiedID@SG-OK
+Registry Lock:
+Registrant Name: SHOPEE SINGAPORE PRIVATE LIMITED
+Admin Name: JINGYE CHEN
+Tech Name: SHOPEE SINGAPORE PRIVATE LIMITED
+Tech Email: domain@garena.com
+Name Server: ns-1213.awsdns-23.org
+Name Server: ns-1963.awsdns-53.co.uk
+Name Server: ns-318.awsdns-39.com
+Name Server: ns-586.awsdns-09.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-09-10T18:07:26Z <<<
+

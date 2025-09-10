@@ -1,0 +1,187 @@
+{
+  "objectClassName": "domain",
+  "handle": "72137981_DOMAIN_COM-VRSN",
+  "ldhName": "BITDEFENDER.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/BITDEFENDER.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/BITDEFENDER.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.snapnames.com\/rdap\/domain\/BITDEFENDER.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.snapnames.com\/rdap\/domain\/BITDEFENDER.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "9",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.register.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.snapnames.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "9"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Register.com - Network Solutions, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.8777228662"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "domain.operations@web.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2001-06-08T11:07:18Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2029-06-08T11:07:18Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-01-17T11:16:04Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "PDNS210.ULTRADNS.BIZ"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "PDNS210.ULTRADNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "PDNS210.ULTRADNS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "PDNS210.ULTRADNS.ORG"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/bitdefender.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/bitdefender.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

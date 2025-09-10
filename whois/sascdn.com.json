@@ -1,0 +1,195 @@
+{
+  "objectClassName": "domain",
+  "handle": "1674384797_DOMAIN_COM-VRSN",
+  "ldhName": "SASCDN.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/SASCDN.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/SASCDN.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.safebrands.com\/domain\/SASCDN.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.safebrands.com\/domain\/SASCDN.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1290",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.brandshelter.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.safebrands.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1290"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "SafeBrands SAS"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.488662213"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "legal@safebrands.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-08-29T15:55:14Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-08-29T15:55:14Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-07-29T03:01:14Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A1-96.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A11-65.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A14-66.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A22-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A3-64.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A4-65.AKAM.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/sascdn.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/sascdn.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

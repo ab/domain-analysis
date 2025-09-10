@@ -1,0 +1,192 @@
+{
+  "objectClassName": "domain",
+  "handle": "2548890680_DOMAIN_COM-VRSN",
+  "ldhName": "HOLADNS.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/HOLADNS.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/HOLADNS.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.rolr.uk\/domain\/HOLADNS.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.rolr.uk\/domain\/HOLADNS.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "2482",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.rolr.eu",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.rolr.uk\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "2482"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Stichting Registrar of Last Resort Foundation"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+31.206717452"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@rolr.eu"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2020-07-27T10:22:48Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-07-27T10:22:48Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-09T16:13:01Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "SINKHOLE-00.SHADOWSERVER.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "SINKHOLE-01.SHADOWSERVER.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "SINKHOLE-02.SHADOWSERVER.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "SINKHOLE-03.SHADOWSERVER.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "SINKHOLE-04.SHADOWSERVER.ORG"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/holadns.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/holadns.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

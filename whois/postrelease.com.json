@@ -1,0 +1,197 @@
+{
+  "objectClassName": "domain",
+  "handle": "559872894_DOMAIN_COM-VRSN",
+  "ldhName": "POSTRELEASE.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/POSTRELEASE.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/POSTRELEASE.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.registrar.amazon.com\/rdap\/domain\/POSTRELEASE.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.registrar.amazon.com\/rdap\/domain\/POSTRELEASE.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "468",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/registrar.amazon.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.registrar.amazon.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "468"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Amazon Registrar, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.2024422253"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "trustandsafety@support.aws.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2006-08-18T23:20:47Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-08-18T23:20:47Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-07-14T23:23:44Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A1-171.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A14-64.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A16-65.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A18-66.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A3-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A9-64.AKAM.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/postrelease.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/postrelease.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

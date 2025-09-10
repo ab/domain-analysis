@@ -1,0 +1,188 @@
+{
+  "objectClassName": "domain",
+  "handle": "2168643104_DOMAIN_COM-VRSN",
+  "ldhName": "REVENUECAT.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/REVENUECAT.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/REVENUECAT.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/opensrs.rdap.tucows.com\/domain\/REVENUECAT.COM",
+      "rel": "related",
+      "href": "https:\/\/opensrs.rdap.tucows.com\/domain\/REVENUECAT.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "69",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.tucows.com",
+          "type": "text\/html",
+          "value": "https:\/\/opensrs.rdap.tucows.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "69"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Tucows Domains Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.4165350123"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "domainabuse@tucows.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-09-29T15:03:43Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-09-29T15:03:43Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-08-29T07:24:17Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1435.AWSDNS-51.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1760.AWSDNS-28.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-43.AWSDNS-05.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-869.AWSDNS-44.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/revenuecat.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/revenuecat.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

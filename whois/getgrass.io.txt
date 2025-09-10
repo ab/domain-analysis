@@ -1,0 +1,129 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.io
+
+domain:       IO
+
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+
+contact:      administrative
+name:         Internet Administrator
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+phone:        +246 9398
+fax-no:       +246 9398
+e-mail:       administrator@nic.io
+
+contact:      technical
+name:         Administrator
+organisation: Internet Computer Bureau Ltd
+address:      Greytown House, 221-227 High Street
+address:      Orpington Kent BR6 0NZ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
+e-mail:       admin@icb.co.uk
+
+nserver:      A0.NIC.IO 2a01:8840:9e:0:0:0:0:17 65.22.160.17
+nserver:      A2.NIC.IO 2a01:8840:a1:0:0:0:0:17 65.22.163.17
+nserver:      B0.NIC.IO 2a01:8840:9f:0:0:0:0:17 65.22.161.17
+nserver:      C0.NIC.IO 2a01:8840:a0:0:0:0:0:17 65.22.162.17
+ds-rdata:     57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
+
+whois:        whois.nic.io
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.io/
+
+created:      1997-09-16
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.io
+
+Domain Name: getgrass.io
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: whois.name.com
+Registrar URL: http://www.name.com
+Updated Date: 2024-11-19T12:59:33Z
+Creation Date: 2023-03-17T21:45:35Z
+Registry Expiry Date: 2026-03-17T21:45:35Z
+Registrar: Name.com, Inc.
+Registrar IANA ID: 625
+Registrar Abuse Contact Email: abuse@name.com
+Registrar Abuse Contact Phone: +1.7203101849
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED
+Registrant Name: REDACTED
+Registrant Organization: Domain Protection Services, Inc.
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: CO
+Registrant Postal Code: REDACTED
+Registrant Country: US
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: REDACTED
+Registry Admin ID: REDACTED
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: REDACTED
+Registry Tech ID: REDACTED
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: REDACTED
+Name Server: tina.ns.cloudflare.com
+Name Server: graham.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2025-09-10T18:07:20Z <<<
+
+# whois.name.com
+
+Domain Name: GETGRASS.IO 
+Registry Domain ID: 1e5a50d5daf0402fa164314ec5f2e12e-DONUTS 
+Registrar WHOIS Server: whois.name.com 
+Registrar URL: http://www.name.com 
+Updated Date: 2024-11-19T12:59:33Z 
+Creation Date: 2023-03-17T21:45:35Z 
+Registrar Registration Expiration Date: 2026-03-17T21:45:35Z 
+Registrar: Name.com, Inc. 
+Registrar IANA ID: 625 
+Reseller:  
+ 
+Please visit https://www.nic.io/whois-search.htm for more info.
+
+
+The data in the Name.com, Inc. WHOIS database is provided by Name.com, Inc. for information purposes, and to assist persons in obtaining information about or related to a domain name registration record. Name.com, Inc. does not guarantee its accuracy.  Users accessing the Name.com, Inc. WHOIS service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers and b) enable high volume, automated, electronic processes that send queries or data to the systems of Name.com, Inc., except as reasonably necessary to register domain names or modify existing registrations. When using the Name.com, Inc. WHOIS service, please consider the following: the WHOIS service is not a replacement for standard EPP commands to the SRS service. WHOIS is not considered authoritative for registered domain objects. The WHOIS service may be scheduled for downtime during production or OT&E maintenance periods. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements.  Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis, for accessing the withheld data. Access to this data can be requested by submitting a request via the form found at [www.name.com/whois-layered-access] Name.com, Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+

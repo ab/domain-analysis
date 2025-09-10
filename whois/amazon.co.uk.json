@@ -1,0 +1,593 @@
+{
+  "rdapConformance": [
+    "redacted",
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "links": [
+    {
+      "value": "https://rdap.nominet.uk/uk/domain/amazon.co.uk",
+      "rel": "self",
+      "href": "https://rdap.nominet.uk/uk/domain/amazon.co.uk",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "The Registry Operator, offers this Registration Data Access Protocol (RDAP) service and provides access to the records in the RDAP database for information purposes only, to assist you in obtaining information about the registration records of existing domain names. The stored information in the RDAP database is provided as is. We do not guarantee its accuracy or completeness, and cannot be held liable if the stored information in the RDAP database is wrong, incomplete, or inaccurate in any way. By querying the RDAP database in any way, you agree that you will not use this data: (i) to allow, enable or otherwise support the transmission of unsolicited, commercial advertising or other solicitations in any form or by any means; (ii) to enable high volume, automated, electronic processes that query or send data to the Registry Operator or any registrar or registrant; (iii) for target advertising; (iv) to cause nuisance to registrants by sending (by any means) messages to or contacting them; (v) to violate any law, rule, regulation or statute; and/or (vi) in violation of applicable data and privacy protection acts. You are explicitly prohibited from extracting, copying and/or using or re-using in any form and by any means (electronically or not) all or part (quantitatively or qualitatively) of the contents of the RDAP database without prior and explicit permission from the Registry Operator. Any copying or transmission of data for commercial purposes violates this prohibition. You agree that we can take measures to limit the use of the RDAP service to protect the privacy of registrants or the integrity of the database. We reserve the right to make changes to this website, the RDAP service, and these Terms and Conditions at any time without prior notice to you. You should review these Terms and Conditions each time you access or use the RDAP database and the RDAP service to learn of any changes. If you do not agree to the changes we have made, your only remedy is to stop your use of the RDAP database and the RDAP service. By executing a query, in any means whatsoever, you agree to these Terms of Service."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/domain/amazon.co.uk",
+          "rel": "terms-of-service",
+          "href": "https://nominet.uk/rdap-tos",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/domain/amazon.co.uk",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the Nominet WHOIS data complaint process: https://www.nominet.uk/complaints/#complaining-about-incorrect-whois-data"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/domain/amazon.co.uk",
+          "rel": "help",
+          "href": "https://www.nominet.uk/complaints/#complaining-about-incorrect-whois-data",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1994-12-05T15:26:29Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-09-06T14:31:12.234605Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-12-05T15:26:29Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:18.3Z"
+    }
+  ],
+  "status": [
+    "server update prohibited",
+    "server delete prohibited",
+    "server transfer prohibited"
+  ],
+  "handle": "D_6844203-UK",
+  "ldhName": "amazon.co.uk",
+  "unicodeName": "amazon.co.uk",
+  "secureDNS": {
+    "delegationSigned": false,
+    "maxSigLife": 3024000
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/entity/AMAZON-COM",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/entity/AMAZON-COM",
+          "type": "application/rdap+json"
+        }
+      ],
+      "handle": "AMAZON-COM",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Amazon.com, Inc."
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "Registry Identifier",
+          "identifier": "AMAZON-COM"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse contact"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1-206-266-4064"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "hostmaster@amazon.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "This data is not generally available, if you have legitimate reason to request access please review Nominets data release process."
+          ]
+        },
+        {
+          "title": "Data Quality",
+          "description": [
+            "Name validated.",
+            "Address validated.",
+            "Nominet responsible for validation."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2008-08-27T15:34:48Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2010-06-07T17:36:26Z"
+        }
+      ],
+      "status": [
+        "validated"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "redacted@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ]
+    }
+  ],
+  "publicIds": [
+    {
+      "type": "Registry Identifier",
+      "identifier": "D_6844203-UK"
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/nameserver/ns1.amzndns.co.uk.",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/nameserver/ns1.amzndns.co.uk.",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventActor": "MARKMONITOR",
+          "eventDate": "2023-03-10T22:19:28Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventActor": "MARKMONITOR",
+          "eventDate": "2023-03-10T22:20:16Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H_1914466-UK",
+      "ldhName": "ns1.amzndns.co.uk.",
+      "unicodeName": "ns1.amzndns.co.uk.",
+      "ipAddresses": {
+        "v4": [
+          "156.154.67.10"
+        ],
+        "v6": [
+          "2001:502:4612::10"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/nameserver/ns1.amzndns.com.",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/nameserver/ns1.amzndns.com.",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventActor": "NOMIQ",
+          "eventDate": "2023-05-02T16:13:09Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H_1926487-UK",
+      "ldhName": "ns1.amzndns.com.",
+      "unicodeName": "ns1.amzndns.com."
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/nameserver/ns1.amzndns.net.",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/nameserver/ns1.amzndns.net.",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventActor": "NOMIQ",
+          "eventDate": "2023-05-02T16:13:09Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H_1926489-UK",
+      "ldhName": "ns1.amzndns.net.",
+      "unicodeName": "ns1.amzndns.net."
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/nameserver/ns1.amzndns.org.",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/nameserver/ns1.amzndns.org.",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventActor": "NOMIQ",
+          "eventDate": "2023-05-02T16:13:09Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H_1926491-UK",
+      "ldhName": "ns1.amzndns.org.",
+      "unicodeName": "ns1.amzndns.org."
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/nameserver/ns2.amzndns.co.uk.",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/nameserver/ns2.amzndns.co.uk.",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventActor": "MARKMONITOR",
+          "eventDate": "2023-03-10T22:20:14Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventActor": "MARKMONITOR",
+          "eventDate": "2023-06-20T16:59:11Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H_1914467-UK",
+      "ldhName": "ns2.amzndns.co.uk.",
+      "unicodeName": "ns2.amzndns.co.uk.",
+      "ipAddresses": {
+        "v4": [
+          "204.74.120.1"
+        ],
+        "v6": [
+          "2610:a1:32d1::53"
+        ]
+      }
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/nameserver/ns2.amzndns.com.",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/nameserver/ns2.amzndns.com.",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventActor": "NOMIQ",
+          "eventDate": "2023-05-02T16:13:09Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H_1926488-UK",
+      "ldhName": "ns2.amzndns.com.",
+      "unicodeName": "ns2.amzndns.com."
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/nameserver/ns2.amzndns.net.",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/nameserver/ns2.amzndns.net.",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventActor": "NOMIQ",
+          "eventDate": "2023-05-02T16:13:09Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H_1926490-UK",
+      "ldhName": "ns2.amzndns.net.",
+      "unicodeName": "ns2.amzndns.net."
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/uk/nameserver/ns2.amzndns.org.",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/uk/nameserver/ns2.amzndns.org.",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventActor": "NOMIQ",
+          "eventDate": "2023-05-02T16:13:09Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H_1926492-UK",
+      "ldhName": "ns2.amzndns.org.",
+      "unicodeName": "ns2.amzndns.org."
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Organization"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Registrant Organisation Type"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Registrant Identifier Label"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Registrant Organisation Identifier"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Registrant Country"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Registrant Region"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+      "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+      "pathLang": "jsonpath",
+      "method": "replacementValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    }
+  ]
+}

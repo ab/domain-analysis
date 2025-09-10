@@ -1,0 +1,209 @@
+{
+  "objectClassName": "domain",
+  "handle": "1747522763_DOMAIN_COM-VRSN",
+  "ldhName": "GOSKOPE.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/GOSKOPE.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/GOSKOPE.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/namerdap.systems\/domain\/GOSKOPE.COM",
+      "rel": "related",
+      "href": "https:\/\/namerdap.systems\/domain\/GOSKOPE.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "625",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.name.com",
+          "type": "text\/html",
+          "value": "https:\/\/namerdap.systems\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "625"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Name.com, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:7202492374"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@name.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2012-09-25T05:22:44Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-09-25T05:22:44Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-08-13T17:05:40Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 1756,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "8F6220D30C330015ADC22FBBE8B8D08456CB2EA00628C3B4421E816E54982118"
+      },
+      {
+        "keyTag": 60622,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "59E399759C57AD74717B98DB63A88BC0067D3FD635847DC8BD7FEEEB2C211B88"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.GOSKOPE.OPSKOPE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS2.GOSKOPE.OPSKOPE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS3.GOSKOPE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS4.GOSKOPE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS5.GOSKOPE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS6.GOSKOPE.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/goskope.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/goskope.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

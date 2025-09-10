@@ -1,0 +1,196 @@
+{
+  "objectClassName": "domain",
+  "handle": "2175808426_DOMAIN_COM-VRSN",
+  "ldhName": "MYHUAWEICLOUD.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/MYHUAWEICLOUD.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/MYHUAWEICLOUD.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.xinnet.com\/rdap\/domain\/MYHUAWEICLOUD.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.xinnet.com\/rdap\/domain\/MYHUAWEICLOUD.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "120",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.xinnet.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.xinnet.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "120"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Xin Net Technology Corporation"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+86.4008182233"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "supervision@xinnet.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-10-18T02:27:23Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2030-10-18T02:27:23Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-27T02:52:35Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.HUAWEICLOUD-DNS.CN"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.HUAWEICLOUD-DNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.HUAWEICLOUD-DNS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.HUAWEICLOUD-DNS.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "VIP3.ALIDNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "VIP4.ALIDNS.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/myhuaweicloud.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/myhuaweicloud.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

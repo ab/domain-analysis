@@ -1,0 +1,187 @@
+{
+  "objectClassName": "domain",
+  "handle": "2058051761_DOMAIN_NET-VRSN",
+  "ldhName": "MINTEGRAL.NET",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/MINTEGRAL.NET",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/MINTEGRAL.NET",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/whois.aliyun.com\/rdap\/domain\/MINTEGRAL.NET",
+      "rel": "related",
+      "href": "https:\/\/whois.aliyun.com\/rdap\/domain\/MINTEGRAL.NET",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "420",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.net.cn",
+          "type": "text\/html",
+          "value": "https:\/\/whois.aliyun.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "420"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Alibaba Cloud Computing (Beijing) Co., Ltd."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+86.95187"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "DomainAbuse@service.aliyun.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-09-08T13:09:52Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2030-09-08T13:09:52Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-03T03:01:10Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1019.AWSDNS-63.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1253.AWSDNS-28.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1876.AWSDNS-42.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-189.AWSDNS-23.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/mintegral.net",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/mintegral.net",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

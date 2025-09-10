@@ -1,0 +1,211 @@
+{
+  "objectClassName": "domain",
+  "handle": "138074616_DOMAIN_COM-VRSN",
+  "ldhName": "DYNATRACE.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/DYNATRACE.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/DYNATRACE.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.cscglobal.com\/dbs\/rdap-api\/v1\/domain\/DYNATRACE.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.cscglobal.com\/dbs\/rdap-api\/v1\/domain\/DYNATRACE.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "299",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/cscdbs.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.cscglobal.com\/dbs\/rdap-api\/v1\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "299"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "CSC Corporate Domains, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:8887802723"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "domainabuse@cscglobal.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2004-12-23T19:06:22Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-12-23T19:06:22Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-12-19T06:10:52Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A1-229.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A13-64.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A20-65.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A28-66.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A7-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A8-64.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS1.P06.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS2.P06.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS3.P06.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS4.P06.NSONE.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/dynatrace.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/dynatrace.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

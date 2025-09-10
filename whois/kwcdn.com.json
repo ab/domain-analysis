@@ -1,0 +1,190 @@
+{
+  "objectClassName": "domain",
+  "handle": "2716740462_DOMAIN_COM-VRSN",
+  "ldhName": "KWCDN.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/KWCDN.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/KWCDN.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.godaddy.com\/v1\/domain\/KWCDN.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.godaddy.com\/v1\/domain\/KWCDN.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client renew prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "146",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.godaddy.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.godaddy.com\/v1\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "146"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "GoDaddy.com, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:480-624-2505"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@godaddy.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2022-08-08T15:47:23Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-08-08T15:47:23Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-09-12T02:48:28Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1-34.AZURE-DNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS2-34.AZURE-DNS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS3-34.AZURE-DNS.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS4-34.AZURE-DNS.INFO"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/kwcdn.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/kwcdn.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

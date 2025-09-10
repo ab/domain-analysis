@@ -1,0 +1,187 @@
+{
+  "objectClassName": "domain",
+  "handle": "2218737847_DOMAIN_COM-VRSN",
+  "ldhName": "WSHAREIT.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/WSHAREIT.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/WSHAREIT.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/namerdap.systems\/domain\/WSHAREIT.COM",
+      "rel": "related",
+      "href": "https:\/\/namerdap.systems\/domain\/WSHAREIT.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "625",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.name.com",
+          "type": "text\/html",
+          "value": "https:\/\/namerdap.systems\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "625"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Name.com, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:7202492374"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@name.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2018-01-26T09:24:09Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-01-26T09:24:09Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-01-19T17:19:21Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:21Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1467.AWSDNS-55.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-167.AWSDNS-20.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1960.AWSDNS-53.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-911.AWSDNS-49.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/wshareit.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/wshareit.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "objectClassName": "domain",
+  "handle": "DOM000007878481-FRNIC",
+  "ldhName": "adsco.re",
+  "status": [
+    "active"
+  ],
+  "whoisStatus": "ACTIVE",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-02-14T18:29:52Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-02-14T18:29:52Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2022-08-30T05:46:50Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:17.900650325Z"
+    }
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "RAR768-FRNIC",
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1086"
+        }
+      ],
+      "status": [
+        "active"
+      ],
+      "port43": "whois.marcaria.com",
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2008-03-10T00:00:00Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-10-01T02:45:06.499722Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.re/entity/RAR768-FRNIC",
+          "value": "https://rdap.nic.re/entity/RAR768-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Marcaria.com International Inc."
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.3054348621"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+1.3056752956"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "domains@marcaria.com"
+          ],
+          [
+            "url",
+            {},
+            "uri",
+            "https://www.marcaria.com/ws/en/register/domains/bulk-domain-registration-fr"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "8345 NW 66 ST #B1673",
+              "MIAMI",
+              "",
+              "FL 33195",
+              "US"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar",
+        "sponsor"
+      ],
+      "remarks": [
+        {
+          "type": "registrar restricted publication",
+          "description": [
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "ISL41-FRNIC",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2013-09-25T00:00:00Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-07-07T21:34:30.49586Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.re/entity/ISL41-FRNIC",
+          "value": "https://rdap.nic.re/entity/ISL41-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "ICRON SERVICES LTD"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "ICRON SERVICES LTD"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "Maria House, 1 Avlonos street",
+              "Nicosia",
+              "",
+              "1075",
+              "CY"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "domains@marcaria.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.3054348621"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+1.3056752956"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "ORGANIZATION"
+          ]
+        },
+        {
+          "type": "reach medium",
+          "description": [
+            "VOICE"
+          ]
+        },
+        {
+          "type": "reach date",
+          "description": [
+            "2017-04-11T00:00:00Z"
+          ]
+        },
+        {
+          "type": "reach source",
+          "description": [
+            "REGISTRY"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "YES"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "OK"
+          ]
+        },
+        {
+          "type": "eligibility source",
+          "description": [
+            "REGISTRY"
+          ]
+        },
+        {
+          "type": "eligibility date",
+          "description": [
+            "2017-04-11T00:00:00Z"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "Marcaria.com International Inc."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "PDML4-FRNIC",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2017-04-26T20:03:30Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-04-23T18:43:54.143026Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.re/entity/PDML4-FRNIC",
+          "value": "https://rdap.nic.re/entity/PDML4-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "PRIME DOMAIN MANAGER LIMITED"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "PRIME DOMAIN MANAGER LIMITED"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "Avlonos, 1 Maria . House",
+              "Nicosia",
+              "",
+              "1075",
+              "CY"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "domains@primedomain.ws"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+3.5722232467"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "ORGANIZATION"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "NotIdentified"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "Marcaria.com International Inc."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "FF1878-FRNIC",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2008-03-17T00:00:00Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2023-07-07T21:34:30.483897Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.re/entity/FF1878-FRNIC",
+          "value": "https://rdap.nic.re/entity/FF1878-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Francisco Fuentealba"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              [
+                "MARCARIA.COM CORP",
+                "# 1000177, 222 Grace Church St. Suite 302",
+                "10573 Port Chester\nUS"
+              ],
+              "Port Chester",
+              "",
+              "10573",
+              "US"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "manage@marcaria.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.3056767321"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "ORGANIZATION"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "NotIdentified"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "Marcaria.com International Inc."
+          ]
+        }
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST35818-FRNIC",
+      "ldhName": "alex.ns.cloudflare.com",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "ipAddresses": {},
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR939-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "9999"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.nic.re",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2014-07-29T15:35:33Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-10-13T09:22:34.158191Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.nic.re/entity/RAR939-FRNIC",
+              "value": "https://rdap.nic.re/entity/RAR939-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Registry Operations"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.139308300"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+33.139308301"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "support@afnic.fr"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.afnic.fr"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "AFNIC",
+                    "immeuble le Stephenson",
+                    "1, rue Stephenson"
+                  ],
+                  "Montigny-Le-Bretonneux",
+                  "",
+                  "78180",
+                  "FR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "registrar",
+            "sponsor"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.re/nameserver/alex.ns.cloudflare.com",
+          "value": "https://rdap.nic.re/nameserver/alex.ns.cloudflare.com",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST43190-FRNIC",
+      "ldhName": "dawn.ns.cloudflare.com",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "ipAddresses": {},
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR939-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "9999"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.nic.re",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2014-07-29T15:35:33Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-10-13T09:22:34.158191Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.nic.re/entity/RAR939-FRNIC",
+              "value": "https://rdap.nic.re/entity/RAR939-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Registry Operations"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.139308300"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+33.139308301"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "support@afnic.fr"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.afnic.fr"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "AFNIC",
+                    "immeuble le Stephenson",
+                    "1, rue Stephenson"
+                  ],
+                  "Montigny-Le-Bretonneux",
+                  "",
+                  "78180",
+                  "FR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "registrar",
+            "sponsor"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.re/nameserver/dawn.ns.cloudflare.com",
+          "value": "https://rdap.nic.re/nameserver/dawn.ns.cloudflare.com",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "href": "https://rdap.nic.re/domain/adsco.re",
+      "value": "https://rdap.nic.re/domain/adsco.re",
+      "rel": "self"
+    }
+  ]
+}

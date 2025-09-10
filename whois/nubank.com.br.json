@@ -1,0 +1,337 @@
+{
+  "objectClassName": "domain",
+  "handle": "nubank.com.br",
+  "ldhName": "nubank.com.br",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-340.awsdns-42.com",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-09T08:02:55Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-09T08:02:55Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1460.awsdns-54.org",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-09T08:02:55Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-09T08:02:55Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1569.awsdns-04.co.uk",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-09T08:02:55Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-09T08:02:55Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-736.awsdns-28.net",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-09T08:02:55Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-09T08:02:55Z"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nicbr_arbitration": true,
+  "links": [
+    {
+      "value": "https://rdap.registro.br/domain/nubank.com.br",
+      "rel": "self",
+      "href": "https://rdap.registro.br/domain/nubank.com.br",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.registro.br/domain/nubank.com.br",
+      "rel": "archives",
+      "href": "https://rdap.registro.br/domain/nubank.com.br?ticket=12272011",
+      "type": "application/rdap+json"
+    }
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "18236120000158",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NU PAGAMENTOS SA"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "BR"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "publicIds": [
+        {
+          "type": "cnpj",
+          "identifier": "18.236.120/0001-58"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "EOSPA3",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "kind",
+                {},
+                "text",
+                "individual"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "EOS Solucoes de Pagamento"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "dominios@nubank.com.br"
+              ],
+              [
+                "lang",
+                {},
+                "language-tag",
+                "pt"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "BR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "administrative"
+          ],
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2013-07-29T12:20:32Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2021-05-25T21:58:06Z"
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2013-07-29T12:39:02Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-10-26T13:33:10Z"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.registro.br/entity/18236120000158",
+          "rel": "self",
+          "href": "https://rdap.registro.br/entity/18236120000158",
+          "type": "application/rdap+json"
+        }
+      ],
+      "legalRepresentative": "Nubank Domínios"
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "EOSPA3",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "EOS Solucoes de Pagamento"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dominios@nubank.com.br"
+          ],
+          [
+            "lang",
+            {},
+            "language-tag",
+            "pt"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "BR"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2013-07-29T12:20:32Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-05-25T21:58:06Z"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2013-11-20T17:48:34Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-10-19T21:10:47Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-11-20T17:48:34Z"
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "notices": [
+    {
+      "title": "Use and Privacy Policy",
+      "description": [
+        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+        "2025-09-10T15:07:24-03:00 - 71.232.181.103"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.registro.br/domain/nubank.com.br",
+          "rel": "alternate",
+          "href": "https://registro.br/upp",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "nicbr_level_0"
+  ],
+  "port43": "whois.registro.br"
+}

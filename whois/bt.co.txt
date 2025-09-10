@@ -1,0 +1,178 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.co
+
+domain:       CO
+
+organisation: Ministry of Information and Communications Technologies (MinTIC)
+address:      Edificio Murillo Toro
+address:      Cra.8 #Entre Calles 12A y 12B
+address:      Bogotá D.C. Cundinamarca 111711
+address:      Colombia
+
+contact:      administrative
+name:         Thiago Grijo Dal-Toe
+organisation: Ministry of Information and Communications Technologies (MinTIC)
+address:      Edificio Murillo Toro
+address:      Cra.8 #Entre Calles 12A y 12B
+address:      Bogotá D.C. Cundinamarca 111711
+address:      Colombia
+phone:        +57 (601) 344 3460
+fax-no:       +57 (601) 344 2248
+e-mail:       cctld.co@mintic.gov.co
+
+contact:      technical
+name:         Gonzalo Romero
+organisation: .CO Internet S.A.S.
+address:      Calle 93B # 12-28
+address:      Oficina 203
+address:      Barrio Chico Norte (Chapinero)
+address:      Bogotá D.C. 110221
+address:      Colombia
+phone:        +57 (601) 794 89 99
+e-mail:       gonzalo@cointernet.com.co
+
+nserver:      NS1.CCTLD.CO 2001:dcd:1:0:0:0:0:14 37.209.192.14
+nserver:      NS2.CCTLD.CO 2001:dcd:2:0:0:0:0:14 37.209.194.14
+nserver:      NS3.CCTLD.CO 2001:dcd:3:0:0:0:0:14 37.209.196.14
+nserver:      NS4.CCTLD.CO 156.154.103.25 2610:a1:1010:0:0:0:0:21
+nserver:      NS5.CCTLD.CO 156.154.104.25 2610:a1:1011:0:0:0:0:21
+nserver:      NS6.CCTLD.CO 156.154.105.25 2610:a1:1012:0:0:0:0:21
+nserver:      NS7.CCTLD.CO 204.74.105.1 2610:a1:3180:0:0:0:0:53
+nserver:      NS8.CCTLD.CO 204.74.107.1 2610:a1:3280:0:0:0:0:53
+ds-rdata:     62110 8 2 4857ee1a85e661c92156ad09b40139dae7d5be37d117a1223289f0e20cf9d654
+
+whois:        whois.nic.co
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cointernet.com.co
+
+created:      1991-12-24
+changed:      2025-06-20
+source:       IANA
+
+# whois.nic.co
+
+Domain Name: bt.co
+Registry Domain ID: REDACTED FOR PRIVACY
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2024-06-23T18:37:32Z
+Creation Date: 2010-04-26T07:52:38Z
+Registry Expiry Date: 2026-04-25T23:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Arizona
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns-1450.awsdns-53.org
+Name Server: ns-87.awsdns-10.com
+Name Server: ns-1696.awsdns-20.co.uk
+Name Server: ns-746.awsdns-29.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-09-10T18:07:18Z <<<
+
+# whois.godaddy.com
+
+Domain Name: bt.co
+Registry Domain ID: D740640-CO
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2024-03-26T14:04:49Z
+Creation Date: 2010-04-26T07:52:38Z
+Registrar Registration Expiration Date: 2026-04-25T23:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: CR779124949
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: https://www.godaddy.com/whois/results.aspx?domain=bt.co&action=contactDomainOwner
+Registry Tech ID: CR779124948
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: https://www.godaddy.com/whois/results.aspx?domain=bt.co&action=contactDomainOwner
+Name Server: NS-1450.AWSDNS-53.ORG
+Name Server: NS-1696.AWSDNS-20.CO.UK
+Name Server: NS-87.AWSDNS-10.COM
+Name Server: NS-746.AWSDNS-29.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-09-10T18:07:18Z <<<
+

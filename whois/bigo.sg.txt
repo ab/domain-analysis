@@ -1,0 +1,74 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.sgnic.sg
+
+domain:       SG
+
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+
+contact:      administrative
+name:         Head (Technical and Ops)
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd.
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+phone:        +65 6659 2534
+e-mail:       dna@sgnic.sg
+
+contact:      technical
+name:         Head (Technical and Ops)
+organisation: Singapore Network Information Centre (SGNIC) Pte Ltd.
+address:      10 Pasir Panjang Road
+address:      #03-01 Mapletree Business City
+address:      Singapore 117438
+address:      Singapore
+phone:        +65 6659 2534
+e-mail:       dna@sgnic.sg
+
+nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
+nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
+nserver:      DSANY4.SGNIC.SG 2a0e:dbc0:1:0:0:0:0:65 45.142.220.65
+nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
+nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
+ds-rdata:     26329 8 2 404a15e6ca2f4ce259d8b2bd13894c7823a9513973103c962ff52bfc57a380af
+
+whois:        whois.sgnic.sg
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sgnic.sg
+
+created:      1988-10-19
+changed:      2024-11-19
+source:       IANA
+
+# whois.sgnic.sg
+
+Domain Name: bigo.sg
+Unicode Name: bigo.sg
+Updated Date: 2025-08-18T03:27:46Z
+Creation Date: 2014-08-08T03:46:46Z
+Registry Expiry Date: 2028-08-08T03:46:46Z
+Registrar: Key-Systems GmbH
+Domain Status: ok https://icann.org/epp#ok
+VerifiedID Status: VerifiedID@SG-OK
+Registry Lock:
+Registrant Name: BIGO TECHNOLOGY PTE. LTD.
+Admin Name: Key-Systems GmbH
+Tech Name: BIGO TECHNOLOGY PTE. LTD.
+Tech Email: domain@bigo.sg
+Name Server: ns-1347.awsdns-40.org
+Name Server: ns-1676.awsdns-17.co.uk
+Name Server: ns-473.awsdns-59.com
+Name Server: ns-631.awsdns-14.net
+Name Server: ns3.dnsv5.com
+Name Server: ns4.dnsv5.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-09-10T18:07:18Z <<<
+

@@ -1,0 +1,337 @@
+{
+  "objectClassName": "domain",
+  "handle": "shopee.com.br",
+  "ldhName": "shopee.com.br",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-125.awsdns-15.com",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-10T08:03:31Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-10T08:03:31Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-979.awsdns-58.net",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-10T08:03:31Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-10T08:03:31Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1496.awsdns-59.org",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-10T08:03:31Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-10T08:03:31Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1537.awsdns-00.co.uk",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-10T08:03:31Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-10T08:03:31Z"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nicbr_arbitration": true,
+  "links": [
+    {
+      "value": "https://rdap.registro.br/domain/shopee.com.br",
+      "rel": "self",
+      "href": "https://rdap.registro.br/domain/shopee.com.br",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.registro.br/domain/shopee.com.br",
+      "rel": "archives",
+      "href": "https://rdap.registro.br/domain/shopee.com.br?ticket=15229878",
+      "type": "application/rdap+json"
+    }
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "35635824000112",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "SHPS TECNOLOGIA E SERVICOS LTDA"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "BR"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "publicIds": [
+        {
+          "type": "cnpj",
+          "identifier": "35.635.824/0001-12"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "STSLT65",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "kind",
+                {},
+                "text",
+                "individual"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "SHPS TECNOLOGIA E SERVICOS LTDA"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "domain@seagroup.com"
+              ],
+              [
+                "lang",
+                {},
+                "language-tag",
+                "pt"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "BR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "administrative"
+          ],
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2020-08-26T16:26:53Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2023-04-28T05:12:48Z"
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2020-09-01T18:13:39Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-09-01T18:13:39Z"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.registro.br/entity/35635824000112",
+          "rel": "self",
+          "href": "https://rdap.registro.br/entity/35635824000112",
+          "type": "application/rdap+json"
+        }
+      ],
+      "legalRepresentative": "SHPS TECNOLOGIA E SERVICOS LTDA"
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "SSPLI5",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Shopee Singapore Private Limited"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dns-admin@cscglobal.com"
+          ],
+          [
+            "lang",
+            {},
+            "language-tag",
+            "pt"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "SG"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2020-09-17T05:14:44Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2020-09-17T05:14:44Z"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2016-02-28T18:12:33Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-11-13T16:24:15Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-02-28T18:12:33Z"
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "notices": [
+    {
+      "title": "Use and Privacy Policy",
+      "description": [
+        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+        "2025-09-10T15:07:26-03:00 - 2601:189:8480:9650:e552:fc30:8f7e:c489"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.registro.br/domain/shopee.com.br",
+          "rel": "alternate",
+          "href": "https://registro.br/upp",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "nicbr_level_0"
+  ],
+  "port43": "whois.registro.br"
+}

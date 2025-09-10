@@ -1,0 +1,210 @@
+{
+  "objectClassName": "domain",
+  "handle": "1680844024_DOMAIN_COM-VRSN",
+  "ldhName": "ADGRX.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/ADGRX.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/ADGRX.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.godaddy.com\/v1\/domain\/ADGRX.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.godaddy.com\/v1\/domain\/ADGRX.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client renew prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "146",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.godaddy.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.godaddy.com\/v1\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "146"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "GoDaddy.com, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:480-624-2505"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@godaddy.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-10-06T22:04:52Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-10-06T22:04:52Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-10-01T13:23:00Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A1-166.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A18-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A2-64.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A20-65.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A5-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1267.AWSDNS-30.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1554.AWSDNS-02.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-226.AWSDNS-28.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-616.AWSDNS-13.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/adgrx.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/adgrx.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

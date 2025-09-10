@@ -1,0 +1,189 @@
+{
+  "objectClassName": "domain",
+  "handle": "1708169927_DOMAIN_NET-VRSN",
+  "ldhName": "INMOBICDN.NET",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/INMOBICDN.NET",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/INMOBICDN.NET",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.registrar.amazon.com\/rdap\/domain\/INMOBICDN.NET",
+      "rel": "related",
+      "href": "https:\/\/rdap.registrar.amazon.com\/rdap\/domain\/INMOBICDN.NET",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "468",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/registrar.amazon.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.registrar.amazon.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "468"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Amazon Registrar, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.2024422253"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "trustandsafety@support.aws.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2012-03-21T05:59:54Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-03-21T05:59:54Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-07-24T03:43:07Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-CLOUD-B1.GOOGLEDOMAINS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-CLOUD-B2.GOOGLEDOMAINS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-CLOUD-B3.GOOGLEDOMAINS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-CLOUD-B4.GOOGLEDOMAINS.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/inmobicdn.net",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/inmobicdn.net",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

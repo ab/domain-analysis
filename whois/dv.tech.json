@@ -1,0 +1,286 @@
+{
+  "rdapConformance": [
+    "icann_rdap_response_profile_1",
+    "icann_rdap_response_profile_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_technical_implementation_guide_0",
+    "rdap_level_0"
+  ],
+  "lang": "en",
+  "objectClassName": "domain",
+  "handle": "D355453272-CNIC",
+  "ldhName": "dv.tech",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-cloud-e1.googledomains.com",
+      "handle": "H5492555-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/nameserver\/ns-cloud-e1.googledomains.com"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-cloud-e2.googledomains.com",
+      "handle": "H5492558-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/nameserver\/ns-cloud-e2.googledomains.com"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-cloud-e3.googledomains.com",
+      "handle": "H5492564-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/nameserver\/ns-cloud-e3.googledomains.com"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-cloud-e4.googledomains.com",
+      "handle": "H5492570-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/nameserver\/ns-cloud-e4.googledomains.com"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "3786",
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "GoDaddy Corporate Domains, LLC"
+          ]
+        ]
+      ],
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/entity\/3786"
+        },
+        {
+          "title": "Registrar's Website",
+          "rel": "about",
+          "value": "https:\/\/rdap.brandsight.com\/v1\/",
+          "href": "https:\/\/gcd.com\/"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "not applicable",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse Contact"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "GoDaddy Corporate Domains, LLC"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@gcd.com"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.5188315864"
+              ]
+            ]
+          ]
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "3786"
+        }
+      ]
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "port43": "whois.nic.tech",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2023-03-22T03:43:30.0Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-03-22T23:59:59.0Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:19.0Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-24T12:03:17.0Z"
+    },
+    {
+      "eventAction": "transfer",
+      "eventDate": "2025-01-29T13:40:03.0Z"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "title": "More information on domain status codes",
+          "rel": "glossary",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+          "href": "https:\/\/icann.org\/epp"
+        }
+      ]
+    },
+    {
+      "title": "Terms of Use",
+      "description": [
+        "For more information on Whois status codes, please visit https:\/\/icann.org\/epp",
+        "",
+        ">>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit",
+        "https:\/\/www.centralnicregistry.com\/support\/information\/rdap <<<",
+        "",
+        "The registration data available in this service is limited. Additional",
+        "data may be available at https:\/\/lookup.icann.org",
+        "",
+        "The Whois and RDAP services are provided by CentralNic, and contain",
+        "information pertaining to Internet domain names registered by our",
+        "our customers. By using this service you are agreeing (1) not to use any",
+        "information presented here for any purpose other than determining",
+        "ownership of domain names, (2) not to store or reproduce this data in",
+        "any way, (3) not to use any high-volume, automated, electronic processes",
+        "to obtain data from this service. Abuse of this service is monitored and",
+        "actions in contravention of these terms will result in being permanently",
+        "blacklisted. All data is (c) CentralNic Ltd (https:\/\/www.centralnicregistry.com)",
+        "",
+        "Access to the Whois and RDAP services is rate limited. For more",
+        "information, visit https:\/\/centralnicregistry.com\/policies\/whois-guidance."
+      ],
+      "links": [
+        {
+          "title": "Terms of Use",
+          "rel": "terms-of-service",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+          "href": "https:\/\/www.centralnicregistry.com\/"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "title": "ICANN RDDS Inaccuracy Complaint Form",
+          "rel": "help",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+          "href": "https:\/\/icann.org\/wicf"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "Authoritative URL for this resource",
+      "rel": "self",
+      "type": "application\/rdap+json",
+      "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+      "href": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech"
+    },
+    {
+      "title": "RDAP Service Help",
+      "rel": "help",
+      "type": "text\/html",
+      "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+      "href": "https:\/\/whois.nic.tech\/rdap"
+    },
+    {
+      "title": "Dot Tech LLC",
+      "rel": "related",
+      "type": "text\/html",
+      "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+      "href": "http:\/\/radixregistry.com"
+    },
+    {
+      "title": "URL of Sponsoring Registrar's RDAP Record",
+      "rel": "related",
+      "type": "application\/rdap+json",
+      "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/dv.tech",
+      "href": "https:\/\/rdap.brandsight.com\/v1\/domain\/dv.tech"
+    }
+  ]
+}

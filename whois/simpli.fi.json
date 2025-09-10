@@ -1,0 +1,92 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-03-09T00:00:00+02:00"
+    }
+  ],
+  "port43": "whois.nic.fi",
+  "ldhName": "simpli.fi",
+  "unicodeName": "simpli.fi",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "101domain GRS Limited"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              null,
+              null,
+              "Level 2, Plaza 3  Custom House Plaza Harbourmaster Place",
+              null,
+              null,
+              null,
+              "Ireland"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            null
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns1.simpli.fi [156.154.64.5] [OK]",
+      "unicodeName": "dns1.simpli.fi [156.154.64.5] [OK]"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns3.simpli.fi [156.154.66.5] [OK]",
+      "unicodeName": "dns3.simpli.fi [156.154.66.5] [OK]"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns2.simpli.fi [156.154.65.5] [OK]",
+      "unicodeName": "dns2.simpli.fi [156.154.65.5] [OK]"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns4.simpli.fi [156.154.67.5] [OK]",
+      "unicodeName": "dns4.simpli.fi [156.154.67.5] [OK]"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns5.simpli.fi [156.154.68.5] [OK]",
+      "unicodeName": "dns5.simpli.fi [156.154.68.5] [OK]"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "dns6.simpli.fi [156.154.69.5] [OK]",
+      "unicodeName": "dns6.simpli.fi [156.154.69.5] [OK]"
+    }
+  ]
+}

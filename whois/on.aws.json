@@ -1,0 +1,293 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "objectClassName": "domain",
+  "links": [
+    {
+      "value": "https://rdap.nominet.uk/aws/domain/on.aws",
+      "rel": "self",
+      "href": "https://rdap.nominet.uk/aws/domain/on.aws",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.nominet.uk/aws/domain/on.aws",
+      "rel": "related",
+      "href": "https://rdap.comlaude.com/rdap/domain/on.aws",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "The Registration Data Access Protocol (RDAP) service provides access to the records in the RDAP database for information purposes only, to assist you in obtaining information about the registration records of existing domain names. The stored information in the RDAP database is provided as is. We do not guarantee its accuracy or completeness, and cannot be held liable if the stored information in the RDAP database is wrong, incomplete, or inaccurate in any way. By querying the RDAP database in any way, you agree that you will not use this data: (i) to allow, enable or otherwise support the transmission of unsolicited, commercial advertising or other solicitations in any form or by any means; (ii) to enable high volume, automated, electronic processes that query or send data to the Registry Operator or registrar or registrant; (iii) for target advertising; (iv) to cause nuisance to registrants by sending (by any means) messages to or contacting them; (v) to violate any law, rule, regulation or statute; and/or (vi) in violation of applicable data and privacy protection acts. You are explicitly prohibited from extracting, copying and/or using or re-using in any form and by any means (electronically or not) all or part (quantitatively or qualitatively) of the contents of the RDAP database without prior and explicit permission from the RDAP server owner. Any copying or transmission of data for commercial purposes violates this prohibition. You agree that we can take measures to limit the use of the RDAP service to protect the privacy of registrants or the integrity of the database. We reserve the right to make changes to this website, the RDAP service, and these Terms and Conditions at any time without prior notice to you. You should review these Terms and Conditions each time you access or use the RDAP database and the RDAP service to learn of any changes. If you do not agree to the changes we have made, your only remedy is to stop your use of the RDAP database and the RDAP service. By executing a query, in any means whatsoever, you agree to these Terms of Service."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/aws/domain/on.aws",
+          "rel": "terms-of-service",
+          "href": "https://nominet.uk/rdap-tos",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/aws/domain/on.aws",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/aws/domain/on.aws",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventActor": "470",
+      "eventDate": "2021-09-29T19:55:26.144Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventActor": "470",
+      "eventDate": "2024-09-24T23:13:38Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-09-29T19:55:26.144Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:24.289Z"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client update prohibited",
+    "client transfer prohibited"
+  ],
+  "handle": "D37937678-AWS",
+  "ldhName": "on.aws",
+  "unicodeName": "on.aws",
+  "secureDNS": {
+    "delegationSigned": false,
+    "maxSigLife": 3024000
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/aws/entity/470",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/aws/entity/470",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.nominet.uk/aws/domain/on.aws",
+          "rel": "about",
+          "href": "https://rdap.comlaude.com/rdap/",
+          "type": "text/html"
+        }
+      ],
+      "handle": "470",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Nom-iq Ltd. dba COM LAUDE"
+          ],
+          [
+            "url",
+            {},
+            "uri",
+            "http://www.comlaude.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "470"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse contact"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+44.2074218250"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@comlaude.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ]
+        }
+      ]
+    }
+  ],
+  "publicIds": [
+    {
+      "type": "Registry Identifier",
+      "identifier": "D37937678-AWS"
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/aws/nameserver/ns-1688.awsdns-19.co.uk",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/aws/nameserver/ns-1688.awsdns-19.co.uk",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2021-09-29T00:35:08.63Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H37885478-AWS",
+      "ldhName": "ns-1688.awsdns-19.co.uk",
+      "unicodeName": "ns-1688.awsdns-19.co.uk"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/aws/nameserver/ns-1260.awsdns-29.org",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/aws/nameserver/ns-1260.awsdns-29.org",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2021-09-29T00:35:08.649Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H37885479-AWS",
+      "ldhName": "ns-1260.awsdns-29.org",
+      "unicodeName": "ns-1260.awsdns-29.org"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/aws/nameserver/ns-645.awsdns-16.net",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/aws/nameserver/ns-645.awsdns-16.net",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2021-09-29T00:35:08.667Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H37885480-AWS",
+      "ldhName": "ns-645.awsdns-16.net",
+      "unicodeName": "ns-645.awsdns-16.net"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/aws/nameserver/ns-338.awsdns-42.com",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/aws/nameserver/ns-338.awsdns-42.com",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2021-09-29T00:35:08.689Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "H37885481-AWS",
+      "ldhName": "ns-338.awsdns-42.com",
+      "unicodeName": "ns-338.awsdns-42.com"
+    }
+  ]
+}

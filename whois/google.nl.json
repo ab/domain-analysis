@@ -1,0 +1,294 @@
+{
+  "rdapConformance": [
+    "rdap_level_0"
+  ],
+  "objectClassName": "domain",
+  "notices": [
+    {
+      "title": "Domicilie notice",
+      "description": [
+        "Omdat het adres van deze houder in het buitenland gevestigd is, heeft de houder gekozen om het kantooradres van SIDN als domicilieadres (briefadres) op te geven. Meer informatie over deze keuze vind je in de Procedure Domicilieadres. https://www.sidn.nl/nl-domeinnaam/domicilieadres",
+        "As the registrant's address is not in the Netherlands, the registrant is obliged by the General Terms and Conditions for .nl Registrants to use SIDN's registered office address as a domicile address. More information on the use of a domicile address may be found at https://www.sidn.nl/en/nl-domain-name/domicile-address"
+      ],
+      "links": [
+        {
+          "value": "https://www.sidn.nl/nl-domeinnaam/domicilieadres",
+          "rel": "related",
+          "href": "https://www.sidn.nl/nl-domeinnaam/domicilieadres",
+          "hreflang": [
+            "nl"
+          ],
+          "type": "text/html"
+        },
+        {
+          "value": "https://www.sidn.nl/en/nl-domain-name/domicile-address",
+          "rel": "related",
+          "href": "https://www.sidn.nl/en/nl-domain-name/domicile-address",
+          "hreflang": [
+            "en"
+          ],
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Privacy notice",
+      "description": [
+        "De houdergegevens kunnen afgeschermd zijn. Meer informatie hierover vind je op: https://www.sidn.nl/nl-domeinnaam/sidn-en-privacy",
+        "The registrant's details can be withheld from public view. For more information, see https://www.sidn.nl/en/nl-domain-name/sidn-and-privacy"
+      ]
+    },
+    {
+      "description": [
+        "Administratie door: SIDN BV",
+        "Record maintained by: SIDN BV"
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "help",
+          "value": "https://rdap.sidn.nl/domain/google.nl"
+        }
+      ]
+    }
+  ],
+  "lang": "nl-NL",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1999-05-27T07:42:08Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-04-18T12:28:53Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:21Z"
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "ldhName": "google.nl",
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "GOO001748-MARKM",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Google Inc."
+          ]
+        ]
+      ],
+      "links": [
+        {
+          "value": "https://rdap.sidn.nl/entity/GOO001748-MARKM",
+          "rel": "self",
+          "href": "https://rdap.sidn.nl/entity/GOO001748-MARKM",
+          "type": "application/rdap+json"
+        }
+      ],
+      "roles": [
+        "registrant"
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "JOH004771-MARKM",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "REDACTED FOR PRIVACY"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "ccops@markmonitor.com"
+          ]
+        ]
+      ],
+      "links": [
+        {
+          "value": "https://rdap.sidn.nl/entity/JOH004771-MARKM",
+          "rel": "self",
+          "href": "https://rdap.sidn.nl/entity/JOH004771-MARKM",
+          "type": "application/rdap+json"
+        }
+      ],
+      "roles": [
+        "technical"
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "GOO007083-MARKM",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "REDACTED FOR PRIVACY"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "ccops@markmonitor.com"
+          ]
+        ]
+      ],
+      "links": [
+        {
+          "value": "https://rdap.sidn.nl/entity/GOO007083-MARKM",
+          "rel": "self",
+          "href": "https://rdap.sidn.nl/entity/GOO007083-MARKM",
+          "type": "application/rdap+json"
+        }
+      ],
+      "roles": [
+        "administrative"
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor Inc."
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "2150 S Bonito Way, Suite 150",
+              "Meridian",
+              "",
+              "83642",
+              "US"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "ns1.google.com",
+      "unicodeName": "ns1.google.com",
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.sidn.nl/nameserver/ns1.google.com",
+          "rel": "self",
+          "href": "https://rdap.sidn.nl/nameserver/ns1.google.com",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "ldhName": "ns2.google.com",
+      "unicodeName": "ns2.google.com",
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.sidn.nl/nameserver/ns2.google.com",
+          "rel": "self",
+          "href": "https://rdap.sidn.nl/nameserver/ns2.google.com",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "ldhName": "ns3.google.com",
+      "unicodeName": "ns3.google.com",
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.sidn.nl/nameserver/ns3.google.com",
+          "rel": "self",
+          "href": "https://rdap.sidn.nl/nameserver/ns3.google.com",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "ldhName": "ns4.google.com",
+      "unicodeName": "ns4.google.com",
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.sidn.nl/nameserver/ns4.google.com",
+          "rel": "self",
+          "href": "https://rdap.sidn.nl/nameserver/ns4.google.com",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.sidn.nl/domain/google.nl",
+      "rel": "self",
+      "href": "https://rdap.sidn.nl/domain/google.nl",
+      "type": "application/rdap+json"
+    }
+  ]
+}

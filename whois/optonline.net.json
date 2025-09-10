@@ -1,0 +1,190 @@
+{
+  "objectClassName": "domain",
+  "handle": "4531660_DOMAIN_NET-VRSN",
+  "ldhName": "OPTONLINE.NET",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/OPTONLINE.NET",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/OPTONLINE.NET",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.godaddy.com\/v1\/domain\/OPTONLINE.NET",
+      "rel": "related",
+      "href": "https:\/\/rdap.godaddy.com\/v1\/domain\/OPTONLINE.NET",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client renew prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "146",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.godaddy.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.godaddy.com\/v1\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "146"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "GoDaddy.com, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:480-624-2505"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@godaddy.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1996-10-07T04:00:00Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-10-06T04:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-10-06T14:30:18Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 39532,
+        "algorithm": 8,
+        "digestType": 2,
+        "digest": "26C670849488F9A4F3CB1825972B8D36D7509799E04894A1DD8E96359A3402DA"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "AUTHNS1.CV.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "AUTHNS1.CVNET.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/optonline.net",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/optonline.net",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

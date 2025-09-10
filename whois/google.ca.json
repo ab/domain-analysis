@@ -1,0 +1,587 @@
+{
+  "rdapConformance": [
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "rdap_level_0"
+  ],
+  "handle": "D73081-CIRA",
+  "ldhName": "google.ca",
+  "unicodeName": "google.ca",
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited",
+    "server delete prohibited",
+    "server transfer prohibited",
+    "server update prohibited"
+  ],
+  "port43": "whois.ca.fury.ca",
+  "links": [
+    {
+      "href": "https://rdap.ca.fury.ca/rdap/domain/google.ca",
+      "rel": "self",
+      "title": "Authoritative URL for this resource",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "title": "Status Codes",
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "related",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "title": "Terms of Service",
+      "links": [
+        {
+          "href": "https://cira.ca/legal-policy-compliance/website-terms-use",
+          "rel": "related",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "title": "RDDS Inaccuracy Complaint Form",
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "related",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "description": [
+        "\nUse of CIRA's WHOIS service is governed by the Terms of Use in its Legal\nNotice, available at http://www.cira.ca/legal-notice/?lang=en\n\n(c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)"
+      ],
+      "title": "Legal Notice",
+      "links": [
+        {
+          "href": "http://www.cira.ca/legal-notice",
+          "rel": "related",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2000-10-04T02:21:23Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-04-28T04:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-04-28T04:02:39Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:12Z"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "ns1.google.com",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "ns2.google.com",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "ns3.google.com",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "ns4.google.com",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "entities": [
+    {
+      "handle": "not applicable",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor International Canada Ltd."
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "registrar"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "url",
+            {
+              "type": "home"
+            },
+            "uri",
+            "Markmonitor.com"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "handle": "not applicable",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse Contact"
+              ],
+              [
+                "kind",
+                {},
+                "text",
+                "individual"
+              ],
+              [
+                "role",
+                {},
+                "text",
+                "abuse"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              ],
+              [
+                "tel",
+                {
+                  "type": [
+                    "voice"
+                  ]
+                },
+                "uri",
+                "tel:+1.2083895740"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abusecomplaints@markmonitor.com"
+              ],
+              [
+                "url",
+                {
+                  "type": "home"
+                },
+                "uri",
+                "Markmonitor.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "publicIds": [],
+          "objectClassName": "entity"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [],
+      "objectClassName": "entity"
+    },
+    {
+      "handle": "106113561-CIRA",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Google Canada Corporation"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Google Canada Corporation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "registrant"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "12-111 Richmond St. W",
+              "Toronto",
+              "ON",
+              "M5H2G4",
+              "CA"
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "voice"
+              ]
+            },
+            "uri",
+            "tel:+1.4162146034"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dns-admin@google.com"
+          ],
+          [
+            "url",
+            {
+              "type": "home"
+            },
+            "uri",
+            "Markmonitor.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "publicIds": [
+        {
+          "type": "ROID",
+          "identifier": "106113561-CIRA"
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "handle": "114145987-CIRA",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Colm Buckley"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Google Canada Corporation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "administrative"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "12-111 Richmond St W",
+              "Toronto",
+              "ON",
+              "M5H2G4",
+              "CA"
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "voice"
+              ]
+            },
+            "uri",
+            "tel:+1.4162146034"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dns-admin@google.com"
+          ],
+          [
+            "url",
+            {
+              "type": "home"
+            },
+            "uri",
+            "Markmonitor.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "publicIds": [
+        {
+          "type": "ROID",
+          "identifier": "114145987-CIRA"
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "handle": "114145987-CIRA",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Colm Buckley"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Google Canada Corporation"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "technical"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "12-111 Richmond St W",
+              "Toronto",
+              "ON",
+              "M5H2G4",
+              "CA"
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "voice"
+              ]
+            },
+            "uri",
+            "tel:+1.4162146034"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dns-admin@google.com"
+          ],
+          [
+            "url",
+            {
+              "type": "home"
+            },
+            "uri",
+            "Markmonitor.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "publicIds": [
+        {
+          "type": "ROID",
+          "identifier": "114145987-CIRA"
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "billing"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "url",
+            {
+              "type": "home"
+            },
+            "uri",
+            "Markmonitor.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "billing"
+      ],
+      "publicIds": [],
+      "objectClassName": "entity"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "objectClassName": "domain"
+}

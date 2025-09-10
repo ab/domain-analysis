@@ -1,0 +1,350 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Public Interest Registry provides this RDAP service for informational purposes only, and to assist persons in obtaining information about or related to a domain name registration record. Public Interest Registry does not guarantee its accuracy. Users accessing the Public Interest Registry RDAP service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers and b) enable high volume, automated, electronic processes that send queries or data to the systems of Public Interest Registry or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Public Interest Registry RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data can be requested by submitting a request to WHOISrequest@pir.org. Public Interest Registry Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/cookielaw.org",
+          "rel": "terms-of-service",
+          "href": "https://thenew.org/org-people/about-pir/policies/",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/cookielaw.org",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/cookielaw.org",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "ldhName": "cookielaw.org",
+  "unicodeName": "cookielaw.org",
+  "nameservers": [
+    {
+      "ldhName": "bob.ns.cloudflare.com",
+      "unicodeName": "bob.ns.cloudflare.com",
+      "objectClassName": "nameserver",
+      "handle": "b7420fd64fee49688990507711b5c939-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "sharon.ns.cloudflare.com",
+      "unicodeName": "sharon.ns.cloudflare.com",
+      "objectClassName": "nameserver",
+      "handle": "302113b014a24f699616d694648db967-LROR",
+      "status": [
+        "associated"
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false,
+    "maxSigLife": 1
+  },
+  "publicIds": [
+    {
+      "type": "IANA Registrar ID",
+      "identifier": "1068"
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registry Domain ID"
+      },
+      "prePath": "$.handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Contact"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Technical Contact"
+      },
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain",
+  "status": [
+    "client transfer prohibited"
+  ],
+  "events": [
+    {
+      "eventAction": "transfer",
+      "eventDate": "2017-03-31T02:40:12.494Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2030-06-20T12:47:48.443Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-06-20T12:47:48.443Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2021-06-02T17:37:15.103Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:19.385Z"
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Privacy service provided by Withheld for Privacy ehf"
+          ],
+          [
+            "adr",
+            {
+              "cc": "IS"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "Capital Region",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:19.385Z"
+        }
+      ]
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NameCheap, Inc."
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1068"
+        }
+      ],
+      "objectClassName": "entity",
+      "handle": "1068",
+      "entities": [
+        {
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Namecheap Abuse Contact"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.9854014545"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@namecheap.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "objectClassName": "entity",
+          "handle": "42bae3635a504ec987d126aebc896e82-LROR"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/entity/1068",
+          "rel": "self",
+          "href": "https://rdap.publicinterestregistry.org/rdap/entity/1068",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.namecheap.com",
+          "rel": "about",
+          "href": "https://rdap.namecheap.com",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/cookielaw.org",
+      "rel": "related",
+      "href": "https://rdap.namecheap.com/domain/cookielaw.org",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/cookielaw.org",
+      "rel": "self",
+      "href": "https://rdap.publicinterestregistry.org/rdap/domain/cookielaw.org",
+      "type": "application/rdap+json"
+    }
+  ]
+}

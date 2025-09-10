@@ -1,0 +1,187 @@
+{
+  "objectClassName": "domain",
+  "handle": "1860454571_DOMAIN_COM-VRSN",
+  "ldhName": "GRAFANA.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/GRAFANA.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/GRAFANA.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/enom.rdap.tucows.com\/domain\/GRAFANA.COM",
+      "rel": "related",
+      "href": "https:\/\/enom.rdap.tucows.com\/domain\/GRAFANA.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "48",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.enomdomains.com",
+          "type": "text\/html",
+          "value": "https:\/\/enom.rdap.tucows.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "48"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "eNom, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.4165350123"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@enom.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-05-27T18:44:53Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-05-27T18:44:53Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-26T08:52:38Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1007.AWSDNS-61.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1528.AWSDNS-63.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-153.AWSDNS-19.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1625.AWSDNS-11.CO.UK"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/grafana.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/grafana.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

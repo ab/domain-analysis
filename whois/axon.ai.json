@@ -1,0 +1,435 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Access to RDAP information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or, if the record pertains to a TLD not operated by Identity Digital, then the corresponding primary Registry Operator for informational purposes only, and neither Identity Digital nor the Registry Operator guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Identity Digital, a Registrar, or Registry Operator except as reasonably necessary to register domain names or modify existing registrations. When using the RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to the data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/ Identity Digital Inc. and, if applicable, the primary Registry Operators reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/axon.ai",
+          "rel": "terms-of-service",
+          "href": "https://www.identity.digital/policies/rdds-access-policy",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/axon.ai",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/axon.ai",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "ldhName": "axon.ai",
+  "unicodeName": "axon.ai",
+  "nameservers": [
+    {
+      "ldhName": "ns-cloud-b1.googledomains.com",
+      "unicodeName": "ns-cloud-b1.googledomains.com",
+      "objectClassName": "nameserver",
+      "handle": "57bc05500723404d85d5ec96f483c3d8-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns-cloud-b2.googledomains.com",
+      "unicodeName": "ns-cloud-b2.googledomains.com",
+      "objectClassName": "nameserver",
+      "handle": "c8e242b9333944978f471a1016103675-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns-cloud-b3.googledomains.com",
+      "unicodeName": "ns-cloud-b3.googledomains.com",
+      "objectClassName": "nameserver",
+      "handle": "4496dd59257d452bae23c34c14ac9949-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns-cloud-b4.googledomains.com",
+      "unicodeName": "ns-cloud-b4.googledomains.com",
+      "objectClassName": "nameserver",
+      "handle": "db29744e59564ffdab9f712422e3a27f-DONUTS",
+      "status": [
+        "associated"
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false,
+    "maxSigLife": 1
+  },
+  "publicIds": [
+    {
+      "type": "IANA Registrar ID",
+      "identifier": "146"
+    }
+  ],
+  "objectClassName": "domain",
+  "handle": "8c27b371db214c5499a497fe199a62dd-DONUTS",
+  "status": [
+    "client delete prohibited",
+    "client renew prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "events": [
+    {
+      "eventAction": "transfer",
+      "eventDate": "2024-04-04T20:51:02.897Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-12-08T23:48:17Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-12-15T23:48:17Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-04-02T19:30:35.227Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:18.401Z"
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Domains By Proxy, LLC"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Registration Private"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.4806242599"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "axon.ai@domainsbyproxy.com"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "DomainsByProxy.com, 100 S. Mill Ave, Suite 1600",
+              "Tempe",
+              "Arizona",
+              "85281",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "objectClassName": "entity",
+      "handle": "5372498c1f03477e8aab2ab8d706c049-DONUTS",
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:18.401Z"
+        }
+      ]
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Domains By Proxy, LLC"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Registration Private"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.4806242599"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "axon.ai@domainsbyproxy.com"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "DomainsByProxy.com, 100 S. Mill Ave, Suite 1600",
+              "Tempe",
+              "Arizona",
+              "85281",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "objectClassName": "entity",
+      "handle": "56613adcdc84404dba31178a4f9f9c6b-DONUTS",
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:18.401Z"
+        }
+      ]
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Domains By Proxy, LLC"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Registration Private"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.4806242599"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "axon.ai@domainsbyproxy.com"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "DomainsByProxy.com, 100 S. Mill Ave, Suite 1600",
+              "Tempe",
+              "Arizona",
+              "85281",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "objectClassName": "entity",
+      "handle": "14407932bbd8477c8165dbef1787270a-DONUTS",
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:18.401Z"
+        }
+      ]
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "GoDaddy.com, LLC"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "146"
+        }
+      ],
+      "objectClassName": "entity",
+      "handle": "146",
+      "entities": [
+        {
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse Domains"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.4806242505"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@godaddy.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "objectClassName": "entity",
+          "handle": "84f450eaec8d408d938fea88384e7989-IdentityDigital"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/entity/146",
+          "rel": "self",
+          "href": "https://rdap.identitydigital.services/rdap/entity/146",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.godaddy.com/v1/",
+          "rel": "about",
+          "href": "https://rdap.godaddy.com/v1/",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.identitydigital.services/rdap/domain/axon.ai",
+      "rel": "related",
+      "href": "https://rdap.godaddy.com/v1/domain/axon.ai",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.identitydigital.services/rdap/domain/axon.ai",
+      "rel": "self",
+      "href": "https://rdap.identitydigital.services/rdap/domain/axon.ai",
+      "type": "application/rdap+json"
+    }
+  ]
+}

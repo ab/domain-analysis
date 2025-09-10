@@ -1,0 +1,208 @@
+{
+  "objectClassName": "domain",
+  "handle": "449224_DOMAIN_COM-VRSN",
+  "ldhName": "FORCE.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/FORCE.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/FORCE.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.markmonitor.com\/rdap\/domain\/FORCE.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.markmonitor.com\/rdap\/domain\/FORCE.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited",
+    "server delete prohibited",
+    "server transfer prohibited",
+    "server update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "292",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.markmonitor.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.markmonitor.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "292"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.2086851750"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abusecomplaints@markmonitor.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1991-05-20T04:00:00Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-05-21T04:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-04-19T09:07:40Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 21188,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "0B6E0B5F08880171FE1C25F510B8A5F71C62BFC82585B1F546278768A7EF5F1F"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "PCH1.SALESFORCE-DNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "PCH2.SALESFORCE-DNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "UDNS1.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "UDNS2.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "UDNS3.SALESFORCE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "UDNS4.SALESFORCE.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/force.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/force.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

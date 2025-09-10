@@ -1,0 +1,187 @@
+{
+  "objectClassName": "domain",
+  "handle": "1663204083_DOMAIN_COM-VRSN",
+  "ldhName": "ADRTA.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/ADRTA.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/ADRTA.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/enom.rdap.tucows.com\/domain\/ADRTA.COM",
+      "rel": "related",
+      "href": "https:\/\/enom.rdap.tucows.com\/domain\/ADRTA.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "48",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.enomdomains.com",
+          "type": "text\/html",
+          "value": "https:\/\/enom.rdap.tucows.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "48"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "eNom, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.4165350123"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@enom.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-06-22T18:35:29Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2028-06-22T18:35:29Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2020-09-22T17:09:31Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1157.AWSDNS-16.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1793.AWSDNS-32.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-433.AWSDNS-54.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-615.AWSDNS-12.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/adrta.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/adrta.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

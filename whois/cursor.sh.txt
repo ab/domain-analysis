@@ -1,0 +1,170 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.sh
+
+domain:       SH
+
+organisation: Government of St. Helena
+address:      The Castle
+address:      Jamestown
+address:      Saint Helena, Ascension and Tristan da Cunha
+
+contact:      administrative
+name:         Chief Secretary
+organisation: Government of St. Helena
+address:      The Castle
+address:      Jamestown
+address:      Saint Helena, Ascension and Tristan da Cunha
+fax-no:       +290 2598
+e-mail:       administrator@nic.sh
+
+contact:      technical
+name:         Technical Director
+organisation: Internet Computer Bureau Ltd
+address:      Greytown House, 221-227 High Street
+address:      Orpington Kent BR6 0NZ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
+e-mail:       admin@icb.co.uk
+
+nserver:      A0.NIC.SH 2a01:8840:9e:0:0:0:0:9 65.22.160.9
+nserver:      A2.NIC.SH 2a01:8840:a1:0:0:0:0:9 65.22.163.9
+nserver:      B0.NIC.SH 2a01:8840:9f:0:0:0:0:9 65.22.161.9
+nserver:      C0.NIC.SH 2a01:8840:a0:0:0:0:0:9 65.22.162.9
+ds-rdata:     55297 8 2 ba339ad6e081dad292a3f473cbdd5adc53a0222769a7c6125f506dd6a813787f
+
+whois:        whois.nic.sh
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.sh/
+
+created:      1997-09-23
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.sh
+
+Domain Name: cursor.sh
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2025-01-26T05:43:13Z
+Creation Date: 2023-04-05T07:53:26Z
+Registry Expiry Date: 2026-04-05T07:53:26Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED
+Registrant Name: REDACTED
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: Capital Region
+Registrant Postal Code: REDACTED
+Registrant Country: IS
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: REDACTED
+Registry Admin ID: REDACTED
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: REDACTED
+Registry Tech ID: REDACTED
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: REDACTED
+Name Server: ns-896.awsdns-48.net
+Name Server: ns-70.awsdns-08.com
+Name Server: ns-1554.awsdns-02.co.uk
+Name Server: ns-1143.awsdns-14.org
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2025-09-10T18:07:19Z <<<
+
+# whois.namecheap.com
+
+Domain name: cursor.sh
+Registry Domain ID: 55dd9ec3d4474c169efac8e8d073fedf-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2025-01-21T05:42:19.23Z
+Creation Date: 2023-04-05T07:53:26.83Z
+Registrar Registration Expiration Date: 2026-04-05T07:53:26.83Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Redacted for Privacy
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant Street: Kalkofnsvegur 2 
+Registrant City: Reykjavik
+Registrant State/Province: Capital Region
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +354.4212434
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 53407087cd804daa8fc9e5d2a3bfc168.protect@withheldforprivacy.com
+Registry Admin ID: 
+Admin Name: Redacted for Privacy
+Admin Organization: Privacy service provided by Withheld for Privacy ehf
+Admin Street: Kalkofnsvegur 2 
+Admin City: Reykjavik
+Admin State/Province: Capital Region
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +354.4212434
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 53407087cd804daa8fc9e5d2a3bfc168.protect@withheldforprivacy.com
+Registry Tech ID: 
+Tech Name: Redacted for Privacy
+Tech Organization: Privacy service provided by Withheld for Privacy ehf
+Tech Street: Kalkofnsvegur 2 
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +354.4212434
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 53407087cd804daa8fc9e5d2a3bfc168.protect@withheldforprivacy.com
+Name Server: ns-1143.awsdns-14.org
+Name Server: ns-1554.awsdns-02.co.uk
+Name Server: ns-70.awsdns-08.com
+Name Server: ns-896.awsdns-48.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-09-09T20:41:50.56Z <<<
+

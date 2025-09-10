@@ -1,0 +1,424 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Public Interest Registry provides this RDAP service for informational purposes only, and to assist persons in obtaining information about or related to a domain name registration record. Public Interest Registry does not guarantee its accuracy. Users accessing the Public Interest Registry RDAP service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers and b) enable high volume, automated, electronic processes that send queries or data to the systems of Public Interest Registry or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Public Interest Registry RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data can be requested by submitting a request to WHOISrequest@pir.org. Public Interest Registry Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/eu.org",
+          "rel": "terms-of-service",
+          "href": "https://thenew.org/org-people/about-pir/policies/",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/eu.org",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/eu.org",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "ldhName": "eu.org",
+  "unicodeName": "eu.org",
+  "nameservers": [
+    {
+      "ldhName": "ns.bortzmeyer.eu.org",
+      "unicodeName": "ns.bortzmeyer.eu.org",
+      "ipAddresses": {
+        "v4": [
+          "172.104.125.43"
+        ],
+        "v6": [
+          "2400:8902::f03c:91ff:fe69:60d3"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "9aa5bb8fe6e34f65953934bd96a6ba7b-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns1.eu.org",
+      "unicodeName": "ns1.eu.org",
+      "ipAddresses": {
+        "v4": [
+          "45.63.100.187"
+        ],
+        "v6": [
+          "2001:19f0:7402:6b6:5400:1ff:fe9e:d9fe"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "b46fc6733b0a47e6855a7e08f4a27437-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "wombat.billaud.eu.org",
+      "unicodeName": "wombat.billaud.eu.org",
+      "ipAddresses": {
+        "v4": [
+          "139.99.155.59"
+        ],
+        "v6": [
+          "2402:1f00:8100:400::428"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "0078a942648146b0b33c6a80f46fa16d-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "gra.wolfhugel.eu",
+      "unicodeName": "gra.wolfhugel.eu",
+      "objectClassName": "nameserver",
+      "handle": "e6f1df3994454961b431f207d2848370-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "hobbes.bsd-dk.dk",
+      "unicodeName": "hobbes.bsd-dk.dk",
+      "objectClassName": "nameserver",
+      "handle": "7bde7e73bed141ee888e0298d5bf41a3-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns1.eriomem.net",
+      "unicodeName": "ns1.eriomem.net",
+      "objectClassName": "nameserver",
+      "handle": "3dc566812dd3494987d952f2eda80004-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns3.keltia.net",
+      "unicodeName": "ns3.keltia.net",
+      "objectClassName": "nameserver",
+      "handle": "7b7b61f03d9e4bc3bb27a3e20f97c274-LROR",
+      "status": [
+        "associated"
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "maxSigLife": 1,
+    "dsData": [
+      {
+        "keyTag": 36406,
+        "algorithm": 8,
+        "digest": "4C6CA5CE24B94EEB26CFB2BB9594DCD553088C4AE22A9F98BC5CA5FC36A6F4D2",
+        "digestType": 2
+      }
+    ]
+  },
+  "publicIds": [
+    {
+      "type": "IANA Registrar ID",
+      "identifier": "81"
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registry Domain ID"
+      },
+      "prePath": "$.handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Fax"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Contact"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Technical Contact"
+      },
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain",
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited"
+  ],
+  "events": [
+    {
+      "eventAction": "expiration",
+      "eventDate": "2030-08-08T04:00:00Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1995-08-09T04:00:00.854Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-01-15T16:08:44.773Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:20.001Z"
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {
+              "cc": "FR"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:20.001Z"
+        }
+      ]
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Gandi SAS"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "81"
+        }
+      ],
+      "objectClassName": "entity",
+      "handle": "81",
+      "entities": [
+        {
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Arnaud Franquinet"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.170377661"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@support.gandi.net"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "objectClassName": "entity",
+          "handle": "ffba2eccf7e1438e9ddc9d520fe1bd1f-LROR"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/entity/81",
+          "rel": "self",
+          "href": "https://rdap.publicinterestregistry.org/rdap/entity/81",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.gandi.net",
+          "rel": "about",
+          "href": "https://rdap.gandi.net",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/eu.org",
+      "rel": "related",
+      "href": "https://rdap.gandi.net/domain/eu.org",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/eu.org",
+      "rel": "self",
+      "href": "https://rdap.publicinterestregistry.org/rdap/domain/eu.org",
+      "type": "application/rdap+json"
+    }
+  ]
+}

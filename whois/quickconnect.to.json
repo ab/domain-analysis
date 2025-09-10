@@ -1,0 +1,314 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "The WHOIS information provided in this page has been redacted",
+        "in compliance with ICANN's Temporary Specification for gTLD",
+        "Registration Data.",
+        "",
+        "The data in this record is provided by Tucows Registry for informational",
+        "purposes only, and it does not guarantee its accuracy. Tucows Registry is",
+        "authoritative for whois information in top-level domains it operates",
+        "under contract with the Internet Corporation for Assigned Names and",
+        "Numbers. Whois information from other top-level domains is provided by",
+        "a third-party under license to Tucows Registry.",
+        "",
+        "This service is intended only for query-based access. By using this",
+        "service, you agree that you will use any data presented only for lawful",
+        "purposes and that, under no circumstances will you use (a) data",
+        "acquired for the purpose of allowing, enabling, or otherwise supporting",
+        "the transmission by e-mail, telephone, facsimile or other",
+        "communications mechanism of mass  unsolicited, commercial advertising",
+        "or solicitations to entities other than your existing  customers; or",
+        "(b) this service to enable high volume, automated, electronic processes",
+        "that send queries or data to the systems of any Registrar or any",
+        "Registry except as reasonably necessary to register domain names or",
+        "modify existing domain name registrations.",
+        "",
+        "Tucows Registry reserves the right to modify these terms at any time. By",
+        "submitting this query, you agree to abide by this policy. All rights",
+        "reserved."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.tonicregistry.to/rdap/domain/quickconnect.to",
+          "rel": "terms-of-service",
+          "href": "https://rdap.tonicregistry.to",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.tonicregistry.to/rdap/domain/quickconnect.to",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.tonicregistry.to/rdap/domain/quickconnect.to",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registrant Contact"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain",
+  "handle": "DO_abcd788a718a75c540e45e5c4421241a-TONIC",
+  "ldhName": "quickconnect.to",
+  "unicodeName": "quickconnect.to",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "handle": "HO_3ae3ae261ac768ca654d1fb368150c5c-TONIC",
+      "ldhName": "ns-1412.awsdns-48.org",
+      "unicodeName": "ns-1412.awsdns-48.org",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:25.759Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HO_dbd9308d39896eda67f8993dbe8d56d1-TONIC",
+      "ldhName": "ns-1987.awsdns-56.co.uk",
+      "unicodeName": "ns-1987.awsdns-56.co.uk",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:25.759Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HO_167ebc4bcc1f011208552b487c9da5a5-TONIC",
+      "ldhName": "ns-55.awsdns-06.com",
+      "unicodeName": "ns-55.awsdns-06.com",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:25.759Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HO_26f60e7086a76579af02220da04feef7-TONIC",
+      "ldhName": "ns-597.awsdns-10.net",
+      "unicodeName": "ns-597.awsdns-10.net",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:25.759Z"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "6763001",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Government of Kingdom of Tonga"
+          ],
+          [
+            "adr",
+            {
+              "cc": "TO"
+            },
+            "text",
+            [
+              "",
+              "",
+              "N/A",
+              "Nuku'alofa",
+              "Tongatapu",
+              "N/A",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+999.12345678"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+999.12345678"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "info@tonicregistry.to"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "6763001"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+999.12345678"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "info@tonicregistry.to"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "events": [
+            {
+              "eventAction": "last update of RDAP database",
+              "eventDate": "2025-09-10T18:07:25.759Z"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "about",
+          "href": "https://rdap.tonicregistry.to/rdap/entity/6763001",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:25.759Z"
+        }
+      ]
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "links": [
+    {
+      "value": "https://rdap.tonicregistry.to/rdap/domain/quickconnect.to",
+      "rel": "self",
+      "href": "https://rdap.tonicregistry.to/rdap/domain/quickconnect.to",
+      "type": "application/rdap+json"
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventActor": "escrow_import",
+      "eventDate": "2013-12-02T22:28:34.000Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-12-02T22:28:34.000Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-10-26T16:41:05.000Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:25.759Z"
+    }
+  ]
+}

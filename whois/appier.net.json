@@ -1,0 +1,195 @@
+{
+  "objectClassName": "domain",
+  "handle": "1728154599_DOMAIN_NET-VRSN",
+  "ldhName": "APPIER.NET",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/APPIER.NET",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/APPIER.NET",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.spaceship.com\/domain\/APPIER.NET",
+      "rel": "related",
+      "href": "https:\/\/rdap.spaceship.com\/domain\/APPIER.NET",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "3862",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.spaceship.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.spaceship.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "3862"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Spaceship, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.9854014545"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@spaceship.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2012-06-19T06:31:49Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-06-19T06:31:49Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-04-07T06:54:25Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A1-247.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A13-64.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A20-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A22-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A8-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A9-66.AKAM.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/appier.net",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/appier.net",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

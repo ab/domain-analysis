@@ -1,0 +1,376 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Public Interest Registry provides this RDAP service for informational purposes only, and to assist persons in obtaining information about or related to a domain name registration record. Public Interest Registry does not guarantee its accuracy. Users accessing the Public Interest Registry RDAP service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers and b) enable high volume, automated, electronic processes that send queries or data to the systems of Public Interest Registry or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Public Interest Registry RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data can be requested by submitting a request to WHOISrequest@pir.org. Public Interest Registry Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/debian.org",
+          "rel": "terms-of-service",
+          "href": "https://thenew.org/org-people/about-pir/policies/",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/debian.org",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/debian.org",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "ldhName": "debian.org",
+  "unicodeName": "debian.org",
+  "nameservers": [
+    {
+      "ldhName": "dns4.easydns.info",
+      "unicodeName": "dns4.easydns.info",
+      "objectClassName": "nameserver",
+      "handle": "4dbefb785b274c46b6c98bacaea72ce3-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "nsp.dnsnode.net",
+      "unicodeName": "nsp.dnsnode.net",
+      "objectClassName": "nameserver",
+      "handle": "b17f21a5d95b47c6af172f549faf4645-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "sec1.rcode0.net",
+      "unicodeName": "sec1.rcode0.net",
+      "objectClassName": "nameserver",
+      "handle": "8682389b96cf493bb3ecc8b039ea5c41-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "sec2.rcode0.net",
+      "unicodeName": "sec2.rcode0.net",
+      "objectClassName": "nameserver",
+      "handle": "8e871fd8c5ba43c68f47844e27efc33c-LROR",
+      "status": [
+        "associated"
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "maxSigLife": 1,
+    "dsData": [
+      {
+        "keyTag": 40756,
+        "algorithm": 8,
+        "digest": "BBE42151B1A41EFC1F7E6D74D86E601D55051D2B9EB99B1CD0CEAA6E2A5618F5",
+        "digestType": 2
+      }
+    ]
+  },
+  "publicIds": [
+    {
+      "type": "IANA Registrar ID",
+      "identifier": "81"
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registry Domain ID"
+      },
+      "prePath": "$.handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Contact"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Technical Contact"
+      },
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain",
+  "status": [
+    "client transfer prohibited"
+  ],
+  "events": [
+    {
+      "eventAction": "transfer",
+      "eventDate": "2013-07-19T18:46:39.997Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-03-10T05:00:00Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1999-03-10T05:00:00.997Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-17T16:36:11.789Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:19.425Z"
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Software in the Public Interest, Inc. - Debian Project"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "NY",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T18:07:19.425Z"
+        }
+      ]
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Gandi SAS"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "81"
+        }
+      ],
+      "objectClassName": "entity",
+      "handle": "81",
+      "entities": [
+        {
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Arnaud Franquinet"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.170377661"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@support.gandi.net"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "objectClassName": "entity",
+          "handle": "ffba2eccf7e1438e9ddc9d520fe1bd1f-LROR"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/entity/81",
+          "rel": "self",
+          "href": "https://rdap.publicinterestregistry.org/rdap/entity/81",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.gandi.net",
+          "rel": "about",
+          "href": "https://rdap.gandi.net",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/debian.org",
+      "rel": "related",
+      "href": "https://rdap.gandi.net/domain/debian.org",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/debian.org",
+      "rel": "self",
+      "href": "https://rdap.publicinterestregistry.org/rdap/domain/debian.org",
+      "type": "application/rdap+json"
+    }
+  ]
+}

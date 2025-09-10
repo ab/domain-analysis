@@ -1,0 +1,255 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_0",
+    "icann_rdap_response_profile_0"
+  ],
+  "objectClassName": "domain",
+  "links": [
+    {
+      "value": "http://rdap.nic.ms/domain/aka.ms",
+      "rel": "related",
+      "href": "http://rdap.nic.ms/domain/aka.ms",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Access to RDAP information is provided to assist persons interested in domains, nameservers, or associated entities."
+      ],
+      "links": [
+        {
+          "value": "http://rdap.nic.ms",
+          "rel": "related",
+          "href": "http://rdap.nic.ms",
+          "title": "Terms of Use",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "URL of ICANN EPP Status code descriptions"
+      ],
+      "links": [
+        {
+          "value": "https://icann.org/epp",
+          "rel": "related",
+          "href": "https://icann.org/epp",
+          "title": "More information on domain status codes",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://icann.org/wicf",
+          "rel": "related",
+          "href": "https://icann.org/wicf",
+          "title": "ICANN RDDS Inaccuracy Complaint Form",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2011-01-20T00:00:00Z"
+    },
+    {
+      "eventAction": "reregistration",
+      "eventActor": "CSC Corporate Domains",
+      "eventDate": "2024-12-09T14:17:01Z"
+    },
+    {
+      "eventAction": "transfer",
+      "eventActor": "CSC Corporate Domains",
+      "eventDate": "2011-06-20T08:02:50Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-01-20T16:48:05Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-12-09T14:17:23Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:17Z"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "handle": "79428-MNINET",
+  "ldhName": "aka.ms",
+  "unicodeName": "aka.ms",
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "55",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "CSC Corporate Domains"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "2711 Centerville Road\r\nSuite 400\r\nWilmington, DE 19808\r\nTelephone within North America:\r\n 888-670-5566",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "admin@internationaladmin.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "55"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "55",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "CSC Corporate Domains"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ]
+        }
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/asia1.akam.net",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "asia1.akam.net",
+      "unicodeName": "asia1.akam.net"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/asia3.akam.net",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "asia3.akam.net",
+      "unicodeName": "asia3.akam.net"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/eur2.akam.net",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "eur2.akam.net",
+      "unicodeName": "eur2.akam.net"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/use9.akam.net",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "use9.akam.net",
+      "unicodeName": "use9.akam.net"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/usw1.akam.net",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "usw1.akam.net",
+      "unicodeName": "usw1.akam.net"
+    }
+  ]
+}

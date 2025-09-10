@@ -1,0 +1,195 @@
+{
+  "objectClassName": "domain",
+  "handle": "1249345_DOMAIN_COM-VRSN",
+  "ldhName": "XVIDEOS.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/XVIDEOS.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/XVIDEOS.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.regtons.com\/domain\/XVIDEOS.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.regtons.com\/domain\/XVIDEOS.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1505",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/regtons.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.regtons.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1505"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Gransy, s.r.o."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+420.734 463 373"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@regtons.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1997-12-30T05:00:00Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2028-12-29T05:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-11-27T10:31:01Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:21Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.RANDOMSERVER.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS2.RANDOMSERVER.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS3.RANDOMSERVER.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS4.RANDOMSERVER.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS5.RANDOMSERVER.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS6.RANDOMSERVER.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/xvideos.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/xvideos.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

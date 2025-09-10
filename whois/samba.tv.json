@@ -1,0 +1,600 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "objectClassName": "domain",
+  "ldhName": "samba.tv",
+  "status": [
+    "client transfer prohibited"
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-03-23T21:48:03Z",
+      "eventActor": "eNom, LLC"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-03-23T21:48:03Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-27T08:54:02Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:25Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              [
+                "",
+                "",
+                ""
+              ],
+              "",
+              "AZ",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "48",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "eNom, LLC"
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              [
+                "10400 NE 4th St.",
+                "",
+                ""
+              ],
+              "Bellevue",
+              "WA",
+              "98004",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.4253760505"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+1.4253760888"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "stahura@enom.com"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "eNom, LLC"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.4165350123"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@enom.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ]
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "identifier": "48",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2001-09-30T16:26:03Z",
+          "eventActor": "REGISTRY"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-07-30T09:31:08Z",
+          "eventActor": "REGISTRY"
+        }
+      ],
+      "links": [
+        {
+          "title": "Authoritative Registry object record",
+          "rel": "self",
+          "value": "https://rdap.nic.tv/entity/48",
+          "href": "https://rdap.nic.tv/entity/48",
+          "type": "application/rdap+json"
+        },
+        {
+          "title": "Registrar Details object record",
+          "rel": "about",
+          "value": "https://enom.rdap.tucows.com/",
+          "href": "whois.enom.com",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "handle": "HA705720A5CC84C1DBEFBE51E501B85B3-ARI",
+      "ldhName": "ns-297.awsdns-37.com",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2014-03-22T06:15:31Z",
+          "eventActor": "Tucows Domains Inc."
+        }
+      ],
+      "links": [
+        {
+          "title": "Authoritative Registry object record",
+          "rel": "self",
+          "value": "https://rdap.nic.tv/nameserver/ns-297.awsdns-37.com",
+          "href": "https://rdap.nic.tv/nameserver/ns-297.awsdns-37.com",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HA6043E934A4F4F9C9B6987F035ACC769-ARI",
+      "ldhName": "ns-951.awsdns-54.net",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2014-03-17T03:15:46Z",
+          "eventActor": "Tucows Domains Inc."
+        }
+      ],
+      "links": [
+        {
+          "title": "Authoritative Registry object record",
+          "rel": "self",
+          "value": "https://rdap.nic.tv/nameserver/ns-951.awsdns-54.net",
+          "href": "https://rdap.nic.tv/nameserver/ns-951.awsdns-54.net",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "H650D7CCA60D6403BA20F8BE3620F4A3C-ARI",
+      "ldhName": "ns-1787.awsdns-31.co.uk",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2014-04-04T06:46:21Z",
+          "eventActor": "Tucows Domains Inc."
+        }
+      ],
+      "links": [
+        {
+          "title": "Authoritative Registry object record",
+          "rel": "self",
+          "value": "https://rdap.nic.tv/nameserver/ns-1787.awsdns-31.co.uk",
+          "href": "https://rdap.nic.tv/nameserver/ns-1787.awsdns-31.co.uk",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HA05E84EEA8B543F5AF1F12106AB9E645-ARI",
+      "ldhName": "ns-1094.awsdns-08.org",
+      "status": [
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2014-03-17T02:36:16Z",
+          "eventActor": "Tucows Domains Inc."
+        }
+      ],
+      "links": [
+        {
+          "title": "Authoritative Registry object record",
+          "rel": "self",
+          "value": "https://rdap.nic.tv/nameserver/ns-1094.awsdns-08.org",
+          "href": "https://rdap.nic.tv/nameserver/ns-1094.awsdns-08.org",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "notices": [
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "rel": "glossary",
+          "value": "https://rdap.nic.tv/domain/samba.tv",
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "rel": "help",
+          "value": "https://rdap.nic.tv/domain/samba.tv",
+          "href": "https://icann.org/wicf",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDAP Terms of Service",
+      "description": [
+        "The RDAP service (the Service) offered by Registry Services LLC, or our designated representatives (GoDaddy Registry), is provided for informational purposes only and is designed to assist a user (you) to look up certain information related to the registration records of existing domain names.",
+        "The information provided by the Service is \u2018as is\u2019 and we make no guarantee of its accuracy. Registry Services LLC cannot, under any circumstances, be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense.",
+        "By submitting a query, you agree that you will not use this data",
+        "(i)            to allow, enable or otherwise support in any way the transmission of unsolicited, commercial advertising or other solicitations whether via direct mail, email, telephone or otherwise;",
+        "(ii)           to enable high volume, automated, electronic processes that apply to the Service or associated systems;",
+        "(iii)          for targeted advertising in any possible way;",
+        "(iv)         to cause nuisance in any possible way to individuals by sending (whether by automated, electronic processes capable of enabling high volumes or other possible means) messages to them;",
+        "(v)          in a way that is inconsistent with any applicable laws rule, regulation or statute or any policy issued by Registry Services LLC; and/or",
+        "(vi)         in contravention of any applicable data and privacy protection acts.",
+        "Without prejudice to the above, the copying, compilation, repackaging, dissemination or other use of the information provided by the Service is explicitly forbidden without prior and explicit permission by Registry Services LLC.",
+        "By your use of the Service you agree to abide by these Terms of Service and accept that Registry Services LLC can take measures to limit the use of the Service in order to protect the privacy of registrants or the integrity of the Service. Registry Services LLC may restrict, suspend or terminate your access to the Service at any time. Registry Services LLC reserve the right to make changes to the Service and these Terms of Service at any time without prior notice to you. It is your responsibility to review these Terms of Service each time you access or use the Service to keep apprised of any changes. If you do not agree to the changes implemented by Registry Services LLC, your sole and exclusive remedy is to terminate your use of the Service.",
+        "By executing a query, in any manner whatsoever, you agree to abide by these Terms of Service."
+      ],
+      "links": [
+        {
+          "rel": "terms-of-service",
+          "value": "https://rdap.nic.tv/domain/samba.tv",
+          "href": "https://www.registry.godaddy/rdap",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "Registrar RDAP server object record",
+      "rel": "related",
+      "value": "https://rdap.nic.tv/domain/samba.tv",
+      "href": "https://enom.rdap.tucows.com/domain/samba.tv",
+      "type": "application/rdap+json"
+    },
+    {
+      "title": "Authoritative Registry object record",
+      "rel": "self",
+      "value": "https://rdap.nic.tv/domain/samba.tv",
+      "href": "https://rdap.nic.tv/domain/samba.tv",
+      "type": "application/rdap+json"
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registry Domain ID"
+      },
+      "prePath": "$.handle",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Organization"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='org')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Phone Ext"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Fax"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registrant Fax Ext"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Registry Tech ID"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='technical')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Tech Name"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Tech Email"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Tech Phone"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    },
+    {
+      "name": {
+        "type": "Tech Phone Ext"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal",
+      "reason": {
+        "description": "Server policy"
+      }
+    }
+  ]
+}

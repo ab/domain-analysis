@@ -1,0 +1,288 @@
+{
+  "rdapConformance": [
+    "icann_rdap_response_profile_1",
+    "icann_rdap_response_profile_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_technical_implementation_guide_0",
+    "rdap_level_0"
+  ],
+  "lang": "en",
+  "objectClassName": "domain",
+  "handle": "D58824168-CNIC",
+  "ldhName": "primis.tech",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1492.awsdns-58.org",
+      "handle": "H331014-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/nameserver\/ns-1492.awsdns-58.org"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1896.awsdns-45.co.uk",
+      "handle": "H301066-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/nameserver\/ns-1896.awsdns-45.co.uk"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-285.awsdns-35.com",
+      "handle": "H331721-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/nameserver\/ns-285.awsdns-35.com"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-672.awsdns-20.net",
+      "handle": "H214432-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/nameserver\/ns-672.awsdns-20.net"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "468",
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Amazon Registrar, Inc."
+          ]
+        ]
+      ],
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+          "href": "https:\/\/rdap.centralnic.com\/tech\/entity\/468"
+        },
+        {
+          "title": "Registrar's Website",
+          "rel": "about",
+          "value": "https:\/\/rdap.registrar.amazon.com\/rdap\/",
+          "href": "http:\/\/registrar.amazon.com"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "not applicable",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse Contact"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "Amazon Registrar, Inc."
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "trustandsafety@support.aws.com"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.2024422253"
+              ]
+            ]
+          ]
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "468"
+        }
+      ]
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "client update prohibited",
+    "client delete prohibited"
+  ],
+  "port43": "whois.nic.tech",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2018-01-01T10:33:31.0Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2029-01-01T23:59:59.0Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:25.0Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-02-12T12:02:06.0Z"
+    },
+    {
+      "eventAction": "transfer",
+      "eventDate": "2025-01-01T11:08:02.0Z"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "title": "More information on domain status codes",
+          "rel": "glossary",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+          "href": "https:\/\/icann.org\/epp"
+        }
+      ]
+    },
+    {
+      "title": "Terms of Use",
+      "description": [
+        "For more information on Whois status codes, please visit https:\/\/icann.org\/epp",
+        "",
+        ">>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit",
+        "https:\/\/www.centralnicregistry.com\/support\/information\/rdap <<<",
+        "",
+        "The registration data available in this service is limited. Additional",
+        "data may be available at https:\/\/lookup.icann.org",
+        "",
+        "The Whois and RDAP services are provided by CentralNic, and contain",
+        "information pertaining to Internet domain names registered by our",
+        "our customers. By using this service you are agreeing (1) not to use any",
+        "information presented here for any purpose other than determining",
+        "ownership of domain names, (2) not to store or reproduce this data in",
+        "any way, (3) not to use any high-volume, automated, electronic processes",
+        "to obtain data from this service. Abuse of this service is monitored and",
+        "actions in contravention of these terms will result in being permanently",
+        "blacklisted. All data is (c) CentralNic Ltd (https:\/\/www.centralnicregistry.com)",
+        "",
+        "Access to the Whois and RDAP services is rate limited. For more",
+        "information, visit https:\/\/centralnicregistry.com\/policies\/whois-guidance."
+      ],
+      "links": [
+        {
+          "title": "Terms of Use",
+          "rel": "terms-of-service",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+          "href": "https:\/\/www.centralnicregistry.com\/"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "title": "ICANN RDDS Inaccuracy Complaint Form",
+          "rel": "help",
+          "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+          "href": "https:\/\/icann.org\/wicf"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "Authoritative URL for this resource",
+      "rel": "self",
+      "type": "application\/rdap+json",
+      "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+      "href": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech"
+    },
+    {
+      "title": "RDAP Service Help",
+      "rel": "help",
+      "type": "text\/html",
+      "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+      "href": "https:\/\/whois.nic.tech\/rdap"
+    },
+    {
+      "title": "Dot Tech LLC",
+      "rel": "related",
+      "type": "text\/html",
+      "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+      "href": "http:\/\/radixregistry.com"
+    },
+    {
+      "title": "URL of Sponsoring Registrar's RDAP Record",
+      "rel": "related",
+      "type": "application\/rdap+json",
+      "value": "https:\/\/rdap.centralnic.com\/tech\/domain\/primis.tech",
+      "href": "https:\/\/rdap.registrar.amazon.com\/rdap\/domain\/primis.tech"
+    }
+  ]
+}

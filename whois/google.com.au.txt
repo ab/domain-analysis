@@ -1,0 +1,90 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.auda.org.au
+
+domain:       AU
+
+organisation: .au Domain Administration (auDA)
+address:      Level 19
+address:      8 Exhibition Street
+address:      Melbourne VIC 3000
+address:      Australia
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: .au Domain Administration (auDA)
+address:      Level 19
+address:      8 Exhibition Street
+address:      Melbourne VIC 3000
+address:      Australia
+phone:        + 61 03 8341 4111
+fax-no:       + 61 03 8341 4112
+e-mail:       coo@auda.org.au
+
+contact:      technical
+name:         Chief Technical Officer
+organisation: .au Domain Administration (auDA)
+address:      Level 19
+address:      8 Exhibition Street
+address:      Melbourne VIC 3000
+address:      Australia
+phone:        +61 (0)3 8341 4111
+fax-no:       +61 (0)3 8341 4112
+e-mail:       auda.iana@auda.org.au
+
+nserver:      A.AU 2407:6e00:254:0:0:0:0:1 58.65.254.1
+nserver:      Q.AU 2a01:8840:be:0:0:0:0:1 65.22.196.1
+nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
+nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
+nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
+ds-rdata:     1775 8 2 64dfdddd2c68aa5cc67e58cd88f1fbd7804f911aa3d3314cb59539763a0af89f
+ds-rdata:     32902 8 2 e80a9f8eca018ade79925da724a0cb0dbcf03c9a7049d20c9fb74b716ab7d329
+
+whois:        whois.auda.org.au
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://www.auda.org.au/domains/au-domains/
+
+created:      1986-03-05
+changed:      2025-08-07
+source:       IANA
+
+# whois.auda.org.au
+
+Domain Name: google.com.au
+Registry Domain ID: 92bb371462a94cd584a36765406a795d-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL: https://whois-webform.markmonitor.com/whois/
+Last Modified: 2025-04-28T01:20:18Z
+Registrar Name: MarkMonitor Corporate Services Inc
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Reseller Name: 
+Status: clientDeleteProhibited https://identitydigital.au/get-au/whois-status-codes#clientDeleteProhibited
+Status: serverDeleteProhibited https://identitydigital.au/get-au/whois-status-codes#serverDeleteProhibited
+Status Reason: Registry Lock
+Status: serverRenewProhibited https://identitydigital.au/get-au/whois-status-codes#serverRenewProhibited
+Status Reason: Not Currently Eligible For Renewal
+Status: serverTransferProhibited https://identitydigital.au/get-au/whois-status-codes#serverTransferProhibited
+Status Reason: Registry Lock
+Status: clientUpdateProhibited https://identitydigital.au/get-au/whois-status-codes#clientUpdateProhibited
+Status: serverUpdateProhibited https://identitydigital.au/get-au/whois-status-codes#serverUpdateProhibited
+Status Reason: Registry Lock
+Registrant Contact ID: 7055747f961642aba9a15c5747b629c4-AU
+Registrant Contact Name: Domain Admin
+Tech Contact ID: e49b68daf8c4486e9122cd5231fd7bf5-AU
+Tech Contact Name: Domain Administrator
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+Registrant: Google LLC
+Eligibility Type: Trademark Owner
+Eligibility Name: GOOGLE
+Eligibility ID: TM 788234
+>>> Last update of WHOIS database: 2025-09-10T18:07:21Z <<<
+

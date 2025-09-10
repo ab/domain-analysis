@@ -1,0 +1,206 @@
+{
+  "objectClassName": "domain",
+  "handle": "8017040_DOMAIN_COM-VRSN",
+  "ldhName": "PAYPAL.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/PAYPAL.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/PAYPAL.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.markmonitor.com\/rdap\/domain\/PAYPAL.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.markmonitor.com\/rdap\/domain\/PAYPAL.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited",
+    "server delete prohibited",
+    "server transfer prohibited",
+    "server update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "292",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.markmonitor.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.markmonitor.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "292"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.2086851750"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abusecomplaints@markmonitor.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1999-07-15T05:32:11Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-07-15T05:32:11Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-13T12:17:58Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 34800,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "D9E64BA8C8718FD93B596F9D109D9DAC47C3F557312201DFCCE5DD4128C08F50"
+      },
+      {
+        "keyTag": 7037,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "9778F2FF96889EBED549795DEAA40A6113F1899AF7CA8DD7947FDDFECA9A190B"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.P57.DYNECT.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS2.P57.DYNECT.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "PDNS100.ULTRADNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "PDNS100.ULTRADNS.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/paypal.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/paypal.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

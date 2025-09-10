@@ -1,0 +1,1141 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "objectClassName": "domain",
+  "handle": "DOM000000113746-FRNIC",
+  "ldhName": "google.fr",
+  "status": [
+    "server update prohibited",
+    "server transfer prohibited",
+    "server delete prohibited",
+    "server recover prohibited"
+  ],
+  "whoisStatus": "ACTIVE",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2000-07-26T22:00:00Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-12-30T17:16:48Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-12-03T11:13:05.110779Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:21.073164614Z"
+    }
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "RAR376-FRNIC",
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "292"
+        }
+      ],
+      "status": [
+        "active"
+      ],
+      "port43": "whois.markmonitor.com",
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2002-01-07T00:00:00Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-08-22T09:53:44.569799Z"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "links": [
+            {
+              "href": "https://rdap.nic.fr/entity/{handle}",
+              "value": "https://rdap.nic.fr/entity/{handle}",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "DNS Abuse Notifications"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "registryescalations@markmonitor.com"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.2083895740"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.markmonitor.com/rdap/",
+          "value": "http://www.markmonitor.com",
+          "rel": "about"
+        },
+        {
+          "href": "https://rdap.nic.fr/entity/RAR376-FRNIC",
+          "value": "https://rdap.nic.fr/entity/RAR376-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MARKMONITOR Inc."
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.2083895740"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+1.2083895771"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "registry.admin@markmonitor.com"
+          ],
+          [
+            "url",
+            {},
+            "uri",
+            "http://www.markmonitor.com"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "2150 S. Bonito Way, Suite 150",
+              "MERIDIAN",
+              "",
+              "ID 83642",
+              "US"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "sponsor",
+        "registrar"
+      ],
+      "remarks": [
+        {
+          "type": "registrar restricted publication",
+          "description": [
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "GIHU100-FRNIC",
+      "status": [
+        "server update prohibited",
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2018-03-02T17:52:06Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-06-11T20:04:33.772976Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/entity/GIHU100-FRNIC",
+          "value": "https://rdap.nic.fr/entity/GIHU100-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Google Ireland Holdings Unlimited Company"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Google Ireland Holdings Unlimited Company"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "70 Sir John Rogerson's Quay",
+              "Dublin",
+              "",
+              "2",
+              "IE"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dns-admin@google.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+353.14361000"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "ORGANIZATION"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "NotIdentified"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "MARKMONITOR Inc."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "GIHU101-FRNIC",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2018-03-02T17:52:06Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/entity/GIHU101-FRNIC",
+          "value": "https://rdap.nic.fr/entity/GIHU101-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Google Ireland Holdings Unlimited Company"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "70 Sir John Rogerson's Quay",
+              "Dublin",
+              "",
+              "2",
+              "IE"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dns-admin@google.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+353.14361000"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "ORGANIZATION"
+          ]
+        },
+        {
+          "type": "reach medium",
+          "description": [
+            "EMAIL"
+          ]
+        },
+        {
+          "type": "reach date",
+          "description": [
+            "2018-03-02T00:00:00Z"
+          ]
+        },
+        {
+          "type": "reach source",
+          "description": [
+            "REGISTRAR"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "YES"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "NotIdentified"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "MARKMONITOR Inc."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "MI3669-FRNIC",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2015-02-25T15:38:11Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-09-10T08:37:45.079748Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/entity/MI3669-FRNIC",
+          "value": "https://rdap.nic.fr/entity/MI3669-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor Inc."
+          ],
+          [
+            "org",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "2150 S. Bonito Way, Suite 150",
+              "Meridian",
+              "",
+              "83642",
+              "US"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "ccops@markmonitor.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.2083895740"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+1.2083895771"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "ORGANIZATION"
+          ]
+        },
+        {
+          "type": "reach medium",
+          "description": [
+            "EMAIL"
+          ]
+        },
+        {
+          "type": "reach date",
+          "description": [
+            "2021-10-05T00:00:00Z"
+          ]
+        },
+        {
+          "type": "reach source",
+          "description": [
+            "REGISTRAR"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "YES"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "OK"
+          ]
+        },
+        {
+          "type": "eligibility source",
+          "description": [
+            "REGISTRAR"
+          ]
+        },
+        {
+          "type": "eligibility date",
+          "description": [
+            "2021-10-05T00:00:00Z"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "MARKMONITOR Inc."
+          ]
+        }
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST3953-FRNIC",
+      "ldhName": "ns1.google.com",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "ipAddresses": {},
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR939-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "9999"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.nic.fr",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2014-07-29T15:35:33Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-10-12T18:54:01.785057Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Registry Operations"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.139308300"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+33.139308301"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "support@afnic.fr"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.afnic.fr"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "AFNIC",
+                    "immeuble le Stephenson",
+                    "1, rue Stephenson"
+                  ],
+                  "Montigny-Le-Bretonneux",
+                  "",
+                  "78180",
+                  "FR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "sponsor",
+            "registrar"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/nameserver/ns1.google.com",
+          "value": "https://rdap.nic.fr/nameserver/ns1.google.com",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST3954-FRNIC",
+      "ldhName": "ns2.google.com",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "ipAddresses": {},
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR939-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "9999"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.nic.fr",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2014-07-29T15:35:33Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-10-12T18:54:01.785057Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Registry Operations"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.139308300"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+33.139308301"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "support@afnic.fr"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.afnic.fr"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "AFNIC",
+                    "immeuble le Stephenson",
+                    "1, rue Stephenson"
+                  ],
+                  "Montigny-Le-Bretonneux",
+                  "",
+                  "78180",
+                  "FR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "sponsor",
+            "registrar"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/nameserver/ns2.google.com",
+          "value": "https://rdap.nic.fr/nameserver/ns2.google.com",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST3955-FRNIC",
+      "ldhName": "ns3.google.com",
+      "status": [
+        "associated"
+      ],
+      "ipAddresses": {},
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR939-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "9999"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.nic.fr",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2014-07-29T15:35:33Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-10-12T18:54:01.785057Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Registry Operations"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.139308300"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+33.139308301"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "support@afnic.fr"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.afnic.fr"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "AFNIC",
+                    "immeuble le Stephenson",
+                    "1, rue Stephenson"
+                  ],
+                  "Montigny-Le-Bretonneux",
+                  "",
+                  "78180",
+                  "FR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "sponsor",
+            "registrar"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/nameserver/ns3.google.com",
+          "value": "https://rdap.nic.fr/nameserver/ns3.google.com",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST3956-FRNIC",
+      "ldhName": "ns4.google.com",
+      "status": [
+        "associated"
+      ],
+      "ipAddresses": {},
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR939-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "9999"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.nic.fr",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2014-07-29T15:35:33Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-10-12T18:54:01.785057Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Registry Operations"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.139308300"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+33.139308301"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "support@afnic.fr"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.afnic.fr"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "AFNIC",
+                    "immeuble le Stephenson",
+                    "1, rue Stephenson"
+                  ],
+                  "Montigny-Le-Bretonneux",
+                  "",
+                  "78180",
+                  "FR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "sponsor",
+            "registrar"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/nameserver/ns4.google.com",
+          "value": "https://rdap.nic.fr/nameserver/ns4.google.com",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "href": "https://rdap.nic.fr/domain/google.fr",
+      "value": "https://rdap.nic.fr/domain/google.fr",
+      "rel": "self"
+    },
+    {
+      "href": "https://rdap.markmonitor.com/rdap/domain/google.fr",
+      "value": "https://rdap.nic.fr/domain/google.fr",
+      "rel": "related"
+    }
+  ]
+}

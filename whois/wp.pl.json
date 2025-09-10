@@ -1,0 +1,306 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "nask0"
+  ],
+  "notices": [
+    {
+      "title": "Domain name life cycle",
+      "description": [
+        "For more information on domain name life cycle, please visit https://www.dns.pl/en/domain_name_life_cycle"
+      ],
+      "links": [
+        {
+          "value": "https://www.dns.pl/en/domain_name_life_cycle",
+          "rel": "related",
+          "href": "https://www.dns.pl/en/domain_name_life_cycle",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Delay in data display",
+      "description": [
+        "RDAP displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system. For more information on RDAP in NASK, please visit: https://www.dns.pl/en/RDAP_in_NASK"
+      ],
+      "links": [
+        {
+          "value": "https://www.dns.pl/en/RDAP_in_NASK",
+          "rel": "related",
+          "href": "https://www.dns.pl/en/RDAP_in_NASK",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Wirtualna Polska Media S.A"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "org",
+            {},
+            "text"
+          ],
+          [
+            "adr",
+            {
+              "cc": "PL"
+            },
+            "text",
+            [
+              "",
+              "",
+              "Żwirki i Wigury 16",
+              "Warszawa",
+              "mazowieckie",
+              "02-092",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": "VOICE"
+            },
+            "uri",
+            "tel:+48.225767900"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "AZ.pl Sp. z o.o."
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "adr",
+            {
+              "cc": "PL"
+            },
+            "text",
+            [
+              "",
+              "",
+              "ul. Zbożowa 4",
+              "Szczecin",
+              "",
+              "70-653",
+              ""
+            ]
+          ],
+          [
+            "tel",
+            {
+              "type": "VOICE"
+            },
+            "uri",
+            "tel:+48.914243780"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "domena@az.pl"
+          ],
+          [
+            "url",
+            {},
+            "uri",
+            "https://az.pl/"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "entity"
+    }
+  ],
+  "events": [
+    {
+      "eventDate": "1998-04-28T11:00:00Z",
+      "eventAction": "registration"
+    },
+    {
+      "eventDate": "2025-01-15T10:08:27Z",
+      "eventAction": "last changed"
+    },
+    {
+      "eventDate": "2025-09-10T18:05:14.621053751Z",
+      "eventAction": "last update of RDAP database"
+    },
+    {
+      "eventDate": "2026-04-27T12:00:00Z",
+      "eventAction": "expiration"
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.dns.pl/domain/wp.pl",
+      "rel": "self",
+      "href": "https://rdap.dns.pl/domain/wp.pl",
+      "type": "application/rdap+json"
+    }
+  ],
+  "port43": "whois.dns.pl",
+  "ldhName": "wp.pl",
+  "remarks": [
+    {
+      "title": "REDACTED FOR PRIVACY",
+      "type": "object truncated due to authorization",
+      "description": [
+        "The object does not contain all data due to lack of authorization."
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "ns1.wp.pl",
+      "ipAddresses": [
+        {
+          "v4": [
+            "212.77.106.200"
+          ]
+        }
+      ],
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "ns2.wp.pl",
+      "ipAddresses": [
+        {
+          "v4": [
+            "153.19.88.162"
+          ]
+        }
+      ],
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "ns1.task.gda.pl",
+      "ipAddresses": [
+        {
+          "v4": [
+            "153.19.250.101"
+          ]
+        }
+      ],
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization",
+          "description": [
+            "The object does not contain all data due to lack of authorization."
+          ]
+        }
+      ],
+      "objectClassName": "nameserver"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "objectClassName": "domain",
+  "nask0_state": "registered",
+  "nask0_option": {
+    "ldhName": "wp.pl",
+    "events": [
+      {
+        "eventDate": "2020-02-10T09:51:12Z",
+        "eventAction": "registration"
+      },
+      {
+        "eventDate": "2026-02-10T09:51:12Z",
+        "eventAction": "expiration"
+      }
+    ],
+    "remarks": [
+      {
+        "title": "REDACTED FOR PRIVACY",
+        "type": "object truncated due to authorization",
+        "description": [
+          "The object does not contain all data due to lack of authorization."
+        ]
+      }
+    ],
+    "objectClassName": "nask0_option"
+  }
+}

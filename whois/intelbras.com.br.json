@@ -1,0 +1,336 @@
+{
+  "objectClassName": "domain",
+  "handle": "intelbras.com.br",
+  "ldhName": "intelbras.com.br",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1769.awsdns-29.co.uk",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-10T08:00:25Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-10T08:00:25Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-775.awsdns-32.net",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-10T08:00:25Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-10T08:00:25Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1338.awsdns-39.org",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-10T08:00:25Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-10T08:00:25Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-211.awsdns-26.com",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-10T08:00:25Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-10T08:00:25Z"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "links": [
+    {
+      "value": "https://rdap.registro.br/domain/intelbras.com.br",
+      "rel": "self",
+      "href": "https://rdap.registro.br/domain/intelbras.com.br",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.registro.br/domain/intelbras.com.br",
+      "rel": "archives",
+      "href": "https://rdap.registro.br/domain/intelbras.com.br?ticket=17653",
+      "type": "application/rdap+json"
+    }
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "82901000000127",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "INTELBRAS S.A. INDUSTRIA DE TELECOMUNICACAO ELETRO"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "BR"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "publicIds": [
+        {
+          "type": "cnpj",
+          "identifier": "82.901.000/0001-27"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "INS99",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "kind",
+                {},
+                "text",
+                "individual"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Intelbras S/A"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "grupo.governancati@intelbras.com.br"
+              ],
+              [
+                "lang",
+                {},
+                "language-tag",
+                "pt"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "BR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "administrative"
+          ],
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2005-07-12T12:00:00Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2025-08-12T18:53:35Z"
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "1998-03-11T12:00:00Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2018-12-06T10:30:08Z"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.registro.br/entity/82901000000127",
+          "rel": "self",
+          "href": "https://rdap.registro.br/entity/82901000000127",
+          "type": "application/rdap+json"
+        }
+      ],
+      "legalRepresentative": "Maiko Flores Dalri"
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "INS99",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Intelbras S/A"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "grupo.governancati@intelbras.com.br"
+          ],
+          [
+            "lang",
+            {},
+            "language-tag",
+            "pt"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "BR"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2005-07-12T12:00:00Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-08-12T18:53:35Z"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1996-10-02T12:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-08-12T18:47:49Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2028-10-02T12:00:00Z"
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "notices": [
+    {
+      "title": "Use and Privacy Policy",
+      "description": [
+        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+        "2025-09-10T15:07:22-03:00 - 2601:189:8480:9650:e552:fc30:8f7e:c489"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.registro.br/domain/intelbras.com.br",
+          "rel": "alternate",
+          "href": "https://registro.br/upp",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "nicbr_level_0"
+  ],
+  "port43": "whois.registro.br"
+}

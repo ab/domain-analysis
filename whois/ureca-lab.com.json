@@ -1,0 +1,188 @@
+{
+  "objectClassName": "domain",
+  "handle": "2841534888_DOMAIN_COM-VRSN",
+  "ldhName": "URECA-LAB.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/URECA-LAB.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/URECA-LAB.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/whois.co.kr\/rdap\/domain\/URECA-LAB.COM",
+      "rel": "related",
+      "href": "https:\/\/whois.co.kr\/rdap\/domain\/URECA-LAB.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "100",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.whois.co.kr",
+          "type": "text\/html",
+          "value": "https:\/\/whois.co.kr\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "100"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Whois Corp."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+82.15884259"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@whois.co.kr"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2023-12-29T00:13:23Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-12-29T00:13:23Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-11-25T02:07:19Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:21Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1000.AWSDNS-61.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-108.AWSDNS-13.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1305.AWSDNS-35.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1860.AWSDNS-40.CO.UK"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/ureca-lab.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/ureca-lab.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

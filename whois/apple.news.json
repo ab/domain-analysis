@@ -1,0 +1,258 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Access to RDAP information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or, if the record pertains to a TLD not operated by Identity Digital, then the corresponding primary Registry Operator for informational purposes only, and neither Identity Digital nor the Registry Operator guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Identity Digital, a Registrar, or Registry Operator except as reasonably necessary to register domain names or modify existing registrations. When using the RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to the data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/ Identity Digital Inc. and, if applicable, the primary Registry Operators reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/apple.news",
+          "rel": "terms-of-service",
+          "href": "https://www.identity.digital/policies/rdds-access-policy",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/apple.news",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/apple.news",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "ldhName": "apple.news",
+  "unicodeName": "apple.news",
+  "nameservers": [
+    {
+      "ldhName": "a8-66.akam.net",
+      "unicodeName": "a8-66.akam.net",
+      "objectClassName": "nameserver",
+      "handle": "d3057d1d93604ea18d0808029ed7cfcd-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "a26-67.akam.net",
+      "unicodeName": "a26-67.akam.net",
+      "objectClassName": "nameserver",
+      "handle": "5137597ccd1e4d13ac8975a49dda116a-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "a11-66.akam.net",
+      "unicodeName": "a11-66.akam.net",
+      "objectClassName": "nameserver",
+      "handle": "d2f5413cf6bd4556aceeb853f7b317fd-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "a6-64.akam.net",
+      "unicodeName": "a6-64.akam.net",
+      "objectClassName": "nameserver",
+      "handle": "e04d79993cca4f8cae7c1ce8207b3e1c-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "a7-65.akam.net",
+      "unicodeName": "a7-65.akam.net",
+      "objectClassName": "nameserver",
+      "handle": "7b07aaa27c9d4bce9bfad7aef32368c0-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "a1-119.akam.net",
+      "unicodeName": "a1-119.akam.net",
+      "objectClassName": "nameserver",
+      "handle": "2b3b28e6a8d44b049cb648e72551a3c5-DONUTS",
+      "status": [
+        "associated"
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false,
+    "maxSigLife": 1
+  },
+  "publicIds": [
+    {
+      "type": "IANA Registrar ID",
+      "identifier": "470"
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registry Domain ID"
+      },
+      "prePath": "$.handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain",
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "events": [
+    {
+      "eventAction": "transfer",
+      "eventDate": "2022-04-26T08:47:28.343Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-07-06T08:21:43.12Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-07-06T08:21:43.12Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-07-06T23:05:01.717Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:18.359Z"
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Nom-iq Ltd. dba COM LAUDE"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "470"
+        }
+      ],
+      "objectClassName": "entity",
+      "handle": "470",
+      "entities": [
+        {
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse Com Laude"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+44.2074218250"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@comlaude.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "objectClassName": "entity",
+          "handle": "e110b30f2aee48d8a975a799d34a5b33-DONUTS"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/entity/470",
+          "rel": "self",
+          "href": "https://rdap.identitydigital.services/rdap/entity/470",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.comlaude.com/rdap/",
+          "rel": "about",
+          "href": "https://rdap.comlaude.com/rdap/",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.identitydigital.services/rdap/domain/apple.news",
+      "rel": "related",
+      "href": "https://rdap.comlaude.com/rdap/domain/apple.news",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.identitydigital.services/rdap/domain/apple.news",
+      "rel": "self",
+      "href": "https://rdap.identitydigital.services/rdap/domain/apple.news",
+      "type": "application/rdap+json"
+    }
+  ]
+}

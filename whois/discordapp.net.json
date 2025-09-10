@@ -1,0 +1,184 @@
+{
+  "objectClassName": "domain",
+  "handle": "1952955552_DOMAIN_NET-VRSN",
+  "ldhName": "DISCORDAPP.NET",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/DISCORDAPP.NET",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/DISCORDAPP.NET",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.cloudflare.com\/rdap\/v1\/domain\/DISCORDAPP.NET",
+      "rel": "related",
+      "href": "https:\/\/rdap.cloudflare.com\/rdap\/v1\/domain\/DISCORDAPP.NET",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited",
+    "server delete prohibited",
+    "server transfer prohibited",
+    "server update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1910",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.cloudflare.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.cloudflare.com\/rdap\/v1\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1910"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Cloudflare, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.6503198930"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "registrar-abuse@cloudflare.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2015-08-14T04:53:45Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-08-14T04:53:45Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-16T12:00:19Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T18:07:06Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "GABE.NS.CLOUDFLARE.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "SIMA.NS.CLOUDFLARE.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/discordapp.net",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/discordapp.net",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}
