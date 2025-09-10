@@ -1,0 +1,187 @@
+{
+  "objectClassName": "domain",
+  "handle": "1521148908_DOMAIN_COM-VRSN",
+  "ldhName": "USERAPI.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/USERAPI.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/USERAPI.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/www.nic.ru\/rdap\/domain\/USERAPI.COM",
+      "rel": "related",
+      "href": "https:\/\/www.nic.ru\/rdap\/domain\/USERAPI.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "463",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/nic.ru",
+          "type": "text\/html",
+          "value": "https:\/\/www.nic.ru\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "463"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Regional Network Information Center, JSC dba RU-CENTER"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+74950091333"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "tld-abuse@nic.ru"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2008-09-24T18:19:57Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-09-24T18:19:57Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-09-22T23:37:25Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:44Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.VKONTAKTE.RU"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS2.VKONTAKTE.RU"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS3.VKONTAKTE.RU"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS4.VKONTAKTE.RU"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/userapi.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/userapi.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

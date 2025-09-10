@@ -1,0 +1,204 @@
+{
+  "objectClassName": "domain",
+  "handle": "1542998918_DOMAIN_NET-VRSN",
+  "ldhName": "CLOUDFLARE.NET",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/CLOUDFLARE.NET",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/CLOUDFLARE.NET",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.cloudflare.com\/rdap\/v1\/domain\/CLOUDFLARE.NET",
+      "rel": "related",
+      "href": "https:\/\/rdap.cloudflare.com\/rdap\/v1\/domain\/CLOUDFLARE.NET",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited",
+    "server delete prohibited",
+    "server transfer prohibited",
+    "server update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1910",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.cloudflare.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.cloudflare.com\/rdap\/v1\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1910"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Cloudflare, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.6503198930"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "registrar-abuse@cloudflare.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2009-02-17T22:08:05Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2033-02-17T22:08:05Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-01-11T14:08:06Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:32Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 2371,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "90F710A107DA51ED78125D30A68704CF3C0308AFD01BFCD7057D4BD03B62C68B"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.CLOUDFLARE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS2.CLOUDFLARE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS3.CLOUDFLARE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS4.CLOUDFLARE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS5.CLOUDFLARE.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/cloudflare.net",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/cloudflare.net",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

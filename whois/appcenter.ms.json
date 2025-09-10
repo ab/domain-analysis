@@ -1,0 +1,237 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_0",
+    "icann_rdap_response_profile_0"
+  ],
+  "objectClassName": "domain",
+  "links": [
+    {
+      "value": "http://rdap.nic.ms/domain/appcenter.ms",
+      "rel": "related",
+      "href": "http://rdap.nic.ms/domain/appcenter.ms",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Access to RDAP information is provided to assist persons interested in domains, nameservers, or associated entities."
+      ],
+      "links": [
+        {
+          "value": "http://rdap.nic.ms",
+          "rel": "related",
+          "href": "http://rdap.nic.ms",
+          "title": "Terms of Use",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "URL of ICANN EPP Status code descriptions"
+      ],
+      "links": [
+        {
+          "value": "https://icann.org/epp",
+          "rel": "related",
+          "href": "https://icann.org/epp",
+          "title": "More information on domain status codes",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://icann.org/wicf",
+          "rel": "related",
+          "href": "https://icann.org/wicf",
+          "title": "ICANN RDDS Inaccuracy Complaint Form",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2017-10-17T00:00:00Z"
+    },
+    {
+      "eventAction": "reregistration",
+      "eventActor": "MarkMonitor",
+      "eventDate": "2024-09-15T10:50:45Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-10-17T14:05:07Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-03-25T16:09:52Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:49Z"
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "client update prohibited",
+    "client delete prohibited"
+  ],
+  "handle": "487772-CoCCA",
+  "ldhName": "appcenter.ms",
+  "unicodeName": "appcenter.ms",
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "11",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "2150 S Bonito Way, Suite 150\r\nMeridian, ID 83642",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "ccops@markmonitor.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "11"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "11",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "MarkMonitor"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ]
+        }
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/ns4-05.azure-dns.info",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "ns4-05.azure-dns.info",
+      "unicodeName": "ns4-05.azure-dns.info"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/ns3-05.azure-dns.org",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "ns3-05.azure-dns.org",
+      "unicodeName": "ns3-05.azure-dns.org"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/ns2-05.azure-dns.net",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "ns2-05.azure-dns.net",
+      "unicodeName": "ns2-05.azure-dns.net"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://rdap.nic.ms/nameserver/ns1-05.azure-dns.com",
+          "type": "application/rdap+json"
+        }
+      ],
+      "status": [
+        "associated"
+      ],
+      "ldhName": "ns1-05.azure-dns.com",
+      "unicodeName": "ns1-05.azure-dns.com"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "rdapConformance": [
+    "icann_rdap_response_profile_1",
+    "icann_rdap_response_profile_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_technical_implementation_guide_0",
+    "rdap_level_0"
+  ],
+  "lang": "en",
+  "objectClassName": "domain",
+  "handle": "D417010860-CNIC",
+  "ldhName": "967sd1f.homes",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "alexia.ns.cloudflare.com",
+      "handle": "H22829346-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+          "href": "https:\/\/rdap.centralnic.com\/homes\/nameserver\/alexia.ns.cloudflare.com"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "darwin.ns.cloudflare.com",
+      "handle": "H5441033-CNIC",
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+          "href": "https:\/\/rdap.centralnic.com\/homes\/nameserver\/darwin.ns.cloudflare.com"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "472",
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Dynadot LLC"
+          ]
+        ]
+      ],
+      "links": [
+        {
+          "title": "Authoritative URL for this resource",
+          "rel": "self",
+          "type": "application\/rdap+json",
+          "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+          "href": "https:\/\/rdap.centralnic.com\/homes\/entity\/472"
+        },
+        {
+          "title": "Registrar's Website",
+          "rel": "about",
+          "value": "https:\/\/rdap.dynadot.com\/",
+          "href": "http:\/\/www.dynadot.com"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "not applicable",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse Contact"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "Dynadot LLC"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@dynadot.com"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.6502620100"
+              ]
+            ]
+          ]
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "472"
+        }
+      ]
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "port43": "whois.nic.homes",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2023-12-12T07:53:47.0Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-12-12T23:59:59.0Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:50.0Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-01-07T01:46:17.0Z"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "title": "More information on domain status codes",
+          "rel": "glossary",
+          "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+          "href": "https:\/\/icann.org\/epp"
+        }
+      ]
+    },
+    {
+      "title": "Terms of Use",
+      "description": [
+        "For more information on Whois status codes, please visit https:\/\/icann.org\/epp",
+        "",
+        ">>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit",
+        "https:\/\/www.centralnicregistry.com\/support\/information\/rdap <<<",
+        "",
+        "The registration data available in this service is limited. Additional",
+        "data may be available at https:\/\/lookup.icann.org",
+        "",
+        "The Whois and RDAP services are provided by CentralNic, and contain",
+        "information pertaining to Internet domain names registered by our",
+        "our customers. By using this service you are agreeing (1) not to use any",
+        "information presented here for any purpose other than determining",
+        "ownership of domain names, (2) not to store or reproduce this data in",
+        "any way, (3) not to use any high-volume, automated, electronic processes",
+        "to obtain data from this service. Abuse of this service is monitored and",
+        "actions in contravention of these terms will result in being permanently",
+        "blacklisted. All data is (c) CentralNic Ltd (https:\/\/www.centralnicregistry.com)",
+        "",
+        "Access to the Whois and RDAP services is rate limited. For more",
+        "information, visit https:\/\/centralnicregistry.com\/policies\/whois-guidance."
+      ],
+      "links": [
+        {
+          "title": "Terms of Use",
+          "rel": "terms-of-service",
+          "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+          "href": "https:\/\/www.centralnicregistry.com\/"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "title": "ICANN RDDS Inaccuracy Complaint Form",
+          "rel": "help",
+          "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+          "href": "https:\/\/icann.org\/wicf"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "Authoritative URL for this resource",
+      "rel": "self",
+      "type": "application\/rdap+json",
+      "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+      "href": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes"
+    },
+    {
+      "title": "RDAP Service Help",
+      "rel": "help",
+      "type": "text\/html",
+      "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+      "href": "https:\/\/whois.nic.homes\/rdap"
+    },
+    {
+      "title": "XYZ.com, LLC",
+      "rel": "related",
+      "type": "text\/html",
+      "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+      "href": "https:\/\/gen.xyz\/"
+    },
+    {
+      "title": "URL of Sponsoring Registrar's RDAP Record",
+      "rel": "related",
+      "type": "application\/rdap+json",
+      "value": "https:\/\/rdap.centralnic.com\/homes\/domain\/967sd1f.homes",
+      "href": "https:\/\/rdap.dynadot.com\/domain\/967sd1f.homes"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "objectClassName": "domain",
+  "handle": "1330407230_DOMAIN_COM-VRSN",
+  "ldhName": "DUCKDUCKGO.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/DUCKDUCKGO.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/DUCKDUCKGO.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.namecheap.com\/domain\/DUCKDUCKGO.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.namecheap.com\/domain\/DUCKDUCKGO.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1068",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.namecheap.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.namecheap.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1068"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NameCheap, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.6613102107"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@namecheap.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2007-11-11T17:24:08Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-06-23T03:59:59Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-24T06:31:05Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:44Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS1.P05.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS2.P05.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS3.P05.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS4.P05.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS01.QUACK-DNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS02.QUACK-DNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS03.QUACK-DNS.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS04.QUACK-DNS.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/duckduckgo.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/duckduckgo.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

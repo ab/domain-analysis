@@ -1,0 +1,402 @@
+{
+  "rdapConformance": [
+    "icann_rdap_response_profile_0",
+    "icann_rdap_technical_implementation_guide_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "rdap_level_0"
+  ],
+  "notices": [
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://icann.org/epp",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "title": "More information on domain status codes",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "Terms of Use",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp",
+        "",
+        "NOTICE: The expiration date displayed in this record is the date the",
+        "registrar's sponsorship of the domain name registration in the registry is",
+        "currently set to expire. This date does not necessarily reflect the expiration",
+        "date of the domain name registrant's agreement with the sponsoring",
+        "registrar.  Users may consult the sponsoring registrar's Whois database to",
+        "view the registrar's reported date of expiration for this registration.",
+        "",
+        "TERMS OF USE: The information in the Whois database is collected through ICANN-accredited registrars. Jiangsu bangning science & technology Co., Ltd(“BANGNING”) make this information available to you and do not guarantee its accuracy or completeness. By submitting a whois query, you agree to abide by the following terms of use: you agree that you may use this data only for lawful purposes and that under no circumstances will you use this data to:  (1) to allow， enable， or otherwise support the transmission of mass unsolicited， commercial advertising or solicitations via direct mail， electronic mail， or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume， automated， electronic processes that apply to BANGNING (or its computer systems). Compilation， repackaging， dissemination， or other use of the WHOIS database in its entirety， or of a substantial portion thereof， is not allowed without BANGNING prior written permission. You agree not to use electronic processes that are automated and high-volume to access or query the whois database except as reasonably necessary to register domain names or modify existing registrations. BANGNING reserves the right to restrict your access to the whois database in its sole discretion to ensure operational stability.  BANGNING may restrict or terminate your access to the whois database for failure to abide by these terms of use. BANGNING reserves the right to modify these terms at any time without prior or subsequent notification of any kind. "
+      ],
+      "links": [
+        {
+          "value": "https://rdap.zdnsgtld.com/top/domain/xinstall.top",
+          "rel": "terms-of-service",
+          "href": "http://www.nic.top",
+          "title": "Terms of Use"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://icann.org/wicf",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "title": "ICANN RDDS Inaccuracy Complaint Form",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "Data Policy",
+      "description": [
+        "The object does not contain all data due to lack of authorization."
+      ],
+      "type": "object truncated due to authorization"
+    }
+  ],
+  "objectClassName": "domain",
+  "handle": "D20200514G10001G_40193193-top",
+  "links": [
+    {
+      "value": "https://rdap.zdnsgtld.com/top/domain/xinstall.top.",
+      "rel": "self",
+      "href": "https://rdap.zdnsgtld.com/top/domain/xinstall.top.",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://whois.aliyun.com/rdap/domain/xinstall.top",
+      "rel": "related",
+      "href": "https://whois.aliyun.com/rdap/domain/xinstall.top",
+      "type": "application/rdap+json"
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2020-05-14T15:14:28.0Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-05-14T15:14:28.0Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-10-12T09:41:30.0Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:46:39.0Z"
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "port43": "whois.nic.top",
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "C20200514C_54927040-top",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "type": "object redacted due to authorization"
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+          ],
+          "type": "object redacted due to authorization"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.zdnsgtld.com/top/entity/C20200514C_54927040-top",
+          "rel": "self",
+          "href": "https://rdap.zdnsgtld.com/top/entity/C20200514C_54927040-top",
+          "type": "application/rdap+json"
+        }
+      ],
+      "roles": [
+        "administrative",
+        "technical"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "C20241012C_93030152-top",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "type": "object redacted due to authorization"
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+          ],
+          "type": "object redacted due to authorization"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.zdnsgtld.com/top/entity/C20241012C_93030152-top",
+          "rel": "self",
+          "href": "https://rdap.zdnsgtld.com/top/entity/C20241012C_93030152-top",
+          "type": "application/rdap+json"
+        }
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {
+              "cc": "CN"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "Fujian",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "1599",
+      "links": [
+        {
+          "value": "https://rdap.zdnsgtld.com/top/entity/1599",
+          "rel": "self",
+          "href": "https://rdap.zdnsgtld.com/top/entity/1599",
+          "type": "application/rdap+json"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "not applicable",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "阿里云"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "阿里云计算有限公司"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "DomainAbuse@service.aliyun.com"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "text",
+                "tel:95187"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "text",
+                "95187"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  "",
+                  "北京",
+                  "北京",
+                  "100120",
+                  ""
+                ]
+              ]
+            ]
+          ]
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1599"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "阿里云计算有限公司"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "regadmin@list.alibaba-inc.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "text",
+            "tel:18810955625"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "text",
+            "65985438"
+          ],
+          [
+            "adr",
+            {
+              "cc": "CN"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "北京",
+              "北京",
+              "100120",
+              ""
+            ]
+          ]
+        ]
+      ]
+    }
+  ],
+  "lang": "en",
+  "ldhName": "xinstall.top",
+  "unicodeName": "xinstall.top",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.zdnsgtld.com/top/nameserver/vip3.alidns.com",
+          "rel": "self",
+          "href": "https://rdap.zdnsgtld.com/top/nameserver/vip3.alidns.com",
+          "type": "application/rdap+json"
+        }
+      ],
+      "ldhName": "vip3.alidns.com.",
+      "unicodeName": "vip3.alidns.com."
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.zdnsgtld.com/top/nameserver/vip4.alidns.com",
+          "rel": "self",
+          "href": "https://rdap.zdnsgtld.com/top/nameserver/vip4.alidns.com",
+          "type": "application/rdap+json"
+        }
+      ],
+      "ldhName": "vip4.alidns.com.",
+      "unicodeName": "vip4.alidns.com."
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  }
+}

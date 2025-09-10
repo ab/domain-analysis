@@ -1,0 +1,35 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       54.in-addr.arpa
+
+organisation: Administered by ARIN
+
+nserver:      ARIN.AUTHDNS.RIPE.NET.
+nserver:      R.ARIN.NET.
+nserver:      U.ARIN.NET.
+nserver:      X.ARIN.NET.
+nserver:      Y.ARIN.NET.
+nserver:      Z.ARIN.NET.
+ds-rdata:     12191 8 2 4197e6c367d003383a9c3a012299bce80a7ecb9753f1f121f8eb78d3cbc2c34a
+
+whois:        whois.arin.net
+
+changed:      1992-03
+changed:      2024-07-08
+source:       IANA
+
+# whois.arin.net
+
+Name:           54.in-addr.arpa.
+Updated:        2016-03-22
+NameServer:     R.ARIN.NET
+NameServer:     U.ARIN.NET
+NameServer:     X.ARIN.NET
+NameServer:     Z.ARIN.NET
+NameServer:     ARIN.AUTHDNS.RIPE.NET
+NameServer:     Y.ARIN.NET
+Ref:            https://rdap.arin.net/registry/domain/54.in-addr.arpa.
+
+

@@ -1,0 +1,255 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_0",
+    "icann_rdap_response_profile_1"
+  ],
+  "objectClassName": "domain",
+  "handle": "351001_DOMAIN_ID-ID",
+  "ldhName": "SHOPEE.CO.ID",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1460.awsdns-54.org"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-1558.awsdns-02.co.uk"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-242.awsdns-30.com"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns-831.awsdns-39.net"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "links": [
+    {
+      "value": "https://rdap.pandi.id/rdap/domain/SHOPEE.CO.ID",
+      "rel": "related",
+      "href": "https://rdap.pandi.id/rdap/domain/SHOPEE.CO.ID",
+      "type": "application/rdap+json"
+    }
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "PT Digital Registra Indonesia"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "info@digitalregistra.co.id"
+          ],
+          [
+            "tel",
+            {
+              "type": [
+                "voice"
+              ]
+            },
+            "uri",
+            "tel:+62274882257"
+          ],
+          [
+            "adr",
+            {
+              "cc": "ID"
+            },
+            "text",
+            [
+              "",
+              "Jl. lempongsari no. 39C",
+              "Jongkang RT/RW 12/35 Sariharjo ",
+              "Sleman",
+              "Yogyakarta",
+              "55281",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1"
+        },
+        {
+          "type": "PANDI Registrar ID",
+          "identifier": "1"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "1",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "info@digitalregistra.co.id"
+              ],
+              [
+                "tel",
+                {
+                  "type": [
+                    "voice"
+                  ]
+                },
+                "uri",
+                "tel:+62274882257"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.pandi.id/rdap/entity/1",
+          "rel": "self",
+          "href": "https://rdap.pandi.id/rdap/entity/1",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2014-11-28T07:09:17Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-11-28T23:59:59Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-08-24T03:12:12Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T16:50:54Z"
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "server transfer prohibited"
+  ],
+  "remarks": [
+    {
+      "title": "Whois Service",
+      "description": [
+        "The port-43 whois service for this TLD is whois.id"
+      ]
+    },
+    {
+      "title": "Remark",
+      "description": [
+        "Registration information: https://pandi.id/?lang=en"
+      ]
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Terms of Service"
+      ],
+      "links": [
+        {
+          "value": "https://pandi.id/privacy/tos",
+          "rel": "alternate",
+          "href": "https://pandi.id/privacy/tos",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Privacy Policy",
+      "description": [
+        "Privacy Policy"
+      ],
+      "links": [
+        {
+          "value": "https://pandi.id/privacy/policy",
+          "rel": "alternate",
+          "href": "https://pandi.id/privacy/policy",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://icann.org/epp",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://icann.org/wicf",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "lang": "en-US",
+  "port43": "whois.id"
+}

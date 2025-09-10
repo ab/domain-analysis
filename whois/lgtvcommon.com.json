@@ -1,0 +1,188 @@
+{
+  "objectClassName": "domain",
+  "handle": "2231217733_DOMAIN_COM-VRSN",
+  "ldhName": "LGTVCOMMON.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/LGTVCOMMON.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/LGTVCOMMON.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/whois.co.kr\/rdap\/domain\/LGTVCOMMON.COM",
+      "rel": "related",
+      "href": "https:\/\/whois.co.kr\/rdap\/domain\/LGTVCOMMON.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "100",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.whois.co.kr",
+          "type": "text\/html",
+          "value": "https:\/\/whois.co.kr\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "100"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Whois Corp."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+82.15884259"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@whois.co.kr"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2018-02-23T00:07:13Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-02-23T00:07:13Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2021-01-13T08:23:16Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:44Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1166.AWSDNS-17.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1557.AWSDNS-02.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-169.AWSDNS-21.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-809.AWSDNS-37.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/lgtvcommon.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/lgtvcommon.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

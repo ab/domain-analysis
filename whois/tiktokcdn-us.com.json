@@ -1,0 +1,211 @@
+{
+  "objectClassName": "domain",
+  "handle": "2634633373_DOMAIN_COM-VRSN",
+  "ldhName": "TIKTOKCDN-US.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/TIKTOKCDN-US.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/TIKTOKCDN-US.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.gandi.net\/domain\/TIKTOKCDN-US.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.gandi.net\/domain\/TIKTOKCDN-US.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "81",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.gandi.net",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.gandi.net\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "81"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Gandi SAS"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.170377661"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@support.gandi.net"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2021-08-18T09:34:38Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-08-18T09:34:38Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-07-18T06:39:33Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:32Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A1-167.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A14-66.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A22-64.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A3-66.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A5-66.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A8-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS1.P203.DNS.ORACLECLOUD.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS2.P203.DNS.ORACLECLOUD.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS3.P203.DNS.ORACLECLOUD.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS4.P203.DNS.ORACLECLOUD.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/tiktokcdn-us.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/tiktokcdn-us.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

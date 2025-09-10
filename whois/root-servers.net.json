@@ -1,0 +1,225 @@
+{
+  "objectClassName": "domain",
+  "handle": "2751247_DOMAIN_NET-VRSN",
+  "ldhName": "ROOT-SERVERS.NET",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/ROOT-SERVERS.NET",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/ROOT-SERVERS.NET",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.networksolutions.com\/rdap\/domain\/ROOT-SERVERS.NET",
+      "rel": "related",
+      "href": "https:\/\/rdap.networksolutions.com\/rdap\/domain\/ROOT-SERVERS.NET",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "server delete prohibited",
+    "server transfer prohibited",
+    "server update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "2",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/networksolutions.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.networksolutions.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "2"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Network Solutions, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.8777228662"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "domain.operations@web.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1995-07-04T04:00:00Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2033-07-03T04:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-01-05T19:43:02Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:32Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "B.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "C.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "D.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "E.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "F.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "G.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "H.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "I.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "J.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "K.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "L.ROOT-SERVERS.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "M.ROOT-SERVERS.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/root-servers.net",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/root-servers.net",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

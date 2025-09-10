@@ -1,0 +1,187 @@
+{
+  "objectClassName": "domain",
+  "handle": "1589539126_DOMAIN_COM-VRSN",
+  "ldhName": "TRADINGVIEW.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/TRADINGVIEW.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/TRADINGVIEW.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdapanchor.com\/domain\/TRADINGVIEW.COM",
+      "rel": "related",
+      "href": "https:\/\/rdapanchor.com\/domain\/TRADINGVIEW.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "86",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/tierra.net",
+          "type": "text\/html",
+          "value": "https:\/\/rdapanchor.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "86"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "DomainSpot LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:6193932105"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "icann-abuse-reports@tierra.net"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2010-03-20T18:43:54Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2032-03-20T18:43:54Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2023-06-05T11:54:49Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:44Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1533.AWSDNS-63.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1853.AWSDNS-39.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-234.AWSDNS-29.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-619.AWSDNS-13.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/tradingview.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/tradingview.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

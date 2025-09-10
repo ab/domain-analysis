@@ -1,0 +1,336 @@
+{
+  "objectClassName": "domain",
+  "handle": "google.com.br",
+  "ldhName": "google.com.br",
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns1.google.com",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-06T08:00:28Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-06T08:00:28Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns2.google.com",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-06T08:00:28Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-06T08:00:28Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns3.google.com",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-06T08:00:28Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-06T08:00:28Z"
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "ns4.google.com",
+      "events": [
+        {
+          "eventAction": "delegation check",
+          "eventDate": "2025-09-06T08:00:28Z",
+          "status": [
+            "ns aa"
+          ]
+        },
+        {
+          "eventAction": "last correct delegation check",
+          "eventDate": "2025-09-06T08:00:28Z"
+        }
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "links": [
+    {
+      "value": "https://rdap.registro.br/domain/google.com.br",
+      "rel": "self",
+      "href": "https://rdap.registro.br/domain/google.com.br",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.registro.br/domain/google.com.br",
+      "rel": "archives",
+      "href": "https://rdap.registro.br/domain/google.com.br?ticket=162310",
+      "type": "application/rdap+json"
+    }
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "06990590000123",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Google Brasil Internet Ltda"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "BR"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "publicIds": [
+        {
+          "type": "cnpj",
+          "identifier": "06.990.590/0001-23"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "DOADM17",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "kind",
+                {},
+                "text",
+                "individual"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Domain Admin"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "ccops@markmonitor.com"
+              ],
+              [
+                "lang",
+                {},
+                "language-tag",
+                "pt"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "BR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "administrative"
+          ],
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2010-05-20T18:17:35Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-02-28T23:16:36Z"
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2007-11-12T22:45:24Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2011-10-20T20:48:55Z"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.registro.br/entity/06990590000123",
+          "rel": "self",
+          "href": "https://rdap.registro.br/entity/06990590000123",
+          "type": "application/rdap+json"
+        }
+      ],
+      "legalRepresentative": "Domain Administrator"
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "DOADM17",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Admin"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "ccops@markmonitor.com"
+          ],
+          [
+            "lang",
+            {},
+            "language-tag",
+            "pt"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "BR"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2010-05-20T18:17:35Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2022-02-28T23:16:36Z"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1999-05-19T00:06:55Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-04-16T21:16:47Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-05-19T00:06:55Z"
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "notices": [
+    {
+      "title": "Use and Privacy Policy",
+      "description": [
+        "Copyright (c) Nic.br - Use of this data is governed by the Use and Privacy Policy. Distribution, commercialization, reproduction, and use for advertising or similar purposes are expressly prohibited.",
+        "2025-09-10T14:50:50-03:00 - 2601:189:8480:9650:e552:fc30:8f7e:c489"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.registro.br/domain/google.com.br",
+          "rel": "alternate",
+          "href": "https://registro.br/upp",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "nicbr_level_0"
+  ],
+  "port43": "whois.registro.br"
+}

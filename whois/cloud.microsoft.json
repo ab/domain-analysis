@@ -1,0 +1,1034 @@
+{
+  "rdapConformance": [
+    "redacted",
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "objectClassName": "domain",
+  "links": [
+    {
+      "value": "https://rdap.nominet.uk/microsoft/domain/cloud.microsoft",
+      "rel": "self",
+      "href": "https://rdap.nominet.uk/microsoft/domain/cloud.microsoft",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.nominet.uk/microsoft/domain/cloud.microsoft",
+      "rel": "related",
+      "href": "https://rdap.markmonitor.com/rdap/domain/cloud.microsoft",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "The Registration Data Access Protocol (RDAP) service provides access to the records in the RDAP database for information purposes only, to assist you in obtaining information about the registration records of existing domain names. The stored information in the RDAP database is provided as is. We do not guarantee its accuracy or completeness, and cannot be held liable if the stored information in the RDAP database is wrong, incomplete, or inaccurate in any way. By querying the RDAP database in any way, you agree that you will not use this data: (i) to allow, enable or otherwise support the transmission of unsolicited, commercial advertising or other solicitations in any form or by any means; (ii) to enable high volume, automated, electronic processes that query or send data to the Registry Operator or registrar or registrant; (iii) for target advertising; (iv) to cause nuisance to registrants by sending (by any means) messages to or contacting them; (v) to violate any law, rule, regulation or statute; and/or (vi) in violation of applicable data and privacy protection acts. You are explicitly prohibited from extracting, copying and/or using or re-using in any form and by any means (electronically or not) all or part (quantitatively or qualitatively) of the contents of the RDAP database without prior and explicit permission from the RDAP server owner. Any copying or transmission of data for commercial purposes violates this prohibition. You agree that we can take measures to limit the use of the RDAP service to protect the privacy of registrants or the integrity of the database. We reserve the right to make changes to this website, the RDAP service, and these Terms and Conditions at any time without prior notice to you. You should review these Terms and Conditions each time you access or use the RDAP database and the RDAP service to learn of any changes. If you do not agree to the changes we have made, your only remedy is to stop your use of the RDAP database and the RDAP service. By executing a query, in any means whatsoever, you agree to these Terms of Service."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/microsoft/domain/cloud.microsoft",
+          "rel": "terms-of-service",
+          "href": "https://nominet.uk/rdap-tos",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/microsoft/domain/cloud.microsoft",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/microsoft/domain/cloud.microsoft",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventActor": "292",
+      "eventDate": "2015-09-25T21:35:19Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventActor": "292",
+      "eventDate": "2025-08-24T12:02:15Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-09-25T21:35:19Z"
+    },
+    {
+      "eventAction": "transfer",
+      "eventDate": "2024-09-25T21:35:19Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:47.903Z"
+    }
+  ],
+  "status": [
+    "client update prohibited",
+    "server update prohibited",
+    "client delete prohibited",
+    "client transfer prohibited",
+    "server delete prohibited",
+    "server transfer prohibited"
+  ],
+  "handle": "115146175_DOMAIN-MSFT",
+  "ldhName": "cloud.microsoft",
+  "unicodeName": "cloud.microsoft",
+  "secureDNS": {
+    "delegationSigned": true,
+    "maxSigLife": 3024000,
+    "dsData": [
+      {
+        "keyTag": 61899,
+        "algorithm": 13,
+        "digest": "3669D6E0BA4221859F38E90C598CD669A834BD99EE6478C2217C90D2C509D3ED",
+        "digestType": 2
+      }
+    ]
+  },
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/microsoft/entity/292",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/microsoft/entity/292",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.nominet.uk/microsoft/domain/cloud.microsoft",
+          "rel": "about",
+          "href": "https://rdap.markmonitor.com/rdap/",
+          "type": "text/html"
+        }
+      ],
+      "handle": "292",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor Inc."
+          ],
+          [
+            "url",
+            {},
+            "uri",
+            "http://www.markmonitor.com"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "292"
+        }
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse contact"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "registry.admin@markmonitor.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2015-09-25T21:35:16Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-19T16:28:53.127Z"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "redacted@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2015-09-25T21:35:16Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-19T16:28:36.835Z"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "redacted@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2015-09-25T21:35:16Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-19T16:28:36.835Z"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "redacted@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "billing"
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed"
+          ]
+        },
+        {
+          "title": "EMAIL REDACTED FOR PRIVACY",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2015-09-25T21:35:16Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2024-01-19T16:28:36.835Z"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {
+              "cc": "US"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "WA",
+              "",
+              ""
+            ]
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "Microsoft Corporation"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "redacted@nominet.uk"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ]
+    }
+  ],
+  "publicIds": [
+    {
+      "type": "Registry Identifier",
+      "identifier": "115146175_DOMAIN-MSFT"
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/microsoft/nameserver/ns3-33.azure-dns.org",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/microsoft/nameserver/ns3-33.azure-dns.org",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2021-07-14T20:32:50Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-07-14T20:32:50Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "84365611_HOST-MSFT",
+      "ldhName": "ns3-33.azure-dns.org",
+      "unicodeName": "ns3-33.azure-dns.org"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/microsoft/nameserver/ns4-33.azure-dns.info",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/microsoft/nameserver/ns4-33.azure-dns.info",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2021-07-14T20:32:51Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-07-14T20:32:51Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "84365615_HOST-MSFT",
+      "ldhName": "ns4-33.azure-dns.info",
+      "unicodeName": "ns4-33.azure-dns.info"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/microsoft/nameserver/ns2-33.azure-dns.net",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/microsoft/nameserver/ns2-33.azure-dns.net",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2021-07-14T20:32:50Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-07-14T20:32:50Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "84365607_HOST-MSFT",
+      "ldhName": "ns2-33.azure-dns.net",
+      "unicodeName": "ns2-33.azure-dns.net"
+    },
+    {
+      "objectClassName": "nameserver",
+      "links": [
+        {
+          "value": "https://rdap.nominet.uk/microsoft/nameserver/ns1-33.azure-dns.com",
+          "rel": "self",
+          "href": "https://rdap.nominet.uk/microsoft/nameserver/ns1-33.azure-dns.com",
+          "type": "application/rdap+json"
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2021-07-14T20:32:51Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2021-07-14T20:32:51Z"
+        }
+      ],
+      "status": [
+        "active",
+        "associated"
+      ],
+      "handle": "84365619_HOST-MSFT",
+      "ldhName": "ns1-33.azure-dns.com",
+      "unicodeName": "ns1-33.azure-dns.com"
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Tech Name"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Technical Organisation"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Technical Street"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Technical City"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Technical Region"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Technical Postal Code"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Technical Country"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Tech Phone"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Tech Phone Ext"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Technical Fax"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Technical Fax Ext"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Tech ID"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='technical')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Tech Email"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')]",
+      "replacementPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='email')][3]",
+      "pathLang": "jsonpath",
+      "method": "replacementValue"
+    },
+    {
+      "name": {
+        "description": "Administrative Name"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Administrative Organisation"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Street"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Administrative City"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Administrative Region"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Administrative Postal Code"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Administrative Country"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Administrative Phone"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Phone Ext"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Fax"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Fax Ext"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Roid"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Email"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "replacementValue"
+    },
+    {
+      "name": {
+        "description": "Billing Name"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Billing Organisation"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Street"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Billing City"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Billing Region"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Billing Postal Code"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Billing Country"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "description": "Billing Phone"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Phone Ext"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Fax"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Fax Ext"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Roid"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Email"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "method": "replacementValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone Ext"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Fax"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Fax Ext"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "reason": {
+        "description": "Server policy"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+      "replacementPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')][3]",
+      "pathLang": "jsonpath",
+      "method": "replacementValue"
+    }
+  ]
+}

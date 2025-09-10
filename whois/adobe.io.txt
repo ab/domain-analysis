@@ -1,0 +1,178 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.io
+
+domain:       IO
+
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+
+contact:      administrative
+name:         Internet Administrator
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+phone:        +246 9398
+fax-no:       +246 9398
+e-mail:       administrator@nic.io
+
+contact:      technical
+name:         Administrator
+organisation: Internet Computer Bureau Ltd
+address:      Greytown House, 221-227 High Street
+address:      Orpington Kent BR6 0NZ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
+e-mail:       admin@icb.co.uk
+
+nserver:      A0.NIC.IO 2a01:8840:9e:0:0:0:0:17 65.22.160.17
+nserver:      A2.NIC.IO 2a01:8840:a1:0:0:0:0:17 65.22.163.17
+nserver:      B0.NIC.IO 2a01:8840:9f:0:0:0:0:17 65.22.161.17
+nserver:      C0.NIC.IO 2a01:8840:a0:0:0:0:0:17 65.22.162.17
+ds-rdata:     57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
+
+whois:        whois.nic.io
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.io/
+
+created:      1997-09-16
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.io
+
+Domain Name: adobe.io
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: whois.comlaude.com
+Registrar URL: http://www.comlaude.com
+Updated Date: 2025-02-15T23:05:17Z
+Creation Date: 2012-03-12T17:18:28Z
+Registry Expiry Date: 2026-03-12T17:18:28Z
+Registrar: Nom-iq Ltd. dba COM LAUDE
+Registrar IANA ID: 470
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: REDACTED
+Registrant Name: REDACTED
+Registrant Organization: Adobe Inc.
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: California
+Registrant Postal Code: REDACTED
+Registrant Country: US
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: REDACTED
+Registry Admin ID: REDACTED
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: REDACTED
+Registry Tech ID: REDACTED
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: REDACTED
+Name Server: ns-1001.awsdns-61.net
+Name Server: ns-1159.awsdns-16.org
+Name Server: ns-67.awsdns-08.com
+Name Server: ns-1882.awsdns-43.co.uk
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2025-09-10T17:50:47Z <<<
+
+# whois.comlaude.com
+
+Domain Name: adobe.io
+Registry Domain ID: ed7115f7894a410ca167f8b6b28bbee5-DONUTS
+Registrar WHOIS Server: whois.comlaude.com
+Registrar URL: https://www.comlaude.com
+Updated Date: 2023-02-11T15:22:30Z
+Creation Date: 2012-03-12T17:18:28Z
+Registrar Registration Expiration Date: 2024-03-12T00:00:00Z
+Registrar: NOM-IQ Ltd dba Com Laude
+Registrar IANA ID: 470
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: comlde039292
+Registrant Name: Domain Administrator
+Registrant Organization: Adobe Inc.
+Registrant Street: 345 Park Avenue
+Registrant City: San Jose
+Registrant State/Province: California
+Registrant Postal Code: 95110
+Registrant Country: US
+Registrant Phone: +1.4085366000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: dns-admin@adobe.com
+Registry Admin ID: comlde039294
+Admin Name: Domain Administrator
+Admin Organization: Adobe Inc.
+Admin Street: 345 Park Avenue
+Admin City: San Jose
+Admin State/Province: California
+Admin Postal Code: 95110
+Admin Country: US
+Admin Phone: +1.4085366000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: dns-admin@adobe.com
+Registry Tech ID: comlde041256
+Tech Name: Technical Manager
+Tech Organization: Adobe Inc.
+Tech Street: 345 Park Avenue
+Tech City: San Jose
+Tech State/Province: California
+Tech Postal Code: 95110
+Tech Country: US
+Tech Phone: +1.4085366000
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: dns-admin@adobe.com
+Name Server: ns-1001.awsdns-61.net
+Name Server: ns-1159.awsdns-16.org
+Name Server: ns-1882.awsdns-43.co.uk
+Name Server: ns-67.awsdns-08.com
+DNSSEC: Unsigned Delegation
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-09-10T16:30:08Z <<<
+

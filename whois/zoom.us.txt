@@ -1,0 +1,161 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.us
+
+domain:       US
+
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+
+contact:      administrative
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+contact:      technical
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+nserver:      B.CCTLD.US 156.154.125.70 2001:502:ad09:0:0:0:0:29
+nserver:      F.CCTLD.US 2001:500:3682:0:0:0:0:11 209.173.58.70
+nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
+nserver:      M.CCTLD.US 204.74.105.1 2610:a1:3180:0:0:0:0:53
+nserver:      N.CCTLD.US 204.74.107.1 2610:a1:3280:0:0:0:0:53
+nserver:      W.CCTLD.US 2001:dcd:1:0:0:0:0:15 37.209.192.15
+nserver:      X.CCTLD.US 2001:dcd:2:0:0:0:0:15 37.209.194.15
+nserver:      Y.CCTLD.US 2001:dcd:3:0:0:0:0:15 37.209.196.15
+ds-rdata:     59017 8 2 7daf469d42b5d8e5537fd4dd4b6057710e9a61f72c32eb7fb6526f52277ec2b0
+
+whois:        whois.nic.us
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.us
+
+created:      1985-02-15
+changed:      2024-08-29
+source:       IANA
+
+# whois.nic.us
+
+Domain Name: zoom.us
+Registry Domain ID: D1813391-US
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: www.markmonitor.com
+Updated Date: 2025-04-17T20:29:15Z
+Creation Date: 2002-04-24T15:03:39Z
+Registry Expiry Date: 2027-04-23T23:59:59Z
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: registry.admin@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: C4F4692A1DCD04CC0B9B57813CA0C74CD-NSR
+Registrant Name: Domain Administrator
+Registrant Organization: Zoom Video Communications, Inc.
+Registrant Street: 55 Almaden Blvd  Suite 600
+Registrant Street:
+Registrant Street:
+Registrant City: San Jose
+Registrant State/Province: CA
+Registrant Postal Code: 95113
+Registrant Country: US
+Registrant Phone: +1.6692103445
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domains@zoom.us
+Registrant Application Purpose: P1
+Registrant Nexus Category: C21
+Registry Admin ID: C6B2F34F65B5946DF99B4573313EF8426-NSR
+Admin Name: Eric Yuan
+Admin Organization: Zoom Video Communications, Inc.
+Admin Street: 55 Almaden Blvd  Suite 600
+Admin Street:
+Admin Street:
+Admin City: San Jose
+Admin State/Province: CA
+Admin Postal Code: 95113
+Admin Country: US
+Admin Phone: +1.6692103445
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: domains@zoom.us
+Admin Application Purpose: P1
+Admin Nexus Category: C21
+Registry Tech ID: C6B2F34F65B5946DF99B4573313EF8426-NSR
+Tech Name: Eric Yuan
+Tech Organization: Zoom Video Communications, Inc.
+Tech Street: 55 Almaden Blvd  Suite 600
+Tech Street:
+Tech Street:
+Tech City: San Jose
+Tech State/Province: CA
+Tech Postal Code: 95113
+Tech Country: US
+Tech Phone: +1.6692103445
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domains@zoom.us
+Tech Application Purpose: P1
+Tech Nexus Category: C21
+Name Server: ns-387.awsdns-48.com
+Name Server: ns-1137.awsdns-14.org
+Name Server: ns-888.awsdns-47.net
+Name Server: ns-1772.awsdns-29.co.uk
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-09-10T17:51:19Z <<<
+
+# whois.markmonitor.com
+
+Domain Name: zoom.us
+Registry Domain ID: D1813391-US
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-03-23T10:53:03+0000
+Creation Date: 2002-04-24T15:03:39+0000
+Registrar Registration Expiration Date: 2027-04-23T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Zoom Video Communications, Inc.
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/zoom.us
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/zoom.us
+Name Server: ns-1137.awsdns-14.org
+Name Server: ns-888.awsdns-47.net
+Name Server: ns-387.awsdns-48.com
+Name Server: ns-1772.awsdns-29.co.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-09-10T17:51:08+0000 <<<
+

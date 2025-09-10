@@ -1,0 +1,171 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.io
+
+domain:       IO
+
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+
+contact:      administrative
+name:         Internet Administrator
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+phone:        +246 9398
+fax-no:       +246 9398
+e-mail:       administrator@nic.io
+
+contact:      technical
+name:         Administrator
+organisation: Internet Computer Bureau Ltd
+address:      Greytown House, 221-227 High Street
+address:      Orpington Kent BR6 0NZ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
+e-mail:       admin@icb.co.uk
+
+nserver:      A0.NIC.IO 2a01:8840:9e:0:0:0:0:17 65.22.160.17
+nserver:      A2.NIC.IO 2a01:8840:a1:0:0:0:0:17 65.22.163.17
+nserver:      B0.NIC.IO 2a01:8840:9f:0:0:0:0:17 65.22.161.17
+nserver:      C0.NIC.IO 2a01:8840:a0:0:0:0:0:17 65.22.162.17
+ds-rdata:     57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
+
+whois:        whois.nic.io
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.io/
+
+created:      1997-09-16
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.io
+
+Domain Name: home-assistant.io
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2024-11-25T07:08:02Z
+Creation Date: 2014-12-20T19:10:40Z
+Registry Expiry Date: 2025-12-20T19:10:40Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED
+Registrant Name: REDACTED
+Registrant Organization: Open Home Foundation
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: Baar
+Registrant Postal Code: REDACTED
+Registrant Country: CH
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: REDACTED
+Registry Admin ID: REDACTED
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: REDACTED
+Registry Tech ID: REDACTED
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: REDACTED
+Name Server: kate.ns.cloudflare.com
+Name Server: george.ns.cloudflare.com
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2025-09-10T17:50:51Z <<<
+
+# whois.namecheap.com
+
+Domain name: home-assistant.io
+Registry Domain ID: 2d32c188312d4b348198d7d01a2fdffd-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2024-11-20T07:07:34.27Z
+Creation Date: 2014-12-20T19:10:40.00Z
+Registrar Registration Expiration Date: 2025-12-20T19:10:40.00Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: Pascal Vizeli
+Registrant Organization: Open Home Foundation
+Registrant Street: Grabenstrasse 25 c/o Treforma AG
+Registrant City: 6340
+Registrant State/Province: Baar
+Registrant Postal Code: 6340
+Registrant Country: CH
+Registrant Phone: +41.412444123
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: pascal@openhomefoundation.org
+Registry Admin ID: 
+Admin Name: Pascal Vizeli
+Admin Organization: Open Home Foundation
+Admin Street: Grabenstrasse 25 c/o Treforma AG
+Admin City: 6340
+Admin State/Province: Baar
+Admin Postal Code: 6340
+Admin Country: CH
+Admin Phone: +41.412444123
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: pascal@openhomefoundation.org
+Registry Tech ID: 
+Tech Name: Pascal Vizeli
+Tech Organization: Open Home Foundation
+Tech Street: Grabenstrasse 25 c/o Treforma AG
+Tech City: 6340
+Tech State/Province: Baar
+Tech Postal Code: 6340
+Tech Country: CH
+Tech Phone: +41.412444123
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: pascal@openhomefoundation.org
+Name Server: george.ns.cloudflare.com
+Name Server: kate.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-09-10T02:50:54.33Z <<<
+

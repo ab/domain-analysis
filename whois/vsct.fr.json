@@ -1,0 +1,987 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "objectClassName": "domain",
+  "handle": "DOM000000631183-FRNIC",
+  "ldhName": "vsct.fr",
+  "status": [
+    "server update prohibited",
+    "server transfer prohibited",
+    "server delete prohibited",
+    "server recover prohibited"
+  ],
+  "whoisStatus": "ACTIVE",
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2005-11-28T10:42:16Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2025-11-28T10:42:17Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-02-10T15:42:31.044054Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:51.704907648Z"
+    }
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "RAR711-FRNIC",
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "299"
+        }
+      ],
+      "status": [
+        "active"
+      ],
+      "port43": "whois.corporatedomains.com",
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2006-10-16T00:00:00Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-08-22T08:44:38.005563Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.cscglobal.com/dbs/rdap-api/v1/",
+          "value": "https://www.cscdigitalbrand.services",
+          "rel": "about"
+        },
+        {
+          "href": "https://rdap.nic.fr/entity/RAR711-FRNIC",
+          "value": "https://rdap.nic.fr/entity/RAR711-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "CSC CORPORATE DOMAINS INC."
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.3026365400"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+1.3026365454"
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "tldsupport@cscglobal.com"
+          ],
+          [
+            "url",
+            {},
+            "uri",
+            "https://www.cscdigitalbrand.services"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "251 Little Falls Drive",
+              "WILMINGTON",
+              "",
+              "DE 19808",
+              "US"
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "sponsor",
+        "registrar"
+      ],
+      "remarks": [
+        {
+          "type": "registrar restricted publication",
+          "description": [
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "VT4738-FRNIC",
+      "status": [
+        "server update prohibited",
+        "associated"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2018-12-21T00:00:00Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/entity/VT4738-FRNIC",
+          "value": "https://rdap.nic.fr/entity/VT4738-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "vsc-technologies"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "7, rue Pablo Neruda",
+              "Levallois Perret",
+              "",
+              "92300",
+              "FR"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dnsmaster@voyages-sncf.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+33.145192960"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+33.145192929"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "ORGANIZATION"
+          ]
+        },
+        {
+          "type": "reach medium",
+          "description": [
+            "EMAIL"
+          ]
+        },
+        {
+          "type": "reach date",
+          "description": [
+            "2018-12-21T00:00:00Z"
+          ]
+        },
+        {
+          "type": "reach source",
+          "description": [
+            "REGISTRY"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "YES"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "OK"
+          ]
+        },
+        {
+          "type": "eligibility source",
+          "description": [
+            "REGISTRY"
+          ]
+        },
+        {
+          "type": "eligibility date",
+          "description": [
+            "2018-12-21T00:00:00Z"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "CSC CORPORATE DOMAINS INC."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "DNM89-FRNIC",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2018-12-18T00:00:00Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/entity/DNM89-FRNIC",
+          "value": "https://rdap.nic.fr/entity/DNM89-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Domain Name Manager"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "2, place de la Defense - Cnit 1",
+              "Paris la Defense",
+              "",
+              "92053",
+              "FR"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "domain-name@voyages-sncf.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+33.174541300"
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "PERSON"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "NotIdentified"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "CSC CORPORATE DOMAINS INC."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "entity",
+      "handle": "DA6025-FRNIC",
+      "status": [
+        "associated",
+        "active"
+      ],
+      "events": [
+        {
+          "eventAction": "registration",
+          "eventDate": "2012-05-16T00:00:00Z"
+        },
+        {
+          "eventAction": "last changed",
+          "eventDate": "2025-09-05T08:35:54.422626Z"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/entity/DA6025-FRNIC",
+          "value": "https://rdap.nic.fr/entity/DA6025-FRNIC",
+          "rel": "self"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Dns Administrator"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "CSC Corporate Domains, Inc."
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "251 Little Falls Drive",
+              "Wilmington",
+              "DE",
+              "19808",
+              "US"
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "dns-admin@cscglobal.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "uri",
+            "tel:+1.3026365400"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "uri",
+            "tel:+1.3026365454"
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "remarks": [
+        {
+          "type": "contact restricted publication",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact obsolete",
+          "description": [
+            "NO"
+          ]
+        },
+        {
+          "type": "contact type",
+          "description": [
+            "PERSON"
+          ]
+        },
+        {
+          "type": "reach medium",
+          "description": [
+            "EMAIL"
+          ]
+        },
+        {
+          "type": "reach date",
+          "description": [
+            "2018-10-04T00:00:00Z"
+          ]
+        },
+        {
+          "type": "reach source",
+          "description": [
+            "REGISTRAR"
+          ]
+        },
+        {
+          "type": "reachable",
+          "description": [
+            "YES"
+          ]
+        },
+        {
+          "type": "eligibility status",
+          "description": [
+            "OK"
+          ]
+        },
+        {
+          "type": "eligibility source",
+          "description": [
+            "REGISTRAR"
+          ]
+        },
+        {
+          "type": "eligibility date",
+          "description": [
+            "2018-10-04T00:00:00Z"
+          ]
+        },
+        {
+          "type": "registrar name",
+          "description": [
+            "CSC CORPORATE DOMAINS INC."
+          ]
+        }
+      ]
+    }
+  ],
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST3847-FRNIC",
+      "ldhName": "indom10.indomco.com",
+      "status": [
+        "server update prohibited",
+        "associated"
+      ],
+      "ipAddresses": {},
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR939-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "9999"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.nic.fr",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2014-07-29T15:35:33Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-10-12T18:54:01.785057Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Registry Operations"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.139308300"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+33.139308301"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "support@afnic.fr"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.afnic.fr"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "AFNIC",
+                    "immeuble le Stephenson",
+                    "1, rue Stephenson"
+                  ],
+                  "Montigny-Le-Bretonneux",
+                  "",
+                  "78180",
+                  "FR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "sponsor",
+            "registrar"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/nameserver/indom10.indomco.com",
+          "value": "https://rdap.nic.fr/nameserver/indom10.indomco.com",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST3848-FRNIC",
+      "ldhName": "indom20.indomco.net",
+      "status": [
+        "server update prohibited",
+        "associated"
+      ],
+      "ipAddresses": {},
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR939-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "9999"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.nic.fr",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2014-07-29T15:35:33Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2022-10-12T18:54:01.785057Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "value": "https://rdap.nic.fr/entity/RAR939-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Registry Operations"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.139308300"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+33.139308301"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "support@afnic.fr"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.afnic.fr"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  [
+                    "AFNIC",
+                    "immeuble le Stephenson",
+                    "1, rue Stephenson"
+                  ],
+                  "Montigny-Le-Bretonneux",
+                  "",
+                  "78180",
+                  "FR"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "sponsor",
+            "registrar"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/nameserver/indom20.indomco.net",
+          "value": "https://rdap.nic.fr/nameserver/indom20.indomco.net",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    },
+    {
+      "objectClassName": "nameserver",
+      "handle": "HOST4511-FRNIC",
+      "ldhName": "indom30.indomco.fr",
+      "status": [
+        "server update prohibited",
+        "associated"
+      ],
+      "ipAddresses": {
+        "v4": [
+          "156.154.130.100"
+        ],
+        "v6": [
+          "2610:a1:1022::100"
+        ]
+      },
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "handle": "RAR711-FRNIC",
+          "publicIds": [
+            {
+              "type": "IANA Registrar ID",
+              "identifier": "299"
+            }
+          ],
+          "status": [
+            "active"
+          ],
+          "port43": "whois.corporatedomains.com",
+          "events": [
+            {
+              "eventAction": "registration",
+              "eventDate": "2006-10-16T00:00:00Z"
+            },
+            {
+              "eventAction": "last changed",
+              "eventDate": "2025-08-22T08:44:38.005563Z"
+            }
+          ],
+          "links": [
+            {
+              "href": "https://rdap.cscglobal.com/dbs/rdap-api/v1/",
+              "value": "https://www.cscdigitalbrand.services",
+              "rel": "about"
+            },
+            {
+              "href": "https://rdap.nic.fr/entity/RAR711-FRNIC",
+              "value": "https://rdap.nic.fr/entity/RAR711-FRNIC",
+              "rel": "self"
+            }
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "CSC CORPORATE DOMAINS INC."
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.3026365400"
+              ],
+              [
+                "tel",
+                {
+                  "type": "fax"
+                },
+                "uri",
+                "tel:+1.3026365454"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "tldsupport@cscglobal.com"
+              ],
+              [
+                "url",
+                {},
+                "uri",
+                "https://www.cscdigitalbrand.services"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  "251 Little Falls Drive",
+                  "WILMINGTON",
+                  "",
+                  "DE 19808",
+                  "US"
+                ]
+              ]
+            ]
+          ],
+          "roles": [
+            "sponsor",
+            "registrar"
+          ],
+          "remarks": [
+            {
+              "type": "registrar restricted publication",
+              "description": [
+                "No"
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "href": "https://rdap.nic.fr/nameserver/indom30.indomco.fr",
+          "value": "https://rdap.nic.fr/nameserver/indom30.indomco.fr",
+          "rel": "self"
+        }
+      ],
+      "remarks": [
+        {
+          "title": "result set truncated due to authorization",
+          "description": [
+            "The list of results does not contain all results due to lack of authorization.",
+            "This may indicate to some clients that proper authorization will yield a longer result set."
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "href": "https://rdap.nic.fr/domain/vsct.fr",
+      "value": "https://rdap.nic.fr/domain/vsct.fr",
+      "rel": "self"
+    },
+    {
+      "href": "https://rdap.cscglobal.com/dbs/rdap-api/v1/domain/vsct.fr",
+      "value": "https://rdap.nic.fr/domain/vsct.fr",
+      "rel": "related"
+    }
+  ]
+}

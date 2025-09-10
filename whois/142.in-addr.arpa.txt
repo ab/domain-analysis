@@ -1,0 +1,35 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       142.in-addr.arpa
+
+organisation: Administered by ARIN
+
+nserver:      ARIN.AUTHDNS.RIPE.NET.
+nserver:      R.ARIN.NET.
+nserver:      U.ARIN.NET.
+nserver:      X.ARIN.NET.
+nserver:      Y.ARIN.NET.
+nserver:      Z.ARIN.NET.
+ds-rdata:     27607 8 2 5d8a8d78eca786140178c5c7794cd37bc121406f9b274ab490b4a0ef9e364576
+
+whois:        whois.arin.net
+
+changed:      1993-05
+changed:      2024-07-08
+source:       IANA
+
+# whois.arin.net
+
+Name:           142.in-addr.arpa.
+Updated:        2016-03-22
+NameServer:     R.ARIN.NET
+NameServer:     U.ARIN.NET
+NameServer:     X.ARIN.NET
+NameServer:     Z.ARIN.NET
+NameServer:     ARIN.AUTHDNS.RIPE.NET
+NameServer:     Y.ARIN.NET
+Ref:            https://rdap.arin.net/registry/domain/142.in-addr.arpa.
+
+

@@ -1,0 +1,213 @@
+{
+  "objectClassName": "domain",
+  "handle": "834820814_DOMAIN_COM-VRSN",
+  "ldhName": "TABOOLA.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/TABOOLA.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/TABOOLA.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.ascio.com\/domain\/TABOOLA.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.ascio.com\/domain\/TABOOLA.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "106",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.ascio.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.ascio.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "106"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.4165350123"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@ascio.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2007-02-23T22:21:41Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2031-02-23T22:21:41Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-01-28T06:31:47Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:32Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 48553,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "57AF2F182A541A91AD24CC6583867C2BA331255B03E2A32579A625AD1F3BE3CA"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS1.P05.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS2.P05.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS3.P05.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS4.P05.NSONE.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS01.DNSFASTER.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS02.DNSFASTER.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS03.DNSFASTER.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS04.DNSFASTER.COM"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/taboola.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/taboola.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

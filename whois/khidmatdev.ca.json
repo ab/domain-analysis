@@ -1,0 +1,843 @@
+{
+  "rdapConformance": [
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "rdap_level_0",
+    "redacted"
+  ],
+  "handle": "116100837-CIRA",
+  "ldhName": "khidmatdev.ca",
+  "unicodeName": "khidmatdev.ca",
+  "status": [
+    "client transfer prohibited"
+  ],
+  "port43": "https://www.whois.registrar.eu",
+  "links": [
+    {
+      "href": "https://rdap.ca.fury.ca/rdap/domain/khidmatdev.ca",
+      "rel": "self",
+      "title": "Authoritative URL for this resource",
+      "type": "application/rdap+json"
+    },
+    {
+      "href": "https://rdap.registrar.eu/v1/",
+      "rel": "related",
+      "title": "Registrar's RDAP URL",
+      "type": "application/rdap+json"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "title": "Status Codes",
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "related",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "title": "Terms of Service",
+      "links": [
+        {
+          "href": "https://cira.ca/legal-policy-compliance/website-terms-use",
+          "rel": "related",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "title": "RDDS Inaccuracy Complaint Form",
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "related",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "description": [
+        "\nUse of CIRA's WHOIS service is governed by the Terms of Use in its Legal\nNotice, available at http://www.cira.ca/legal-notice/?lang=en\n\n(c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)"
+      ],
+      "title": "Legal Notice",
+      "links": [
+        {
+          "href": "http://www.cira.ca/legal-notice",
+          "rel": "related",
+          "type": "text/html"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2025-04-24T12:22:14Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-04-24T12:22:14Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-07-13T10:12:38Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:47Z"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "itzel.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "porter.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "entities": [
+    {
+      "handle": "not applicable",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Open Provider Inc."
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "org"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "registrar"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ],
+          [
+            "url",
+            {
+              "type": "home"
+            },
+            "uri",
+            "https://www.openprovider.com/"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "handle": "not applicable",
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Abuse Contact"
+              ],
+              [
+                "kind",
+                {},
+                "text",
+                "individual"
+              ],
+              [
+                "role",
+                {},
+                "text",
+                "abuse"
+              ],
+              [
+                "adr",
+                {},
+                "text",
+                [
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ]
+              ],
+              [
+                "tel",
+                {
+                  "type": [
+                    "voice"
+                  ]
+                },
+                "uri",
+                "tel:+31.108080815"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@registrar.eu"
+              ],
+              [
+                "url",
+                {
+                  "type": "home"
+                },
+                "uri",
+                "https://www.openprovider.com/"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "publicIds": [],
+          "objectClassName": "entity"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [],
+      "objectClassName": "entity"
+    },
+    {
+      "handle": "REDACTED FOR PRIVACY",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "registrant"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "publicIds": [
+        {
+          "type": "ROID",
+          "identifier": "REDACTED FOR PRIVACY"
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "handle": "REDACTED FOR PRIVACY",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "administrative"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "publicIds": [
+        {
+          "type": "ROID",
+          "identifier": "REDACTED FOR PRIVACY"
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "handle": "REDACTED FOR PRIVACY",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "technical"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "technical"
+      ],
+      "publicIds": [
+        {
+          "type": "ROID",
+          "identifier": "REDACTED FOR PRIVACY"
+        }
+      ],
+      "objectClassName": "entity"
+    },
+    {
+      "handle": "REDACTED FOR PRIVACY",
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "role",
+            {},
+            "text",
+            "billing"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "billing"
+      ],
+      "publicIds": [
+        {
+          "type": "ROID",
+          "identifier": "REDACTED FOR PRIVACY"
+        }
+      ],
+      "objectClassName": "entity"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "redacted": [
+    {
+      "name": {
+        "description": "Registry Admin ID"
+      },
+      "method": "replacementValue",
+      "postPath": "$.entities[?(@.roles[0]=='administrative')].handle"
+    },
+    {
+      "name": {
+        "description": "Admin Name"
+      },
+      "method": "emptyValue",
+      "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='fn')][3]"
+    },
+    {
+      "name": {
+        "description": "Admin Organization"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Admin Street"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][2]"
+    },
+    {
+      "name": {
+        "description": "Admin City"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][3]"
+    },
+    {
+      "name": {
+        "description": "Admin Region"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][4]"
+    },
+    {
+      "name": {
+        "description": "Admin Postal Code"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][5]"
+    },
+    {
+      "name": {
+        "description": "Admin Country"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='administrative')].vcardArray[1][?(@[0]=='adr')][3][6]"
+    },
+    {
+      "name": {
+        "description": "Admin Phone"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Admin Phone Ext"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Admin Fax"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Admin Fax Ext"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Admin Email"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Admin Url"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Registry Billing ID"
+      },
+      "method": "replacementValue",
+      "postPath": "$.entities[?(@.roles[0]=='billing')].handle"
+    },
+    {
+      "name": {
+        "description": "Billing Name"
+      },
+      "method": "emptyValue",
+      "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='fn')][3]"
+    },
+    {
+      "name": {
+        "description": "Billing Organization"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Street"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][2]"
+    },
+    {
+      "name": {
+        "description": "Billing City"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][3]"
+    },
+    {
+      "name": {
+        "description": "Billing Region"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][4]"
+    },
+    {
+      "name": {
+        "description": "Billing Postal Code"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][5]"
+    },
+    {
+      "name": {
+        "description": "Billing Country"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='billing')].vcardArray[1][?(@[0]=='adr')][3][6]"
+    },
+    {
+      "name": {
+        "description": "Billing Phone"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Phone Ext"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Fax"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Fax Ext"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Email"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Billing Url"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "method": "replacementValue",
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].handle"
+    },
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "method": "emptyValue",
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]"
+    },
+    {
+      "name": {
+        "type": "Registrant Organization"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][2]"
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]"
+    },
+    {
+      "name": {
+        "description": "Registrant Region"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][4]"
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]"
+    },
+    {
+      "name": {
+        "description": "Registrant Country"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][6]"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone Ext"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Fax"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Fax Ext"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Registrant Url"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Tech ID"
+      },
+      "method": "replacementValue",
+      "postPath": "$.entities[?(@.roles[0]=='technical')].handle"
+    },
+    {
+      "name": {
+        "type": "Tech Name"
+      },
+      "method": "emptyValue",
+      "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='fn')][3]"
+    },
+    {
+      "name": {
+        "description": "Tech Organization"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Tech Street"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][2]"
+    },
+    {
+      "name": {
+        "description": "Tech City"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][3]"
+    },
+    {
+      "name": {
+        "description": "Tech Region"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][4]"
+    },
+    {
+      "name": {
+        "description": "Tech Postal Code"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][5]"
+    },
+    {
+      "name": {
+        "description": "Tech Country"
+      },
+      "method": "partialValue",
+      "postPath": "$.entities[?(@.roles[0]=='technical')].vcardArray[1][?(@[0]=='adr')][3][6]"
+    },
+    {
+      "name": {
+        "type": "Tech Phone"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Tech Phone Ext"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Tech Fax"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Tech Fax Ext"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Tech Email"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Tech Url"
+      },
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain"
+}

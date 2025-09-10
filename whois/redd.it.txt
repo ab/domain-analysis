@@ -1,0 +1,111 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.it
+
+domain:       IT
+
+organisation: IIT - CNR
+address:      Via Moruzzi, 1
+address:      Pisa I-56124
+address:      Italy
+
+contact:      administrative
+name:         Andrea Passarella
+organisation: IIT - CNR
+address:      Via Moruzzi, 1
+address:      Pisa I-56124
+address:      Italy
+phone:        +39 050 315 2112
+e-mail:       direttore@iit.cnr.it
+
+contact:      technical
+name:         Maurizio Martinelli
+organisation: IIT - CNR
+address:      Via Moruzzi, 1
+address:      Pisa I-56124
+address:      Italy
+phone:        +39 050 315 2087
+e-mail:       maurizio.martinelli@iit.cnr.it
+
+nserver:      A.DNS.IT 194.0.16.215 2001:678:12:0:194:0:16:215
+nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
+nserver:      M.DNS.IT 2001:1ac0:0:200:0:a5d1:6004:2 217.29.76.4
+nserver:      NAMESERVER.CNR.IT 194.119.192.34 2a00:1620:c0:220:194:119:192:34
+nserver:      R.DNS.IT 193.206.141.46 2001:760:ffff:ffff:0:0:0:ca
+nserver:      V.DNS.IT 194.0.25.44 2001:678:20:0:0:0:0:44
+ds-rdata:     41901 10 2 47f7f7ba21e48591f6172eed13e35b66b93ad9f2880fc9bada64f68ce28ebb90
+
+whois:        whois.nic.it
+
+status:       ACTIVE
+remarks:      Registration information: https://www.nic.it/
+
+created:      1987-12-23
+changed:      2025-01-28
+source:       IANA
+
+# whois.nic.it
+
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             redd.it
+Status:             ok
+Signed:             no
+Created:            2010-05-31 09:49:27
+Last Update:        2025-09-02 00:41:49
+Expire Date:        2026-08-17
+
+Registrant
+  Organization:     MarkMonitor International Limited
+  Address:          12 New Fetter Lane
+                    London
+                    EC4A 1JP
+                    Uk
+                    GB
+  Created:          2012-10-24 21:48:52
+  Last Update:      2022-12-07 01:26:26
+
+Admin Contact
+  Name:             Stu Homan
+  Organization:     MarkMonitor International Limited
+  Address:          12 New Fetter Lane
+                    London
+                    EC4A 1JP
+                    Uk
+                    GB
+  Created:          2012-10-24 21:48:52
+  Last Update:      2022-12-07 01:26:26
+
+Technical Contacts
+  Name:             Domain Administrator
+  Organization:     Reddit Inc.
+  Address:          548 Market St.
+                    San Francisco
+                    94104
+                    CA
+                    US
+  Created:          2017-08-16 21:36:25
+  Last Update:      2017-08-16 21:36:25
+
+Registrar
+  Organization:     MarkMonitor International Limited
+  Name:             MARKMONITOR-REG
+  Web:              https://www.markmonitor.com/
+  DNSSEC:           no
+
+
+Nameservers
+  ns-344.awsdns-43.com
+  ns-673.awsdns-20.net
+  ns-1969.awsdns-54.co.uk
+  ns-1072.awsdns-06.org
+

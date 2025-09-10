@@ -1,0 +1,211 @@
+{
+  "objectClassName": "domain",
+  "handle": "3959083_DOMAIN_NET-VRSN",
+  "ldhName": "OVH.NET",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/OVH.NET",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/OVH.NET",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.ovh.com\/domain\/OVH.NET",
+      "rel": "related",
+      "href": "https:\/\/rdap.ovh.com\/domain\/OVH.NET",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "active"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "433",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.ovh.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.ovh.com\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "433"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "OVH sas"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+33.972101007"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@ovh.net"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1998-06-08T04:00:00Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2033-06-07T04:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2024-03-27T11:04:11Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:32Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS10.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS11.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS12.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS13.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "DNS15.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS10.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS11.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS12.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS13.OVH.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS15.OVH.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/ovh.net",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/net\/v1\/domain\/ovh.net",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "objectClassName": "domain",
+  "handle": "1562750161_DOMAIN_COM-VRSN",
+  "ldhName": "SAMSUNGCLOUD.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/SAMSUNGCLOUD.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/SAMSUNGCLOUD.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/whois.co.kr\/rdap\/domain\/SAMSUNGCLOUD.COM",
+      "rel": "related",
+      "href": "https:\/\/whois.co.kr\/rdap\/domain\/SAMSUNGCLOUD.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "100",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.whois.co.kr",
+          "type": "text\/html",
+          "value": "https:\/\/whois.co.kr\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "100"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Whois Corp."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+82.15884259"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@whois.co.kr"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2009-07-18T02:43:19Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-07-18T02:43:19Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-06-25T06:51:43Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:32Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-107.AWSDNS-13.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1440.AWSDNS-52.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1898.AWSDNS-45.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-679.AWSDNS-20.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/samsungcloud.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/samsungcloud.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

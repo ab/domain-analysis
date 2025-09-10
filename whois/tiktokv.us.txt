@@ -1,0 +1,131 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.us
+
+domain:       US
+
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+
+contact:      administrative
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+contact:      technical
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
+address:      United States of America (the)
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
+
+nserver:      B.CCTLD.US 156.154.125.70 2001:502:ad09:0:0:0:0:29
+nserver:      F.CCTLD.US 2001:500:3682:0:0:0:0:11 209.173.58.70
+nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
+nserver:      M.CCTLD.US 204.74.105.1 2610:a1:3180:0:0:0:0:53
+nserver:      N.CCTLD.US 204.74.107.1 2610:a1:3280:0:0:0:0:53
+nserver:      W.CCTLD.US 2001:dcd:1:0:0:0:0:15 37.209.192.15
+nserver:      X.CCTLD.US 2001:dcd:2:0:0:0:0:15 37.209.194.15
+nserver:      Y.CCTLD.US 2001:dcd:3:0:0:0:0:15 37.209.196.15
+ds-rdata:     59017 8 2 7daf469d42b5d8e5537fd4dd4b6057710e9a61f72c32eb7fb6526f52277ec2b0
+
+whois:        whois.nic.us
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.us
+
+created:      1985-02-15
+changed:      2024-08-29
+source:       IANA
+
+# whois.nic.us
+
+Domain Name: tiktokv.us
+Registry Domain ID: DD561D1F276F24CF5B28FC11691BC6B91-GDREG
+Registrar WHOIS Server:
+Registrar URL: whois.gandi.net
+Updated Date: 2025-03-23T10:55:35Z
+Creation Date: 2023-04-18T12:45:06Z
+Registry Expiry Date: 2026-04-18T12:45:06Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: CCC756558466B43068EF96B83CC3C69EE-GDREG
+Registrant Name: VIVIA CHUA
+Registrant Organization: Tiktok Inc.
+Registrant Street: 5800 BRISTOL PKWY CULVER CITY CA 90230
+Registrant Street:
+Registrant Street:
+Registrant City: Sheng Mo Ni Qia
+Registrant State/Province: CA
+Registrant Postal Code: 90230
+Registrant Country: US
+Registrant Phone: +1.5901050513
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: b75a3dab5483626e440039536b1990b1-41856825@contact.gandi.net
+Registrant Application Purpose: P1
+Registrant Nexus Category: C31/US
+Registry Admin ID: CCC756558466B43068EF96B83CC3C69EE-GDREG
+Admin Name: VIVIA CHUA
+Admin Organization: Tiktok Inc.
+Admin Street: 5800 BRISTOL PKWY CULVER CITY CA 90230
+Admin Street:
+Admin Street:
+Admin City: Sheng Mo Ni Qia
+Admin State/Province: CA
+Admin Postal Code: 90230
+Admin Country: US
+Admin Phone: +1.5901050513
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: b75a3dab5483626e440039536b1990b1-41856825@contact.gandi.net
+Admin Application Purpose: P1
+Admin Nexus Category: C31/US
+Registry Tech ID: CCC756558466B43068EF96B83CC3C69EE-GDREG
+Tech Name: VIVIA CHUA
+Tech Organization: Tiktok Inc.
+Tech Street: 5800 BRISTOL PKWY CULVER CITY CA 90230
+Tech Street:
+Tech Street:
+Tech City: Sheng Mo Ni Qia
+Tech State/Province: CA
+Tech Postal Code: 90230
+Tech Country: US
+Tech Phone: +1.5901050513
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: b75a3dab5483626e440039536b1990b1-41856825@contact.gandi.net
+Tech Application Purpose: P1
+Tech Nexus Category: C31/US
+Name Server: a3-66.akam.net
+Name Server: a22-64.akam.net
+Name Server: a14-66.akam.net
+Name Server: a5-66.akam.net
+Name Server: a8-67.akam.net
+Name Server: a1-167.akam.net
+Name Server: ns3.p203.dns.oraclecloud.net
+Name Server: ns1.p203.dns.oraclecloud.net
+Name Server: ns2.p203.dns.oraclecloud.net
+Name Server: ns4.p203.dns.oraclecloud.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-09-10T17:50:46Z <<<
+

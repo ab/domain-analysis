@@ -1,0 +1,229 @@
+{
+  "objectClassName": "domain",
+  "handle": "143300555_DOMAIN_COM-VRSN",
+  "ldhName": "PALOALTONETWORKS.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/PALOALTONETWORKS.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/PALOALTONETWORKS.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.markmonitor.com\/rdap\/domain\/PALOALTONETWORKS.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.markmonitor.com\/rdap\/domain\/PALOALTONETWORKS.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client delete prohibited",
+    "client transfer prohibited",
+    "client update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "292",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/www.markmonitor.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.markmonitor.com\/rdap\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "292"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "MarkMonitor Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.2086851750"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abusecomplaints@markmonitor.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2005-02-21T02:42:10Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-02-21T02:42:10Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-05T11:21:55Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:32Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 51034,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "D8070C70389D5846D34273E81F810F0F6ED23C5D99EE208F09F2A0A9F5CC5142"
+      },
+      {
+        "keyTag": 46116,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "A14E4DAAFE774B2BB1DB70CB0B76615E49ADED9A38AA696338C427C384A93EB4"
+      },
+      {
+        "keyTag": 61478,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "219C22C0FC1174FA2191EA3CE076F9A75FF82C980CF0CF7841C7761C5DF02694"
+      },
+      {
+        "keyTag": 43353,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "18C91CF13943198EFEB050CC88AAEA576F615B1A886636EE72023EAFDFEDDEB2"
+      },
+      {
+        "keyTag": 9113,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "181362F7FAF5EDBAAC773B0A9CA4B24E6B07408A9AAD5EA414CB84CB6BE3F1C8"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A1-184.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A11-64.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A12-67.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A13-66.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A2-65.AKAM.NET"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "A4-64.AKAM.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/paloaltonetworks.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/paloaltonetworks.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

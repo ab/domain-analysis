@@ -1,0 +1,175 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.nic.io
+
+domain:       IO
+
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+
+contact:      administrative
+name:         Internet Administrator
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Diego Garcia) Limited
+address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
+address:      British Indian Ocean Territory (the)
+phone:        +246 9398
+fax-no:       +246 9398
+e-mail:       administrator@nic.io
+
+contact:      technical
+name:         Administrator
+organisation: Internet Computer Bureau Ltd
+address:      Greytown House, 221-227 High Street
+address:      Orpington Kent BR6 0NZ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
+e-mail:       admin@icb.co.uk
+
+nserver:      A0.NIC.IO 2a01:8840:9e:0:0:0:0:17 65.22.160.17
+nserver:      A2.NIC.IO 2a01:8840:a1:0:0:0:0:17 65.22.163.17
+nserver:      B0.NIC.IO 2a01:8840:9f:0:0:0:0:17 65.22.161.17
+nserver:      C0.NIC.IO 2a01:8840:a0:0:0:0:0:17 65.22.162.17
+ds-rdata:     57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
+
+whois:        whois.nic.io
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.io/
+
+created:      1997-09-16
+changed:      2023-01-18
+source:       IANA
+
+# whois.nic.io
+
+Domain Name: webshare.io
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2025-08-23T15:00:36Z
+Creation Date: 2017-01-10T06:27:41Z
+Registry Expiry Date: 2030-01-10T06:27:41Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED
+Registrant Name: REDACTED
+Registrant Organization: Webshare Software
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: CA
+Registrant Postal Code: REDACTED
+Registrant Country: US
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: REDACTED
+Registry Admin ID: REDACTED
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: REDACTED
+Registry Tech ID: REDACTED
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: REDACTED
+Name Server: ns-637.awsdns-15.net
+Name Server: ns-1625.awsdns-11.co.uk
+Name Server: ns-1256.awsdns-29.org
+Name Server: ns-319.awsdns-39.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2025-09-10T17:50:50Z <<<
+
+# whois.namecheap.com
+
+Domain name: webshare.io
+Registry Domain ID: 1c290c36e79849a5ae49ac680ce8cb40-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2025-08-18T15:00:11.67Z
+Creation Date: 2017-01-10T06:27:41.00Z
+Registrar Registration Expiration Date: 2030-01-10T06:27:41.00Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Redacted for Privacy Purposes
+Registrant Name: Redacted for Privacy Purposes
+Registrant Organization: Redacted for Privacy Purposes
+Registrant Street: Redacted for Privacy Purposes
+Registrant City: Redacted for Privacy Purposes
+Registrant State/Province: CA
+Registrant Postal Code: Redacted for Privacy Purposes
+Registrant Country: US
+Registrant Phone: Redacted for Privacy Purposes
+Registrant Phone Ext: Redacted for Privacy Purposes
+Registrant Fax: Redacted for Privacy Purposes
+Registrant Fax Ext: Redacted for Privacy Purposes
+Registrant Email: Select Contact Domain Holder link at https://www.namecheap.com/domains/whois/result?domain=webshare.io&contactForm=1
+Registry Admin ID: Redacted for Privacy Purposes
+Admin Name: Redacted for Privacy Purposes
+Admin Organization: Redacted for Privacy Purposes
+Admin Street: Redacted for Privacy Purposes
+Admin City: Redacted for Privacy Purposes
+Admin State/Province: Redacted for Privacy Purposes
+Admin Postal Code: Redacted for Privacy Purposes
+Admin Country: Redacted for Privacy Purposes
+Admin Phone: Redacted for Privacy Purposes
+Admin Phone Ext: Redacted for Privacy Purposes
+Admin Fax: Redacted for Privacy Purposes
+Admin Fax Ext: Redacted for Privacy Purposes
+Admin Email: Select Contact Domain Holder link at https://www.namecheap.com/domains/whois/result?domain=webshare.io&contactForm=1
+Registry Tech ID: Redacted for Privacy Purposes
+Tech Name: Redacted for Privacy Purposes
+Tech Organization: Redacted for Privacy Purposes
+Tech Street: Redacted for Privacy Purposes
+Tech City: Redacted for Privacy Purposes
+Tech State/Province: Redacted for Privacy Purposes
+Tech Postal Code: Redacted for Privacy Purposes
+Tech Country: Redacted for Privacy Purposes
+Tech Phone: Redacted for Privacy Purposes
+Tech Phone Ext: Redacted for Privacy Purposes
+Tech Fax: Redacted for Privacy Purposes
+Tech Fax Ext: Redacted for Privacy Purposes
+Tech Email: Select Contact Domain Holder link at https://www.namecheap.com/domains/whois/result?domain=webshare.io&contactForm=1
+Name Server: ns-1256.awsdns-29.org
+Name Server: ns-1625.awsdns-11.co.uk
+Name Server: ns-319.awsdns-39.com
+Name Server: ns-637.awsdns-15.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-09-09T21:50:51.88Z <<<
+

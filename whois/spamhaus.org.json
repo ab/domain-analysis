@@ -1,0 +1,407 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Public Interest Registry provides this RDAP service for informational purposes only, and to assist persons in obtaining information about or related to a domain name registration record. Public Interest Registry does not guarantee its accuracy. Users accessing the Public Interest Registry RDAP service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers and b) enable high volume, automated, electronic processes that send queries or data to the systems of Public Interest Registry or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Public Interest Registry RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data can be requested by submitting a request to WHOISrequest@pir.org. Public Interest Registry Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/spamhaus.org",
+          "rel": "terms-of-service",
+          "href": "https://thenew.org/org-people/about-pir/policies/",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/spamhaus.org",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/spamhaus.org",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "ldhName": "spamhaus.org",
+  "unicodeName": "spamhaus.org",
+  "nameservers": [
+    {
+      "ldhName": "hideyoshi.spamhaus.org",
+      "unicodeName": "hideyoshi.spamhaus.org",
+      "ipAddresses": {
+        "v4": [
+          "162.159.24.35"
+        ],
+        "v6": [
+          "2400:cb00:2049:1::a29f:1823"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "4edebf94f226497fa54cecc7600836b2-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "musashi.spamhaus.org",
+      "unicodeName": "musashi.spamhaus.org",
+      "ipAddresses": {
+        "v4": [
+          "162.159.25.27"
+        ],
+        "v6": [
+          "2400:cb00:2049:1::a29f:191b"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "58b63a8129144e1a9f811fb524f0b18c-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "hideyoshi.spamhaus.com",
+      "unicodeName": "hideyoshi.spamhaus.com",
+      "objectClassName": "nameserver",
+      "handle": "dcb49ef469624423b60197b36236c77e-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "hideyoshi.spamhaus.net",
+      "unicodeName": "hideyoshi.spamhaus.net",
+      "objectClassName": "nameserver",
+      "handle": "43c6319aa6de4fc4b4fc01da30c8e213-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "musashi.spamhaus.com",
+      "unicodeName": "musashi.spamhaus.com",
+      "objectClassName": "nameserver",
+      "handle": "84fcf7d98204431286402e85f83d17d9-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "musashi.spamhaus.net",
+      "unicodeName": "musashi.spamhaus.net",
+      "objectClassName": "nameserver",
+      "handle": "52e6a2eed79e4516b56c24eabfa72fe2-LROR",
+      "status": [
+        "associated"
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false,
+    "maxSigLife": 1
+  },
+  "publicIds": [
+    {
+      "type": "IANA Registrar ID",
+      "identifier": "470"
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registry Domain ID"
+      },
+      "prePath": "$.handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Technical Contact"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Contact"
+      },
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain",
+  "status": [
+    "client delete prohibited",
+    "server delete prohibited",
+    "client transfer prohibited",
+    "server transfer prohibited",
+    "client update prohibited",
+    "server update prohibited"
+  ],
+  "events": [
+    {
+      "eventAction": "transfer",
+      "eventDate": "2020-12-17T10:52:24.16Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-10-01T11:03:57Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "1999-10-01T11:03:57.111Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-09-06T23:11:05.905Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:53.23Z"
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Spamhaus IP Holdings SLU"
+          ],
+          [
+            "adr",
+            {
+              "cc": "AD"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T17:50:53.23Z"
+        }
+      ]
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Nom-iq Ltd. dba COM LAUDE"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "470"
+        }
+      ],
+      "objectClassName": "entity",
+      "handle": "470",
+      "entities": [
+        {
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Hayath Hussein"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+44.2074218250"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@comlaude.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "objectClassName": "entity",
+          "handle": "57a90471552b4f119fd18fee91853110-LROR"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/entity/470",
+          "rel": "self",
+          "href": "https://rdap.publicinterestregistry.org/rdap/entity/470",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.comlaude.com/rdap/",
+          "rel": "about",
+          "href": "https://rdap.comlaude.com/rdap/",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/spamhaus.org",
+      "rel": "related",
+      "href": "https://rdap.comlaude.com/rdap/domain/spamhaus.org",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/spamhaus.org",
+      "rel": "self",
+      "href": "https://rdap.publicinterestregistry.org/rdap/domain/spamhaus.org",
+      "type": "application/rdap+json"
+    }
+  ]
+}

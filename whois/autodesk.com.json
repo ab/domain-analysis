@@ -1,0 +1,198 @@
+{
+  "objectClassName": "domain",
+  "handle": "2066863_DOMAIN_COM-VRSN",
+  "ldhName": "AUTODESK.COM",
+  "links": [
+    {
+      "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/AUTODESK.COM",
+      "rel": "self",
+      "href": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/AUTODESK.COM",
+      "type": "application\/rdap+json"
+    },
+    {
+      "value": "https:\/\/rdap.cscglobal.com\/dbs\/rdap-api\/v1\/domain\/AUTODESK.COM",
+      "rel": "related",
+      "href": "https:\/\/rdap.cscglobal.com\/dbs\/rdap-api\/v1\/domain\/AUTODESK.COM",
+      "type": "application\/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited",
+    "server delete prohibited",
+    "server transfer prohibited",
+    "server update prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "299",
+      "roles": [
+        "registrar"
+      ],
+      "links": [
+        {
+          "href": "http:\/\/cscdbs.com",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.cscglobal.com\/dbs\/rdap-api\/v1\/",
+          "rel": "about"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "299"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "CSC Corporate Domains, Inc."
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:8887802723"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "domainabuse@cscglobal.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "1989-08-03T04:00:00Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2034-08-02T04:00:00Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-07-29T16:41:17Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:44Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": true,
+    "dsData": [
+      {
+        "keyTag": 2624,
+        "algorithm": 13,
+        "digestType": 2,
+        "digest": "0898696F4BDF416C224DB441255FFB19F4B96886F93DE94C54DC94C9CA16AF92"
+      }
+    ]
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1192.AWSDNS-21.ORG"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-1869.AWSDNS-41.CO.UK"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-226.AWSDNS-28.COM"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "NS-528.AWSDNS-02.NET"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https:\/\/www.verisign.com\/domain-names\/registration-data-access-protocol\/terms-service\/index.xhtml",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/autodesk.com",
+          "rel": "terms-of-service"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https:\/\/icann.org\/epp"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/epp",
+          "type": "text\/html"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https:\/\/icann.org\/wicf"
+      ],
+      "links": [
+        {
+          "href": "https:\/\/icann.org\/wicf",
+          "type": "text\/html",
+          "value": "https:\/\/rdap.verisign.com\/com\/v1\/domain\/autodesk.com",
+          "rel": "help"
+        }
+      ]
+    }
+  ]
+}

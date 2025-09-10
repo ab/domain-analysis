@@ -1,0 +1,462 @@
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Public Interest Registry provides this RDAP service for informational purposes only, and to assist persons in obtaining information about or related to a domain name registration record. Public Interest Registry does not guarantee its accuracy. Users accessing the Public Interest Registry RDAP service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers and b) enable high volume, automated, electronic processes that send queries or data to the systems of Public Interest Registry or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Public Interest Registry RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data can be requested by submitting a request to WHOISrequest@pir.org. Public Interest Registry Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/3gppnetwork.org",
+          "rel": "terms-of-service",
+          "href": "https://thenew.org/org-people/about-pir/policies/",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/3gppnetwork.org",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/domain/3gppnetwork.org",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "ldhName": "3gppnetwork.org",
+  "unicodeName": "3gppnetwork.org",
+  "nameservers": [
+    {
+      "ldhName": "ns1.dnsimple.com",
+      "unicodeName": "ns1.dnsimple.com",
+      "objectClassName": "nameserver",
+      "handle": "be4dc65fecb14dd68da40d4f7abdfdb0-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns3.dnsimple.com",
+      "unicodeName": "ns3.dnsimple.com",
+      "objectClassName": "nameserver",
+      "handle": "bb5e7075ff0d49b7b8db086220269de8-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns4.dnsimple-edge.org",
+      "unicodeName": "ns4.dnsimple-edge.org",
+      "ipAddresses": {
+        "v4": [
+          "199.247.155.53"
+        ],
+        "v6": [
+          "2620:111:8007::53"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "6a86d272474c40f28e40862453520220-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns2.dnsimple-edge.net",
+      "unicodeName": "ns2.dnsimple-edge.net",
+      "objectClassName": "nameserver",
+      "handle": "f597ccda7be646bcb0a666ff97afc15a-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "nn-ac.3gppnetwork.org",
+      "unicodeName": "nn-ac.3gppnetwork.org",
+      "ipAddresses": {
+        "v4": [
+          "194.58.198.140"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "01cfd8185f504d5bbab15e363db18c86-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "nn-eu.3gppnetwork.org",
+      "unicodeName": "nn-eu.3gppnetwork.org",
+      "ipAddresses": {
+        "v4": [
+          "194.58.196.63"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "2cdf8c96b9934bd08ebad4442603d93d-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "nn-se.3gppnetwork.org",
+      "unicodeName": "nn-se.3gppnetwork.org",
+      "ipAddresses": {
+        "v4": [
+          "185.42.137.118"
+        ]
+      },
+      "objectClassName": "nameserver",
+      "handle": "7ce03b37d2054c248f7ca0093a47f0ed-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns1.1630167.cloudns.net",
+      "unicodeName": "ns1.1630167.cloudns.net",
+      "objectClassName": "nameserver",
+      "handle": "d1b8b0d6d37f4e90b44bb67b66b0aaa0-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns4.1630167.cloudns.uk",
+      "unicodeName": "ns4.1630167.cloudns.uk",
+      "objectClassName": "nameserver",
+      "handle": "d546154ac18b4649a5fe01b70561329a-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns2.1630167.cloudns.com",
+      "unicodeName": "ns2.1630167.cloudns.com",
+      "objectClassName": "nameserver",
+      "handle": "81efe97088b24587b787e1dc7b087b29-LROR",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "ns3.1630167.cloudns.net",
+      "unicodeName": "ns3.1630167.cloudns.net",
+      "objectClassName": "nameserver",
+      "handle": "f91e68e358db442184f672163d99e602-LROR",
+      "status": [
+        "associated"
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false,
+    "maxSigLife": 1
+  },
+  "publicIds": [
+    {
+      "type": "IANA Registrar ID",
+      "identifier": "2"
+    }
+  ],
+  "redacted": [
+    {
+      "name": {
+        "type": "Registry Domain ID"
+      },
+      "prePath": "$.handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Administrative Contact"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "description": "Technical Contact"
+      },
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Name"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='fn')][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Street"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][:3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant City"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][3]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "postPath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='adr')][3][5]",
+      "pathLang": "jsonpath",
+      "method": "emptyValue"
+    },
+    {
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='voice')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Fax"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[1].type=='fax')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    },
+    {
+      "name": {
+        "type": "Registrant Email"
+      },
+      "prePath": "$.entities[?(@.roles[0]=='registrant')].vcardArray[1][?(@[0]=='email')]",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain",
+  "status": [
+    "active"
+  ],
+  "events": [
+    {
+      "eventAction": "transfer",
+      "eventDate": "2013-03-17T02:40:08.669Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-05-15T13:35:38Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2002-05-15T13:35:38.669Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-05-12T14:44:54.897Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-09-10T17:50:49.057Z"
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "GSM Association"
+          ],
+          [
+            "adr",
+            {
+              "cc": "GB"
+            },
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        ]
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "title": "REDACTED",
+          "type": "object redacted due to authorization",
+          "description": [
+            "Some of the data in this object has been removed."
+          ]
+        }
+      ],
+      "events": [
+        {
+          "eventAction": "last update of RDAP database",
+          "eventDate": "2025-09-10T17:50:49.057Z"
+        }
+      ]
+    },
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Network Solutions, LLC"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "2"
+        }
+      ],
+      "objectClassName": "entity",
+      "handle": "2",
+      "entities": [
+        {
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "Jeffrey Neace"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.9046806694"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "domain.operations@web.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "objectClassName": "entity",
+          "handle": "72265cec0f8444d386ce827213edbab4-LROR"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.publicinterestregistry.org/rdap/entity/2",
+          "rel": "self",
+          "href": "https://rdap.publicinterestregistry.org/rdap/entity/2",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.networksolutions.com/rdap",
+          "rel": "about",
+          "href": "https://rdap.networksolutions.com/rdap",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/3gppnetwork.org",
+      "rel": "related",
+      "href": "https://rdap.networksolutions.com/rdap/domain/3gppnetwork.org",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.publicinterestregistry.org/rdap/domain/3gppnetwork.org",
+      "rel": "self",
+      "href": "https://rdap.publicinterestregistry.org/rdap/domain/3gppnetwork.org",
+      "type": "application/rdap+json"
+    }
+  ]
+}

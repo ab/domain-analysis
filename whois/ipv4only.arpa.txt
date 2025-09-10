@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IPV4ONLY.ARPA
+
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administration LLC
+address:      1000 N. West St.
+address:      Suite 1200
+address:      Wilmington Delaware 19801
+address:      United States
+
+contact:      administrative
+name:         Internet Architecture Board (IAB)
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administration LLC
+address:      1000 N. West St.
+address:      Suite 1200
+address:      Wilmington Delaware 19801
+address:      United States
+phone:        +1 510 492 4080
+fax-no:       +1 510 492 4001
+e-mail:       iab@iab.org
+
+contact:      technical
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles California 90094
+address:      US
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
+
+nserver:      A.IANA-SERVERS.NET 199.43.132.53 2001:500:8c::53
+nserver:      B.IANA-SERVERS.NET 199.43.133.53 2001:500:8d::53
+nserver:      C.IANA-SERVERS.NET 199.43.134.53 2001:500:8e::53
+nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89::53
+
+remarks:      This domain is administered as part of the .ARPA zone
+remarks:      management, described at https://iana.org/domains/arpa
+
+created:      2013-09-30
+changed:      2020-04-01
+source:       IANA
+
